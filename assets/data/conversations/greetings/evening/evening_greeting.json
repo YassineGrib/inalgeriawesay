@@ -1,0 +1,194 @@
+[
+  {
+    "id": "evening_greeting_standard_arabic",
+    "level": "beginner",
+    "language": "standard_arabic",
+    "title": "تحية المساء - العربية الفصحى",
+    "description": "تحية مسائية باللغة العربية الفصحى",
+    "scenario": "تحية شخص في المساء",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "مساء الخير. كيف هي الأمور؟",
+        "translation": "Good evening. How are things?"
+      },
+      {
+        "character": "person_b",
+        "text": "مساء النور. تمام التمام وأمورك؟",
+        "translation": "Good evening. Perfect and your affairs?"
+      },
+      {
+        "character": "person_a",
+        "text": "هادئة. هل نخرج الليلة للعشاء؟",
+        "translation": "Calm. Shall we go out tonight for dinner?"
+      },
+      {
+        "character": "person_b",
+        "text": "سيكون من الجيد.",
+        "translation": "That would be good"
+      }
+    ],
+    "tags": ["evening", "greeting", "good_evening"],
+    "backgroundImage": null
+  },
+  {
+    "id": "evening_greeting_amazigh",
+    "level": "beginner",
+    "language": "amazigh",
+    "title": "تحية المساء - الأمازيغية",
+    "description": "تحية مسائية باللغة الأمازيغية",
+    "scenario": "تحية شخص في المساء",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "Tameddit yelhan , amek ltant temsal?",
+        "translation": "Good evening, how are things?"
+      },
+      {
+        "character": "person_b",
+        "text": "Tameddit yelhan kullec d ayen yelhan yid-wen",
+        "translation": "Good evening, everything is good with you"
+      },
+      {
+        "character": "person_a",
+        "text": "Ssusmen ad nruḥ ad nečč imensi iḍ-a?",
+        "translation": "Quiet, shall we go eat dinner tonight?"
+      },
+      {
+        "character": "person_b",
+        "text": "Ad yili d ayen yelhan",
+        "translation": "It will be good"
+      }
+    ],
+    "tags": ["evening", "greeting", "good_evening"],
+    "backgroundImage": null
+  },
+  {
+    "id": "evening_greeting_northern_dialect",
+    "level": "beginner",
+    "language": "northern_dialect",
+    "title": "تحية المساء - الشمال الجزائري",
+    "description": "تحية مسائية باللهجة الشمالية الجزائرية",
+    "scenario": "تحية شخص في المساء في الشمال الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "مسا الخير. كيفاش الحالة لاباس؟",
+        "translation": "Good evening. How is the situation, are you fine?"
+      },
+      {
+        "character": "person_b",
+        "text": "مسا الخير. والله غير كلش ريڨلو ونت واش داير فيها؟",
+        "translation": "Good evening. By God everything is settled and you what are you doing?"
+      },
+      {
+        "character": "person_a",
+        "text": "الدعوة هانية. واش نخرجو فليل نتعشاو؟",
+        "translation": "Things are calm. Shall we go out at night to have dinner?"
+      },
+      {
+        "character": "person_b",
+        "text": "والله غير دير فيا مزية خو.",
+        "translation": "By God, just do me a favor brother"
+      }
+    ],
+    "tags": ["evening", "greeting", "good_evening"],
+    "backgroundImage": null
+  },
+  {
+    "id": "evening_greeting_western_dialect",
+    "level": "beginner",
+    "language": "western_dialect",
+    "title": "تحية المساء - الغرب الجزائري",
+    "description": "تحية مسائية باللهجة الغربية الجزائرية",
+    "scenario": "تحية شخص في المساء في الغرب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "مسا الخير. كيدايرة الحالة؟",
+        "translation": "Good evening. How is the situation?"
+      },
+      {
+        "character": "person_b",
+        "text": "مسا النور. غاية الغاية وأحوالك؟",
+        "translation": "Good evening. Very good and your affairs?"
+      },
+      {
+        "character": "person_a",
+        "text": "ماشية. نخرجوا نتعشاو الليلة؟",
+        "translation": "Going well. Shall we go out to have dinner tonight?"
+      },
+      {
+        "character": "person_b",
+        "text": "جات في وقتها.",
+        "translation": "It came at the right time"
+      }
+    ],
+    "tags": ["evening", "greeting", "good_evening"],
+    "backgroundImage": null
+  },
+  {
+    "id": "evening_greeting_eastern_dialect",
+    "level": "beginner",
+    "language": "eastern_dialect",
+    "title": "تحية المساء - الشرق الجزائري",
+    "description": "تحية مسائية باللهجة الشرقية الجزائرية",
+    "scenario": "تحية شخص في المساء في الشرق الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "مسا الخير. وش الأمور؟",
+        "translation": "Good evening. What are the matters?"
+      },
+      {
+        "character": "person_b",
+        "text": "مسا الخير. غايه ونت وش الدعوة عندك؟",
+        "translation": "Good evening. Good and you what's the situation with you?"
+      },
+      {
+        "character": "person_a",
+        "text": "أي ترولي. وش تخرج تتعشى ليوم؟",
+        "translation": "Yes, normal. What do you say we go out to have dinner today?"
+      },
+      {
+        "character": "person_b",
+        "text": "هايا مفروزة مالا.",
+        "translation": "Come on, it's decided, why not"
+      }
+    ],
+    "tags": ["evening", "greeting", "good_evening"],
+    "backgroundImage": null
+  },
+  {
+    "id": "evening_greeting_southern_dialect",
+    "level": "beginner",
+    "language": "southern_dialect",
+    "title": "تحية المساء - الجنوب الجزائري",
+    "description": "تحية مسائية باللهجة الجنوبية الجزائرية",
+    "scenario": "تحية شخص في المساء في الجنوب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "مسا لخير واش حوالك؟",
+        "translation": "Good evening, how are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "لباس ونت وش خبارك؟",
+        "translation": "I'm fine and you what's your news?"
+      },
+      {
+        "character": "person_a",
+        "text": "عادي تخرج اليوم نتعشو برا؟",
+        "translation": "Normal, shall we go out today to have dinner outside?"
+      },
+      {
+        "character": "person_b",
+        "text": "والله مادابيا. درت بالراي.",
+        "translation": "By God, why not. I agree with the idea"
+      }
+    ],
+    "tags": ["evening", "greeting", "good_evening"],
+    "backgroundImage": null
+  }
+]

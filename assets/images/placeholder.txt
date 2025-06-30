@@ -1,0 +1,31 @@
+# Images in this folder
+
+## Welcome Image
+- welcom-img.png - ✅ ADDED - Main welcome image displayed on the home screen
+
+## Background Images (Placeholders)
+- martyrs_memorial_background.jpg - Martyrs' Memorial with traditional tent and robot icon
+- market_algiers.jpg - Traditional market scene in Algiers
+- cafe_oran.jpg - Traditional café in Oran
+- tuareg_wedding.jpg - Traditional Tuareg wedding scene
+
+## Character Images
+- elderly_man_traditional.png - Elderly man in traditional Algerian clothes
+- elderly_woman_traditional.png - Elderly woman in traditional dress
+- robot_guide.png - Friendly robot character for guidance
+
+## Scientist Photos
+- ibn_khaldun.jpg - Portrait of Ibn Khaldun
+- ahmed_zabana.jpg - Photo of Ahmed Zabana
+- kateb_yacine.jpg - Photo of Kateb Yacine
+
+## Cultural Images
+- traditional_greeting.jpg - People greeting traditionally
+- tea_ceremony.jpg - Traditional tea ceremony
+- algerian_wedding.jpg - Traditional Algerian wedding celebration
+
+## UI Elements
+- algerian_flag_pattern.png - Algerian flag colors pattern
+- traditional_patterns.png - Traditional Algerian geometric patterns
+
+Note: These are placeholder references. In a real app, you would add actual image files here.

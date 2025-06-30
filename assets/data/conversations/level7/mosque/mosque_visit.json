@@ -1,0 +1,284 @@
+[
+  {
+    "id": "mosque_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في المسجد - العربية الفصحى",
+    "description": "محادثة في المسجد حول آداب الزيارة والثقافة الإسلامية",
+    "scenario": "زيارة المسجد والتعرف على الآداب الإسلامية والقيم الروحية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "السلام عليكم هل يمكنني الدخول إلى المسجد؟",
+        "translation": "Peace be upon you, can I enter the mosque?"
+      },
+      {
+        "character": "imam",
+        "text": "وعليكم السلام ورحمة الله وبركاته نعم بالتأكيد لكن يفضل أن تخلع حذاءك وترتدي ملابس محتشمة",
+        "translation": "And upon you peace and God's mercy and blessings, yes certainly, but it's preferable to remove your shoes and wear modest clothing"
+      },
+      {
+        "character": "tourist",
+        "text": "فهمت شكراً لقد شعرت بسلام كبير عند دخولي",
+        "translation": "I understand, thank you, I felt great peace when I entered"
+      },
+      {
+        "character": "imam",
+        "text": "بالطبع هو مكان للعبادة والطمأنينة نشعر فيه بالقرب من الله والسكينة الداخلية",
+        "translation": "Of course, it's a place of worship and tranquility where we feel closeness to God and inner peace"
+      },
+      {
+        "character": "tourist",
+        "text": "جميل جداً رأيت أن الناس يصلون في صفوف منتظمة هل لهذا معنى خاص؟",
+        "translation": "Very beautiful, I saw that people pray in organized rows, does this have a special meaning?"
+      },
+      {
+        "character": "imam",
+        "text": "نعم الصلاة في صفوف ترمز إلى المساواة والوحدة بين البشر فلا فرق بين غني أو فقير الجميع يقفون أمام الله بنفس التواضع",
+        "translation": "Yes, praying in rows symbolizes equality and unity among people, there's no difference between rich or poor, everyone stands before God with the same humility"
+      },
+      {
+        "character": "tourist",
+        "text": "يا للروعة لقد زاد احترامي وحبي للإسلام والمسلمين",
+        "translation": "How wonderful, my respect and love for Islam and Muslims has increased"
+      }
+    ],
+    "tags": ["mosque", "islam", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "mosque_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في المسجد - الأمازيغية",
+    "description": "محادثة في المسجد باللغة الأمازيغية",
+    "scenario": "زيارة المسجد والتعرف على الآداب الإسلامية والقيم الروحية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "Talwit fellawen zemreɣ ad kecmeɣ ɣer ujemaɛ?",
+        "translation": "Peace be upon you, can I enter the mosque?"
+      },
+      {
+        "character": "imam",
+        "text": "Talwit fellawen, rrehma d lbaraka n rebbi aɣelnaw ih, d ayen ibanen maca ilaq ad tekksed isebbaden-ik u ad telseḍ slḥeqq",
+        "translation": "Peace be upon you, God's mercy and blessings, yes certainly, but you should remove your shoes and dress modestly"
+      },
+      {
+        "character": "tourist",
+        "text": "Fehmeɣ tanemmirt hulfaɣ s talwit atas mi d-kecmeɣ",
+        "translation": "I understand, thank you, I felt great peace when I entered"
+      },
+      {
+        "character": "imam",
+        "text": "D ayen ibanen, d amkan n leɛbada ɣer rebbi yerna nesɛa lehna ndaxel",
+        "translation": "It's obvious, it's a place of worship to God and we have peace inside"
+      },
+      {
+        "character": "tourist",
+        "text": "Yecbeḥ aṭas ẓriɣ imdanen ttẓallan deg iḥirfan igerrzen ma yella aya yesɛa anamek uslig?",
+        "translation": "Very beautiful, I saw people praying in organized rows, does this have a special meaning?"
+      },
+      {
+        "character": "imam",
+        "text": "Ih tazallit s iḥirfa d azamul n tdukli d tdukli ger yimdanen ur yelli ara umgired gar yimeɣnasen neɣ imeɣnasen yal yiwen ibedd zdat rebbi s yiwen n iḥeqq",
+        "translation": "Yes, praying in rows is a symbol of unity and solidarity among people, there's no difference between rich or poor, everyone stands before God with the same humility"
+      },
+      {
+        "character": "tourist",
+        "text": "Acḥal d ayen igerrzen tayri-w d leqder-iw i Lislam d yinselmen nnernan",
+        "translation": "How wonderful, my love and respect for Islam and Muslims has increased"
+      }
+    ],
+    "tags": ["mosque", "islam", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "mosque_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في المسجد - الشمال الجزائري",
+    "description": "محادثة في المسجد باللهجة الشمالية الجزائرية",
+    "scenario": "زيارة المسجد والتعرف على الآداب الإسلامية والقيم الروحية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "السلام عليكم أسك نقدر ندخل للجامع؟",
+        "translation": "Peace be upon you, can I enter the mosque?"
+      },
+      {
+        "character": "imam",
+        "text": "وعليكم السلام والرحمة والباراكة تقدر أما نحي صباطك وألبس لبسة مستورة",
+        "translation": "And upon you peace, mercy and blessings, you can but remove your shoes and wear modest clothing"
+      },
+      {
+        "character": "tourist",
+        "text": "فهمتك تعيش حسيت بالراحة كي دخلت",
+        "translation": "I understood you, thank you, I felt comfortable when I entered"
+      },
+      {
+        "character": "imam",
+        "text": "حاجة باينة بلاصة ديال عبادة نتقربو فيها من ربي نحسو بالراحة والهدوء",
+        "translation": "It's obvious, a place of worship where we get close to our Lord, we feel comfort and tranquility"
+      },
+      {
+        "character": "tourist",
+        "text": "حاجة شابة شفت الناس يصلو في صفوف منظمين عندها سبب؟",
+        "translation": "Beautiful thing, I saw people praying in organized rows, is there a reason?"
+      },
+      {
+        "character": "imam",
+        "text": "ايه الصلاة في صف دل على المساواة بين الناس الغني والفقير وقع لجناس يوقفو قدام ربي متواضعين",
+        "translation": "Yes, praying in rows indicates equality among people, rich and poor, all people stand before our Lord humbly"
+      },
+      {
+        "character": "tourist",
+        "text": "واو زدت حبيت الإسلام والمسلمين",
+        "translation": "Wow, I loved Islam and Muslims even more"
+      }
+    ],
+    "tags": ["mosque", "islam", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "mosque_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في المسجد - الغرب الجزائري",
+    "description": "محادثة في المسجد باللهجة الغربية الجزائرية",
+    "scenario": "زيارة المسجد والتعرف على الآداب الإسلامية والقيم الروحية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام عليكم حمبوك نقد ندخل لجامع؟",
+        "translation": "Peace be upon you, please can I enter the mosque?"
+      },
+      {
+        "character": "imam",
+        "text": "واه تقد مي شاوالا اقلع صباطك واستر روحك",
+        "translation": "Yes, you can, but please remove your shoes and cover yourself"
+      },
+      {
+        "character": "tourist",
+        "text": "صحا فهمتك كي دخلت حسيت بوحد الراحة ولا",
+        "translation": "OK, I understood you, when I entered I felt some comfort"
+      },
+      {
+        "character": "imam",
+        "text": "واه مكان للعبادة غادي تريح فيه ونحسو بالسكينة فيه وفيه نتقربو ربي",
+        "translation": "Yes, a place of worship where you'll rest and we feel tranquility in it and in it we get close to our Lord"
+      },
+      {
+        "character": "tourist",
+        "text": "كي غاية شفت الناس يصلو في صفوف منظمة شامعناها؟",
+        "translation": "How good, I saw people praying in organized rows, what does it mean?"
+      },
+      {
+        "character": "imam",
+        "text": "الصلاة في صفوف معناها عند ربي قاع رانا كيف كيف صوا غني ولا فقير قاع نسجدوا متواضعين",
+        "translation": "Praying in rows means before our Lord we're all the same, whether rich or poor, we all prostrate humbly"
+      },
+      {
+        "character": "tourist",
+        "text": "كل يوم نزيد نبغي الإسلام والمسلمين ونقادرهم",
+        "translation": "Every day I love Islam and Muslims more and respect them"
+      }
+    ],
+    "tags": ["mosque", "islam", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "mosque_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في المسجد - الشرق الجزائري",
+    "description": "محادثة في المسجد باللهجة الشرقية الجزائرية",
+    "scenario": "زيارة المسجد والتعرف على الآداب الإسلامية والقيم الروحية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "السلام عليكم نجم ندخل للمسجد؟",
+        "translation": "Peace be upon you, can I enter the mosque?"
+      },
+      {
+        "character": "imam",
+        "text": "آي تنجم أما نحي صباطك والبس لبسة مستورة",
+        "translation": "Yes, you can, but remove your shoes and wear modest clothing"
+      },
+      {
+        "character": "tourist",
+        "text": "باهي فهمتك حسيت براحة كبيرة كي دخلت واو",
+        "translation": "Good, I understood you, I felt great comfort when I entered, wow"
+      },
+      {
+        "character": "imam",
+        "text": "آي فما الراحة والسكينة ماو بلاصة تع عبادة نتقربو فاها لربي",
+        "translation": "Yes, there's comfort and tranquility, it's a place of worship where we get close to our Lord"
+      },
+      {
+        "character": "tourist",
+        "text": "باهي ريت الناس يصلو في صفوف منظمة شمعناها؟",
+        "translation": "Good, I saw people praying in organized rows, what does it mean?"
+      },
+      {
+        "character": "imam",
+        "text": "آي هديكا معناها الناس الكل كيف كيف قدام ربي غني ولا فقير رانا نسجدو كل متواضعين",
+        "translation": "Yes, that means all people are the same before our Lord, rich or poor, we all prostrate humbly"
+      },
+      {
+        "character": "tourist",
+        "text": "مليحة خلاص زدت حبيت الإسلام والمسلمين",
+        "translation": "Good, I loved Islam and Muslims even more"
+      }
+    ],
+    "tags": ["mosque", "islam", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "mosque_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في المسجد - الجنوب الجزائري",
+    "description": "محادثة في المسجد باللهجة الجنوبية الجزائرية",
+    "scenario": "زيارة المسجد والتعرف على الآداب الإسلامية والقيم الروحية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "السلام عليكم الربي نطيق ندخل للجامع؟",
+        "translation": "Peace be upon you, please can I enter the mosque?"
+      },
+      {
+        "character": "imam",
+        "text": "وعليكم السلام والرحمة والباراكة ايه ادخل برك نح صباطك والبس لبسة مستورة",
+        "translation": "And upon you peace, mercy and blessings, yes enter, just remove your shoes and wear modest clothing"
+      },
+      {
+        "character": "tourist",
+        "text": "معليه فهمتك علابالك ريحت ياسر كي دخلت",
+        "translation": "No problem, I understood you, I felt very comfortable when I entered"
+      },
+      {
+        "character": "imam",
+        "text": "ايه باينة تلقى الراحة والهدوء مكان عبادة هدا نتقربو فيه من ربي",
+        "translation": "Yes, obviously you find comfort and tranquility, this is a place of worship where we get close to our Lord"
+      },
+      {
+        "character": "tourist",
+        "text": "زينة شفت الناس يصلو منظمين في صفوف واش معناها؟",
+        "translation": "Good, I saw people praying organized in rows, what does it mean?"
+      },
+      {
+        "character": "imam",
+        "text": "معناها كلنا عند ربي كيف كيف غني ولا فقير قاع نسجدو بنفس التواضع",
+        "translation": "It means we're all the same before our Lord, rich or poor, we all prostrate with the same humility"
+      },
+      {
+        "character": "tourist",
+        "text": "كل يوم نزيد نبغي الإسلام والمسلمين",
+        "translation": "Every day I love Islam and Muslims more"
+      }
+    ],
+    "tags": ["mosque", "islam", "culture"],
+    "backgroundImage": null
+  }
+]

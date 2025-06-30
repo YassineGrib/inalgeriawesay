@@ -1,0 +1,254 @@
+[
+  {
+    "id": "metro_station_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في محطة الميترو - العربية الفصحى",
+    "description": "محادثة في محطة الميترو لشراء التذاكر والتنقل",
+    "scenario": "شراء تذكرة ميترو والذهاب إلى ساحة الشهداء",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "هل يمكنك مساعدتي كيف اشتري تذكرة الميترو؟",
+        "translation": "Can you help me how to buy a metro ticket?"
+      },
+      {
+        "character": "helper",
+        "text": "بالطبع هل تريد تذكرة ذهاب فقط أم ذهاب وإياب؟",
+        "translation": "Of course, do you want a one-way ticket or round trip?"
+      },
+      {
+        "character": "passenger",
+        "text": "ذهاب فقط سأذهب إلى ساحة الشهداء",
+        "translation": "One-way only, I will go to Martyrs' Square"
+      },
+      {
+        "character": "helper",
+        "text": "اضغط هنا على الشاشة اختر تذكرة عادية ثم ادخل النقود أو استخدم البطاقة",
+        "translation": "Press here on the screen, choose a regular ticket, then insert money or use the card"
+      },
+      {
+        "character": "passenger",
+        "text": "شكرا لك الآن إلى أين أذهب للدخول؟",
+        "translation": "Thank you, now where do I go to enter?"
+      },
+      {
+        "character": "helper",
+        "text": "استخدم هذا الباب ضع التذكرة هنا في الماسح الضوئي وستفتح البوابة أتمنى لك وقت ممتع في الجزائر",
+        "translation": "Use this door, put the ticket here in the scanner and the gate will open, I wish you a pleasant time in Algeria"
+      }
+    ],
+    "tags": ["metro", "station", "ticket"],
+    "backgroundImage": null
+  },
+  {
+    "id": "metro_station_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في محطة الميترو - الأمازيغية",
+    "description": "محادثة في محطة الميترو لشراء التذاكر والتنقل باللغة الأمازيغية",
+    "scenario": "شراء تذكرة ميترو والذهاب إلى ساحة الشهداء",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "Tzemreḍ ad iyi-tɛiwneḍ amek ara sɣeɣ atiki n umiṭru?",
+        "translation": "Can you help me how to buy a metro ticket?"
+      },
+      {
+        "character": "helper",
+        "text": "D ayen ibanen tebɣiḍ tikci n yiwen ubrid neɣ tikci n tuɣalin?",
+        "translation": "Of course, do you want a one-way ticket or round trip?"
+      },
+      {
+        "character": "passenger",
+        "text": "Ad muḥeɣ kan ɣer umraḥ n yimeɣrasen",
+        "translation": "I will go only to Martyrs' Square"
+      },
+      {
+        "character": "helper",
+        "text": "Kned dagi deg usmel fren tikci n yal ass syen ssekcem idrimen neɣ takarḍa",
+        "translation": "Press here on the screen, choose a regular ticket, then insert money or card"
+      },
+      {
+        "character": "passenger",
+        "text": "Tanemmirt-ik tura anda ara ruḥeɣ ad kecmeɣ?",
+        "translation": "Thank you, now where do I go to enter?"
+      },
+      {
+        "character": "helper",
+        "text": "Seqdec tawwurt-a ssers tikett deg uskaner ad teldi tawwurt ad tesɛeddiḍ iweqt yelhan di lezzayer",
+        "translation": "Use this door, put the ticket in the scanner, the door will open, have a good time in Algeria"
+      }
+    ],
+    "tags": ["metro", "station", "ticket"],
+    "backgroundImage": null
+  },
+  {
+    "id": "metro_station_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في محطة الميترو - الشمال الجزائري",
+    "description": "محادثة في محطة الميترو باللهجة الشمالية الجزائرية",
+    "scenario": "شراء تذكرة ميترو والذهاب إلى ساحة الشهداء",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "تعيش تقدر تعاوني نشري تيكي تع الميترو",
+        "translation": "Can you help me buy a metro ticket?"
+      },
+      {
+        "character": "helper",
+        "text": "بيانسور حايب تروح وترجع ولا تروح برك",
+        "translation": "Of course, do you want to go and return or just go?"
+      },
+      {
+        "character": "passenger",
+        "text": "لا لا نروح لساحة الشوهادا",
+        "translation": "No, I'll go to Martyrs' Square"
+      },
+      {
+        "character": "helper",
+        "text": "كليكي هنايا على ليكرون وخير تيكي نورمال ودخل دراهم ولا لاكارت",
+        "translation": "Click here on the screen and choose normal ticket and insert money or card"
+      },
+      {
+        "character": "passenger",
+        "text": "يعيشك دك وين نطلع",
+        "translation": "Thank you, now where do I go up?"
+      },
+      {
+        "character": "helper",
+        "text": "قبالة عند الباب دير تيكي في سكانار دك يتحل ومرحبا بيك في الجزاير",
+        "translation": "Opposite at the door, put the ticket in the scanner, it will open, welcome to Algeria"
+      }
+    ],
+    "tags": ["metro", "station", "ticket"],
+    "backgroundImage": null
+  },
+  {
+    "id": "metro_station_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في محطة الميترو - الغرب الجزائري",
+    "description": "محادثة في محطة الميترو باللهجة الغربية الجزائرية",
+    "scenario": "شراء تذكرة ميترو والذهاب إلى ساحة الشهداء",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "حمبوك با نشري تيكي تقد تعاوني؟",
+        "translation": "Thank you, I want to buy a ticket, can you help me?"
+      },
+      {
+        "character": "helper",
+        "text": "واه ني هنا با تروح وترجع ولا غي تروح برك",
+        "translation": "Yes, here, do you want to go and return or just go?"
+      },
+      {
+        "character": "passenger",
+        "text": "لا با نروح لساحة الشوهادا",
+        "translation": "No, I want to go to Martyrs' Square"
+      },
+      {
+        "character": "helper",
+        "text": "صاي كليكي هنا وخير وير تيكي نورمال زمنبعد دخل دراهم ولا كارت",
+        "translation": "OK, click here and choose normal ticket, then insert money or card"
+      },
+      {
+        "character": "passenger",
+        "text": "صحيت ودك كيفاه تركب",
+        "translation": "Thank you, now how do I get on?"
+      },
+      {
+        "character": "helper",
+        "text": "روح نيشان عند الباب فوت التيكي في السكانار الباب غادي ينفتح ومرحبا بيك عدنا",
+        "translation": "Go straight to the door, pass the ticket through the scanner, the door will open, welcome to us"
+      }
+    ],
+    "tags": ["metro", "station", "ticket"],
+    "backgroundImage": null
+  },
+  {
+    "id": "metro_station_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في محطة الميترو - الشرق الجزائري",
+    "description": "محادثة في محطة الميترو باللهجة الشرقية الجزائرية",
+    "scenario": "شراء تذكرة ميترو والذهاب إلى ساحة الشهداء",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "تعيش خويا نحب نشتري تيكي تنجم تعاوني",
+        "translation": "Thank you brother, I want to buy a ticket, can you help me?"
+      },
+      {
+        "character": "helper",
+        "text": "آي بالطبيعة حاب تروح وتولي ولا تروح بركا",
+        "translation": "Yes naturally, do you want to go and return or just go?"
+      },
+      {
+        "character": "passenger",
+        "text": "اييه حاب نمشي لساحة الشوهادا",
+        "translation": "Yes, I want to go to Martyrs' Square"
+      },
+      {
+        "character": "helper",
+        "text": "باهي اكليكي هنا وختار تيكي نورمال بعديكا دخل لاكارت ولا صوارد",
+        "translation": "Good, click here and choose normal ticket, then insert card or money"
+      },
+      {
+        "character": "passenger",
+        "text": "ماغسي وتوا تعرفشي كيفاش تروح",
+        "translation": "Thank you, now don't you know how to go?"
+      },
+      {
+        "character": "helper",
+        "text": "آي امشي طول عند الباب وحط التيكي في السكانار وتو بش يتفتح ومرحبا",
+        "translation": "Yes, go straight to the door and put the ticket in the scanner and it will open, welcome"
+      }
+    ],
+    "tags": ["metro", "station", "ticket"],
+    "backgroundImage": null
+  },
+  {
+    "id": "metro_station_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في محطة الميترو - الجنوب الجزائري",
+    "description": "محادثة في محطة الميترو باللهجة الجنوبية الجزائرية",
+    "scenario": "شراء تذكرة ميترو والذهاب إلى ساحة الشهداء",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "باقي نشري تيكي طيق تعاوني",
+        "translation": "I want to buy a ticket, can you help me?"
+      },
+      {
+        "character": "helper",
+        "text": "اييه قولي تروح وترجع ولا تروح برك",
+        "translation": "Yes, tell me, do you want to go and return or just go?"
+      },
+      {
+        "character": "passenger",
+        "text": "نروح لساحة الشهداء",
+        "translation": "I'll go to Martyrs' Square"
+      },
+      {
+        "character": "helper",
+        "text": "صاحا اضغط هنا وخير تيكي عادي ودخل لاكارت ولا دراهم",
+        "translation": "OK, press here and choose regular ticket and insert card or money"
+      },
+      {
+        "character": "passenger",
+        "text": "صحيت وكيفاه نطلع",
+        "translation": "Thank you, how do I go up?"
+      },
+      {
+        "character": "helper",
+        "text": "روح طول بعد عند الباب فوت التيكي على السكانار دك يتفتح ومرحبا بيك في البلاد",
+        "translation": "Go straight to the door, pass the ticket on the scanner, it will open, welcome to the country"
+      }
+    ],
+    "tags": ["metro", "station", "ticket"],
+    "backgroundImage": null
+  }
+]

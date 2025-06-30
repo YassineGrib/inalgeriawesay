@@ -1,0 +1,254 @@
+[
+  {
+    "id": "phone_greeting_standard_arabic",
+    "level": "beginner",
+    "language": "standard_arabic",
+    "title": "التحية عبر الهاتف - العربية الفصحى",
+    "description": "تحية ومحادثة عبر الهاتف باللغة العربية الفصحى",
+    "scenario": "محادثة هاتفية",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "ألو مرحبا كيف حالك؟",
+        "translation": "Hello, how are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "ألو أهلا بخير اتصلت بك البارحة ولم ترد",
+        "translation": "Hello, welcome, I'm fine. I called you yesterday and you didn't answer"
+      },
+      {
+        "character": "person_a",
+        "text": "نعم نمت باكرا هل من جديد؟",
+        "translation": "Yes, I slept early. Is there anything new?"
+      },
+      {
+        "character": "person_b",
+        "text": "بالتأكيد هناك: متى نلتقي لأخبرك؟",
+        "translation": "Certainly there is: when shall we meet so I can tell you?"
+      },
+      {
+        "character": "person_a",
+        "text": "هل يناسبك الأحد؟",
+        "translation": "Does Sunday suit you?"
+      },
+      {
+        "character": "person_b",
+        "text": "نعم أنتظرك في بيتي.",
+        "translation": "Yes, I'll wait for you at my house"
+      }
+    ],
+    "tags": ["phone", "call", "telephone"],
+    "backgroundImage": null
+  },
+  {
+    "id": "phone_greeting_amazigh",
+    "level": "beginner",
+    "language": "amazigh",
+    "title": "التحية عبر الهاتف - الأمازيغية",
+    "description": "تحية ومحادثة عبر الهاتف باللغة الأمازيغية",
+    "scenario": "محادثة هاتفية",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "Allo , Azul amek I telliḍ?",
+        "translation": "Hello, how are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "Allo , Azul Ssawleɣ-de idelli ur d-terriḍ ara",
+        "translation": "Hello, I called you yesterday but you didn't answer"
+      },
+      {
+        "character": "person_a",
+        "text": "ih uɣaleɣ ṭṭseɣ Zik",
+        "translation": "Yes, I went to sleep early"
+      },
+      {
+        "character": "person_b",
+        "text": "S tidet yella mi ara nemlil akkenad ak-d-nini",
+        "translation": "Truly there is, when shall we meet so I can tell you?"
+      },
+      {
+        "character": "person_a",
+        "text": "is iwulmen-ak wass n lḥedd?",
+        "translation": "Does Sunday suit you?"
+      },
+      {
+        "character": "person_b",
+        "text": "ih la-ttṛažuɣ dez uxxam-iw",
+        "translation": "Yes, I'll wait for you at my house"
+      }
+    ],
+    "tags": ["phone", "call", "telephone"],
+    "backgroundImage": null
+  },
+  {
+    "id": "phone_greeting_northern_dialect",
+    "level": "beginner",
+    "language": "northern_dialect",
+    "title": "التحية عبر الهاتف - الشمال الجزائري",
+    "description": "تحية ومحادثة عبر الهاتف باللهجة الشمالية الجزائرية",
+    "scenario": "محادثة هاتفية في الشمال الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "ألو سلام هذي غيبة واش حوالك؟",
+        "translation": "Hello, peace, this is an absence, how are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "ألو لاباس زڨيتلك البارح بصح مرديتليش",
+        "translation": "Hello, I'm fine. I called you yesterday but you didn't answer me"
+      },
+      {
+        "character": "person_a",
+        "text": "ايه رقدت بكري كاش جديد؟",
+        "translation": "Yes, I slept early. Anything new?"
+      },
+      {
+        "character": "person_b",
+        "text": "كاين نتلاقاو ونعاودلك",
+        "translation": "There is, let's meet and I'll tell you again"
+      },
+      {
+        "character": "person_a",
+        "text": "صحا بالأحد يساعدك؟",
+        "translation": "Right, does Sunday help you?"
+      },
+      {
+        "character": "person_b",
+        "text": "وي نستناك جوز لدار",
+        "translation": "Yes, I'll wait for you inside the house"
+      }
+    ],
+    "tags": ["phone", "call", "telephone"],
+    "backgroundImage": null
+  },
+  {
+    "id": "phone_greeting_western_dialect",
+    "level": "beginner",
+    "language": "western_dialect",
+    "title": "التحية عبر الهاتف - الغرب الجزائري",
+    "description": "تحية ومحادثة عبر الهاتف باللهجة الغربية الجزائرية",
+    "scenario": "محادثة هاتفية في الغرب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "ألو سلام هادي غيبه كيدايرة",
+        "translation": "Hello, peace, this is an absence, how are you doing?"
+      },
+      {
+        "character": "person_b",
+        "text": "ألو غاية ها عيطتلك مريبونديتش",
+        "translation": "Hello, I'm fine. I called you but you didn't answer"
+      },
+      {
+        "character": "person_a",
+        "text": "واه رقدت بكري كاش جديد.",
+        "translation": "Yes, I slept early. Anything new?"
+      },
+      {
+        "character": "person_b",
+        "text": "غي هو نتلاقو ونخبرك.",
+        "translation": "Just that, let's meet and I'll tell you"
+      },
+      {
+        "character": "person_a",
+        "text": "صحا شا رايك الأحد؟",
+        "translation": "Right, what do you think about Sunday?"
+      },
+      {
+        "character": "person_b",
+        "text": "صاي نقارع لك في الدّار.",
+        "translation": "Okay, I'll wait for you at home"
+      }
+    ],
+    "tags": ["phone", "call", "telephone"],
+    "backgroundImage": null
+  },
+  {
+    "id": "phone_greeting_eastern_dialect",
+    "level": "beginner",
+    "language": "eastern_dialect",
+    "title": "التحية عبر الهاتف - الشرق الجزائري",
+    "description": "تحية ومحادثة عبر الهاتف باللهجة الشرقية الجزائرية",
+    "scenario": "محادثة هاتفية في الشرق الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "الو عسلامة",
+        "translation": "Hello, peace"
+      },
+      {
+        "character": "person_b",
+        "text": "أهلاا لباس راني عيطتلك البارح ومريبوونديتلييش",
+        "translation": "Hello, I'm fine. I called you yesterday and you didn't answer me"
+      },
+      {
+        "character": "person_a",
+        "text": "آي رقدت بكري فما جديد؟",
+        "translation": "Yes, I slept early. Is there anything new?"
+      },
+      {
+        "character": "person_b",
+        "text": "آي فما نتلاقاو ياخي",
+        "translation": "Yes, there is, let's meet"
+      },
+      {
+        "character": "person_a",
+        "text": "آيناسبك الأحد",
+        "translation": "Does Sunday suit you?"
+      },
+      {
+        "character": "person_b",
+        "text": "إيجا نستناك في بيتي",
+        "translation": "Come, I'll wait for you at my house"
+      }
+    ],
+    "tags": ["phone", "call", "telephone"],
+    "backgroundImage": null
+  },
+  {
+    "id": "phone_greeting_southern_dialect",
+    "level": "beginner",
+    "language": "southern_dialect",
+    "title": "التحية عبر الهاتف - الجنوب الجزائري",
+    "description": "تحية ومحادثة عبر الهاتف باللهجة الجنوبية الجزائرية",
+    "scenario": "محادثة هاتفية في الجنوب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "الو واش راك؟",
+        "translation": "Hello, how are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "آلو أهلا لباس راني عيطتلك البارح ومرديتليش",
+        "translation": "Hello, welcome, I'm fine. I called you yesterday and you didn't answer me"
+      },
+      {
+        "character": "person_a",
+        "text": "اييه رقدت بكري كش جديد؟",
+        "translation": "Yes, I slept early. Anything new?"
+      },
+      {
+        "character": "person_b",
+        "text": "باينه كاين نتلاقو ونڨولك",
+        "translation": "Obviously there is, let's meet and I'll tell you"
+      },
+      {
+        "character": "person_a",
+        "text": "يساعدك الأحد",
+        "translation": "Does Sunday help you?"
+      },
+      {
+        "character": "person_b",
+        "text": "اييه نستناك في الدار",
+        "translation": "Yes, I'll wait for you at home"
+      }
+    ],
+    "tags": ["phone", "call", "telephone"],
+    "backgroundImage": null
+  }
+]

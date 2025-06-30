@@ -1,0 +1,244 @@
+[
+  {
+    "id": "butcher_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في محل بيع اللحوم - العربية الفصحى",
+    "description": "محادثة في محل بيع اللحوم لشراء اللحم الطازج",
+    "scenario": "شراء لحم طازج والتعرف على السلالات المحلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "السلام عليكم هل عندك لحم طازج اليوم؟",
+        "translation": "Peace be upon you, do you have fresh meat today?"
+      },
+      {
+        "character": "butcher",
+        "text": "وعليكم السلام نعم لدينا لحم البقر غنم دجاج ومختلف الأسماك ماذا تريد؟",
+        "translation": "And upon you peace, yes we have beef, lamb, chicken and various fish, what do you want?"
+      },
+      {
+        "character": "customer",
+        "text": "أريد كيلو لحم غنم من فضلك",
+        "translation": "I want a kilo of lamb please"
+      },
+      {
+        "character": "butcher",
+        "text": "لدينا لحم جيد من أجود سلالة في الجزائر أولاد جلال المتواجد في ولاية الجلفة لن تجد مثل طعمه",
+        "translation": "We have good meat from the finest breed in Algeria, Ouled Djellal, found in Djelfa province, you won't find taste like it"
+      },
+      {
+        "character": "customer",
+        "text": "هذا رائع سأجربه وأخبرك، كم السعر؟",
+        "translation": "This is great, I'll try it and tell you, what's the price?"
+      },
+      {
+        "character": "butcher",
+        "text": "حاضر المجموع 3000 دينار يومك سعيد",
+        "translation": "Ready, the total is 3000 dinars, have a happy day"
+      }
+    ],
+    "tags": ["butcher", "meat", "local"],
+    "backgroundImage": null
+  },
+  {
+    "id": "butcher_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في محل بيع اللحوم - الأمازيغية",
+    "description": "محادثة في محل بيع اللحوم باللغة الأمازيغية",
+    "scenario": "شراء لحم طازج والتعرف على السلالات المحلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "Talwit fellawen ass-a tesɛam aksum amaynut?",
+        "translation": "Peace be upon you, do you have fresh meat today?"
+      },
+      {
+        "character": "butcher",
+        "text": "Talwit fellawen ih nesɛa aksum n imai n yizimer n uyaẓiḍ d waṭas n yiselman akken tebɣam",
+        "translation": "Peace be upon you, yes we have beef, lamb, chicken and many fish as you like"
+      },
+      {
+        "character": "customer",
+        "text": "Bɣiɣ kilu n yizimer ɛafak",
+        "translation": "I want a kilo of lamb please"
+      },
+      {
+        "character": "butcher",
+        "text": "Nesɛa aksum yelhan seg ssenf igerrzen akk deg Lezzayer Ould Jalal yezga-d deg uwanak n Djelfa ur d-ttafeḍ ara aẓar am netta",
+        "translation": "We have good meat from the finest breed in Algeria, Ould Jalal, located in Djelfa region, you won't find taste like it"
+      },
+      {
+        "character": "customer",
+        "text": "Wagi d ameqqran ad t-ɛerdeɣ ad ak-d-iniɣ acḥal ssuma-s?",
+        "translation": "This is great, I'll try it and tell you, what's its price?"
+      },
+      {
+        "character": "butcher",
+        "text": "Azul d 3000 n yidinaren ass yelhan",
+        "translation": "Ready, 3000 dinars, have a good day"
+      }
+    ],
+    "tags": ["butcher", "meat", "local"],
+    "backgroundImage": null
+  },
+  {
+    "id": "butcher_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في محل بيع اللحوم - الشمال الجزائري",
+    "description": "محادثة في محل بيع اللحوم باللهجة الشمالية الجزائرية",
+    "scenario": "شراء لحم طازج والتعرف على السلالات المحلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام كاين لحم جديد تع ليوما؟",
+        "translation": "Hello, is there fresh meat today?"
+      },
+      {
+        "character": "butcher",
+        "text": "سلام وي كاين لحم البقري غنمي الجاج والحوت كيما تحب",
+        "translation": "Hello yes, there's beef, lamb, chicken and fish as you like"
+      },
+      {
+        "character": "customer",
+        "text": "عطيلي كيلو غنمي تعيش",
+        "translation": "Give me a kilo of lamb, thank you"
+      },
+      {
+        "character": "butcher",
+        "text": "عدنا لحم مليح تع ولاد جلال في الجلفة هو المايوغ مكاش كيفو",
+        "translation": "We have good meat from Ouled Djellal in Djelfa, it's the best, there's nothing like it"
+      },
+      {
+        "character": "customer",
+        "text": "حاجة مليحة نجربو ونقولك، شحال؟",
+        "translation": "Good thing, I'll try it and tell you, how much?"
+      },
+      {
+        "character": "butcher",
+        "text": "داكور 3000 دينار نهارك مبروك",
+        "translation": "OK, 3000 dinars, blessed day"
+      }
+    ],
+    "tags": ["butcher", "meat", "local"],
+    "backgroundImage": null
+  },
+  {
+    "id": "butcher_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في محل بيع اللحوم - الغرب الجزائري",
+    "description": "محادثة في محل بيع اللحوم باللهجة الغربية الجزائرية",
+    "scenario": "شراء لحم طازج والتعرف على السلالات المحلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام كاين لحم جديد تع ليوم؟",
+        "translation": "Hello, is there fresh meat today?"
+      },
+      {
+        "character": "butcher",
+        "text": "عنا لحم تع الجلفة ولاد جلال هو الشباب قاع في دزاير بنة وجودة",
+        "translation": "We have meat from Djelfa, Ouled Djellal, it's the best in Algeria, quality and goodness"
+      },
+      {
+        "character": "customer",
+        "text": "أيا غاية نجربه ونقولك، شحال؟",
+        "translation": "Yes, good, I'll try it and tell you, how much?"
+      },
+      {
+        "character": "butcher",
+        "text": "3000 دينار تفضل ونهارك مبروك",
+        "translation": "3000 dinars, here you go and blessed day"
+      }
+    ],
+    "tags": ["butcher", "meat", "local"],
+    "backgroundImage": null
+  },
+  {
+    "id": "butcher_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في محل بيع اللحوم - الشرق الجزائري",
+    "description": "محادثة في محل بيع اللحوم باللهجة الشرقية الجزائرية",
+    "scenario": "شراء لحم طازج والتعرف على السلالات المحلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "عالسلامة فما لحم جديد متاع ليوم؟",
+        "translation": "Hello, is there fresh meat today?"
+      },
+      {
+        "character": "butcher",
+        "text": "آي فما الغنمي البقري الجاج الحوت بكل شنو تحب؟",
+        "translation": "Yes, there's lamb, beef, chicken, fish, whatever you like?"
+      },
+      {
+        "character": "customer",
+        "text": "هاتلي كيلو غنمي",
+        "translation": "Bring me a kilo of lamb"
+      },
+      {
+        "character": "butcher",
+        "text": "باهي فما من الجلفة متاع أولاد جلال كعبة خلاه مكاش كيفو",
+        "translation": "Good, there's from Djelfa, Ouled Djellal breed, please, there's nothing like it"
+      },
+      {
+        "character": "customer",
+        "text": "باهي هاني نجربو ونقولك، بقداه؟",
+        "translation": "Good, I'll try it and tell you, how much?"
+      },
+      {
+        "character": "butcher",
+        "text": "3000 دينار بصحتك ونهارك مبروك",
+        "translation": "3000 dinars, to your health and blessed day"
+      }
+    ],
+    "tags": ["butcher", "meat", "local"],
+    "backgroundImage": null
+  },
+  {
+    "id": "butcher_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في محل بيع اللحوم - الجنوب الجزائري",
+    "description": "محادثة في محل بيع اللحوم باللهجة الجنوبية الجزائرية",
+    "scenario": "شراء لحم طازج والتعرف على السلالات المحلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "السلام كاين لحم جديد تع ليوم وا",
+        "translation": "Hello, is there fresh meat today?"
+      },
+      {
+        "character": "butcher",
+        "text": "اييه كاين الغنمي، تع البقر الدجاج والحوت ونت واش تبقي؟",
+        "translation": "Yes, there's lamb, beef, chicken and fish, what do you want?"
+      },
+      {
+        "character": "customer",
+        "text": "عطيني كيلو غنمي",
+        "translation": "Give me a kilo of lamb"
+      },
+      {
+        "character": "butcher",
+        "text": "صحا هذا تع الجلفة ولاد جلال السلالة المخيرة في البلاد",
+        "translation": "OK, this is from Djelfa, Ouled Djellal, the chosen breed in the country"
+      },
+      {
+        "character": "customer",
+        "text": "نجربو ونردلك الخبر، شحال؟",
+        "translation": "I'll try it and give you the news, how much?"
+      },
+      {
+        "character": "butcher",
+        "text": "3000 دينار نهارك زين",
+        "translation": "3000 dinars, have a good day"
+      }
+    ],
+    "tags": ["butcher", "meat", "local"],
+    "backgroundImage": null
+  }
+]

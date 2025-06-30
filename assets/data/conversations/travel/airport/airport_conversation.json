@@ -1,0 +1,344 @@
+[
+  {
+    "id": "airport_standard_arabic",
+    "level": "intermediate",
+    "language": "standard_arabic",
+    "title": "إجراءات المطار والتسجيل - العربية الفصحى",
+    "description": "محادثة إجراءات المطار والجمارك باللغة العربية الفصحى",
+    "scenario": "إجراءات المطار والتسجيل مع الجمارك",
+    "dialogue": [
+      {
+        "character": "customs_officer",
+        "text": "مرحبا بك جواز سفرك من فضلك",
+        "translation": "Welcome, your passport please"
+      },
+      {
+        "character": "traveler",
+        "text": "تفضل",
+        "translation": "Here you go"
+      },
+      {
+        "character": "customs_officer",
+        "text": "ما سبب زيارتك؟",
+        "translation": "What is the reason for your visit?"
+      },
+      {
+        "character": "traveler",
+        "text": "للسياحة",
+        "translation": "For tourism"
+      },
+      {
+        "character": "customs_officer",
+        "text": "كم ستبقى في البلد؟",
+        "translation": "How long will you stay in the country?"
+      },
+      {
+        "character": "traveler",
+        "text": "سأبقى لمدة شهر",
+        "translation": "I will stay for a month"
+      },
+      {
+        "character": "customs_officer",
+        "text": "هل لديك شيء لتصرح عنه؟",
+        "translation": "Do you have anything to declare?"
+      },
+      {
+        "character": "traveler",
+        "text": "لا لا أحمل أي شيء يستوجب التصريح",
+        "translation": "No, I don't carry anything that requires declaration"
+      },
+      {
+        "character": "customs_officer",
+        "text": "حسنا، مرحبا بك في الجزائر",
+        "translation": "Good, welcome to Algeria"
+      }
+    ],
+    "tags": ["airport", "customs", "travel"],
+    "backgroundImage": null
+  },
+  {
+    "id": "airport_amazigh",
+    "level": "intermediate",
+    "language": "amazigh",
+    "title": "إجراءات المطار والتسجيل - الأمازيغية",
+    "description": "محادثة إجراءات المطار والجمارك باللغة الأمازيغية",
+    "scenario": "إجراءات المطار والتسجيل مع الجمارك",
+    "dialogue": [
+      {
+        "character": "customs_officer",
+        "text": "Ansuf yis-k ɛafak apasyur-ik",
+        "translation": "Welcome, your passport please"
+      },
+      {
+        "character": "traveler",
+        "text": "ɛawen iman-nwen",
+        "translation": "Here you go"
+      },
+      {
+        "character": "customs_officer",
+        "text": "d acu i d ssebba n tirza-inek?",
+        "translation": "What is the reason for your visit?"
+      },
+      {
+        "character": "traveler",
+        "text": "i amerrit",
+        "translation": "For tourism"
+      },
+      {
+        "character": "customs_officer",
+        "text": "Achal ara tes qimeḍ di tmurt?",
+        "translation": "How long will you stay in the country?"
+      },
+      {
+        "character": "traveler",
+        "text": "A d qqimeɣ aggur",
+        "translation": "I will stay for a month"
+      },
+      {
+        "character": "customs_officer",
+        "text": "Tesɛiḍ kra ara d-tessekneḍ?",
+        "translation": "Do you have anything to declare?"
+      },
+      {
+        "character": "traveler",
+        "text": "Ala ur ttawiɣ ara kra iḥwaǧen aberreḥ",
+        "translation": "No, I don't carry anything that requires declaration"
+      },
+      {
+        "character": "customs_officer",
+        "text": "Ansuf yis-wen s lezzayer",
+        "translation": "Welcome to Algeria"
+      }
+    ],
+    "tags": ["airport", "customs", "travel"],
+    "backgroundImage": null
+  },
+  {
+    "id": "airport_northern_dialect",
+    "level": "intermediate",
+    "language": "northern_dialect",
+    "title": "إجراءات المطار والتسجيل - الشمال الجزائري",
+    "description": "محادثة إجراءات المطار والجمارك باللهجة الشمالية الجزائرية",
+    "scenario": "إجراءات المطار والتسجيل مع الجمارك",
+    "dialogue": [
+      {
+        "character": "customs_officer",
+        "text": "مرحبا بيك الباسبور ديالك تعيش",
+        "translation": "Welcome, your passport please"
+      },
+      {
+        "character": "traveler",
+        "text": "تفضل",
+        "translation": "Here you go"
+      },
+      {
+        "character": "customs_officer",
+        "text": "وشنو سبب الزيارة",
+        "translation": "What is the reason for your visit?"
+      },
+      {
+        "character": "traveler",
+        "text": "سياحة",
+        "translation": "Tourism"
+      },
+      {
+        "character": "customs_officer",
+        "text": "شحال راح تبقى في البلاد",
+        "translation": "How long will you stay in the country?"
+      },
+      {
+        "character": "traveler",
+        "text": "رح نبقى شهر",
+        "translation": "I will stay for a month"
+      },
+      {
+        "character": "customs_officer",
+        "text": "عندك عفسة تصرح بيها",
+        "translation": "Do you have anything to declare?"
+      },
+      {
+        "character": "traveler",
+        "text": "لا لا مانيش جايب عفسة نصرح بيها",
+        "translation": "No, I don't have anything to declare"
+      },
+      {
+        "character": "customs_officer",
+        "text": "داكوغ مرحبا بيك في الدزاير",
+        "translation": "Good, welcome to Algeria"
+      }
+    ],
+    "tags": ["airport", "customs", "travel"],
+    "backgroundImage": null
+  },
+  {
+    "id": "airport_western_dialect",
+    "level": "intermediate",
+    "language": "western_dialect",
+    "title": "إجراءات المطار والتسجيل - الغرب الجزائري",
+    "description": "محادثة إجراءات المطار والجمارك باللهجة الغربية الجزائرية",
+    "scenario": "إجراءات المطار والتسجيل مع الجمارك",
+    "dialogue": [
+      {
+        "character": "customs_officer",
+        "text": "مرحبا الباسبور حمبوك",
+        "translation": "Welcome, your passport please"
+      },
+      {
+        "character": "traveler",
+        "text": "هاك",
+        "translation": "Here you go"
+      },
+      {
+        "character": "customs_officer",
+        "text": "شاوالا سبب الزيارة",
+        "translation": "What is the reason for your visit?"
+      },
+      {
+        "character": "traveler",
+        "text": "سياحة",
+        "translation": "Tourism"
+      },
+      {
+        "character": "customs_officer",
+        "text": "شحال غادي تڨعد",
+        "translation": "How long will you stay?"
+      },
+      {
+        "character": "traveler",
+        "text": "غادي نڨعد شهر",
+        "translation": "I will stay for a month"
+      },
+      {
+        "character": "customs_officer",
+        "text": "عندك حاجة تصرح بيها",
+        "translation": "Do you have anything to declare?"
+      },
+      {
+        "character": "traveler",
+        "text": "لا ماني رافد والوا باه نصرح",
+        "translation": "No, I don't have anything to declare"
+      },
+      {
+        "character": "customs_officer",
+        "text": "أيا غاية مرحبا بيك في الدزاير",
+        "translation": "Good, welcome to Algeria"
+      }
+    ],
+    "tags": ["airport", "customs", "travel"],
+    "backgroundImage": null
+  },
+  {
+    "id": "airport_eastern_dialect",
+    "level": "intermediate",
+    "language": "eastern_dialect",
+    "title": "إجراءات المطار والتسجيل - الشرق الجزائري",
+    "description": "محادثة إجراءات المطار والجمارك باللهجة الشرقية الجزائرية",
+    "scenario": "إجراءات المطار والتسجيل مع الجمارك",
+    "dialogue": [
+      {
+        "character": "customs_officer",
+        "text": "مرحبا الباسبور تيعك هاتو",
+        "translation": "Welcome, bring your passport"
+      },
+      {
+        "character": "traveler",
+        "text": "هاك",
+        "translation": "Here you go"
+      },
+      {
+        "character": "customs_officer",
+        "text": "وعلاه جيت وشي هو سبب الزيارة",
+        "translation": "Why did you come, what is the reason for your visit?"
+      },
+      {
+        "character": "traveler",
+        "text": "سياحة",
+        "translation": "Tourism"
+      },
+      {
+        "character": "customs_officer",
+        "text": "قداه راح تبقى في البلاد",
+        "translation": "How long will you stay in the country?"
+      },
+      {
+        "character": "traveler",
+        "text": "شهر برك",
+        "translation": "Just a month"
+      },
+      {
+        "character": "customs_officer",
+        "text": "عندك حاجة تصرح علاها",
+        "translation": "Do you have anything to declare?"
+      },
+      {
+        "character": "traveler",
+        "text": "لا مفماش علاه تصرح",
+        "translation": "No, there's nothing to declare"
+      },
+      {
+        "character": "customs_officer",
+        "text": "ملاحة مرحبا بيك في الدزاير",
+        "translation": "Good, welcome to Algeria"
+      }
+    ],
+    "tags": ["airport", "customs", "travel"],
+    "backgroundImage": null
+  },
+  {
+    "id": "airport_southern_dialect",
+    "level": "intermediate",
+    "language": "southern_dialect",
+    "title": "إجراءات المطار والتسجيل - الجنوب الجزائري",
+    "description": "محادثة إجراءات المطار والجمارك باللهجة الجنوبية الجزائرية",
+    "scenario": "إجراءات المطار والتسجيل مع الجمارك",
+    "dialogue": [
+      {
+        "character": "customs_officer",
+        "text": "السلام عليكم الباسبور تاعك من فضلك",
+        "translation": "Peace be upon you, your passport please"
+      },
+      {
+        "character": "traveler",
+        "text": "تفضل",
+        "translation": "Here you go"
+      },
+      {
+        "character": "customs_officer",
+        "text": "علا واه جيت",
+        "translation": "Why did you come?"
+      },
+      {
+        "character": "traveler",
+        "text": "سياحة",
+        "translation": "Tourism"
+      },
+      {
+        "character": "customs_officer",
+        "text": "شحال تڨعد في البلاد",
+        "translation": "How long will you stay in the country?"
+      },
+      {
+        "character": "traveler",
+        "text": "شهر",
+        "translation": "A month"
+      },
+      {
+        "character": "customs_officer",
+        "text": "راك هاز حاجة تصرح عليها",
+        "translation": "Are you carrying anything to declare?"
+      },
+      {
+        "character": "traveler",
+        "text": "والوا مانيش رافد علا واه نصرح",
+        "translation": "Nothing, I'm not carrying anything to declare"
+      },
+      {
+        "character": "customs_officer",
+        "text": "مريڨلة مرحبا بيك في الدزاير",
+        "translation": "Good, welcome to Algeria"
+      }
+    ],
+    "tags": ["airport", "customs", "travel"],
+    "backgroundImage": null
+  }
+]

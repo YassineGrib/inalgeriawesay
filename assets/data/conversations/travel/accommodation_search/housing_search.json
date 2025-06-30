@@ -1,0 +1,314 @@
+[
+  {
+    "id": "accommodation_search_standard_arabic",
+    "level": "intermediate",
+    "language": "standard_arabic",
+    "title": "البحث عن سكن - العربية الفصحى",
+    "description": "محادثة البحث عن شقة للإيجار باللغة العربية الفصحى",
+    "scenario": "البحث عن شقة للإيجار مع وكيل عقاري",
+    "dialogue": [
+      {
+        "character": "tenant",
+        "text": "مرحبا أبحث عن شقة للإيجار",
+        "translation": "Hello, I'm looking for an apartment to rent"
+      },
+      {
+        "character": "agent",
+        "text": "ما الميزانية التي حددتها؟",
+        "translation": "What budget have you set?"
+      },
+      {
+        "character": "tenant",
+        "text": "أريد شقة لا تتجاوز 10000 دينار شهريا",
+        "translation": "I want an apartment that doesn't exceed 10,000 dinars monthly"
+      },
+      {
+        "character": "agent",
+        "text": "هل تفضل منطقة معينة؟",
+        "translation": "Do you prefer a specific area?"
+      },
+      {
+        "character": "tenant",
+        "text": "نعم أريد أن تكون قريبة من وسط المدينة",
+        "translation": "Yes, I want it to be close to the city center"
+      },
+      {
+        "character": "agent",
+        "text": "لدي شقة تناسبك هل تريد رؤيتها؟",
+        "translation": "I have an apartment that suits you, do you want to see it?"
+      },
+      {
+        "character": "tenant",
+        "text": "نعم متى يمكنني زيارتها؟",
+        "translation": "Yes, when can I visit it?"
+      },
+      {
+        "character": "agent",
+        "text": "اليوم بعد الظهر انتظرك",
+        "translation": "Today afternoon, I'll wait for you"
+      }
+    ],
+    "tags": ["accommodation", "housing", "search"],
+    "backgroundImage": null
+  },
+  {
+    "id": "accommodation_search_amazigh",
+    "level": "intermediate",
+    "language": "amazigh",
+    "title": "البحث عن سكن - الأمازيغية",
+    "description": "محادثة البحث عن شقة للإيجار باللغة الأمازيغية",
+    "scenario": "البحث عن شقة للإيجار مع وكيل عقاري",
+    "dialogue": [
+      {
+        "character": "tenant",
+        "text": "Azul, ttnadiɣ ɣef yiwen n uxxam ad-t-kerreɣ",
+        "translation": "Hello, I'm looking for a house to rent"
+      },
+      {
+        "character": "agent",
+        "text": "D acu n tedrimt i d-tesbeddeḍ?",
+        "translation": "What budget have you set?"
+      },
+      {
+        "character": "tenant",
+        "text": "Bɣiɣ apartment ur yettaf ara 10000 idinaren i wazzur",
+        "translation": "I want an apartment that doesn't exceed 10,000 dinars per month"
+      },
+      {
+        "character": "agent",
+        "text": "Tḥemmleḍ tamnaɣt s timmad-is?",
+        "translation": "Do you prefer a specific area?"
+      },
+      {
+        "character": "tenant",
+        "text": "Ih, bɣiɣ ad yili qrib ɣer tlemmast n temdint",
+        "translation": "Yes, I want it to be close to the city center"
+      },
+      {
+        "character": "agent",
+        "text": "Sɛiɣ axxam i k-iwelmen tebɣiḍ ad t-twaliḍ?",
+        "translation": "I have a house that suits you, do you want to see it?"
+      },
+      {
+        "character": "tenant",
+        "text": "Ih melmi zemreɣ ad t-ẓreɣ?",
+        "translation": "Yes, when can I see it?"
+      },
+      {
+        "character": "agent",
+        "text": "Ass-a tameddit la k-ttṛajuɣ",
+        "translation": "Today afternoon, I'll wait for you"
+      }
+    ],
+    "tags": ["accommodation", "housing", "search"],
+    "backgroundImage": null
+  },
+  {
+    "id": "accommodation_search_northern_dialect",
+    "level": "intermediate",
+    "language": "northern_dialect",
+    "title": "البحث عن سكن - الشمال الجزائري",
+    "description": "محادثة البحث عن شقة للإيجار باللهجة الشمالية الجزائرية",
+    "scenario": "البحث عن شقة للإيجار مع وكيل عقاري",
+    "dialogue": [
+      {
+        "character": "tenant",
+        "text": "سلام خاصني دار للكرية",
+        "translation": "Hello, I need a house to rent"
+      },
+      {
+        "character": "agent",
+        "text": "شحال دراهمك",
+        "translation": "How much is your money?"
+      },
+      {
+        "character": "tenant",
+        "text": "مادابيا متفوتش 10000 دينار للشهر",
+        "translation": "My budget doesn't exceed 10,000 dinars per month"
+      },
+      {
+        "character": "agent",
+        "text": "راك حايب بلاصة سبيسيال؟",
+        "translation": "Do you want a special place?"
+      },
+      {
+        "character": "tenant",
+        "text": "ايه قريبة للسونترفيل تعيش",
+        "translation": "Yes, close to the center please"
+      },
+      {
+        "character": "agent",
+        "text": "كاين وحدة إذا تحب تشوفها",
+        "translation": "There's one if you want to see it"
+      },
+      {
+        "character": "tenant",
+        "text": "وي وينتا تقدر تشوفها",
+        "translation": "Yes, when can I see it?"
+      },
+      {
+        "character": "agent",
+        "text": "ليوما مور الظهر نستناك",
+        "translation": "Today after noon, I'll wait for you"
+      }
+    ],
+    "tags": ["accommodation", "housing", "search"],
+    "backgroundImage": null
+  },
+  {
+    "id": "accommodation_search_western_dialect",
+    "level": "intermediate",
+    "language": "western_dialect",
+    "title": "البحث عن سكن - الغرب الجزائري",
+    "description": "محادثة البحث عن شقة للإيجار باللهجة الغربية الجزائرية",
+    "scenario": "البحث عن شقة للإيجار مع وكيل عقاري",
+    "dialogue": [
+      {
+        "character": "tenant",
+        "text": "سلام خاصني سكنة للكرية",
+        "translation": "Hello, I need accommodation to rent"
+      },
+      {
+        "character": "agent",
+        "text": "قداه دراهمك",
+        "translation": "How much is your money?"
+      },
+      {
+        "character": "tenant",
+        "text": "عندي 10000 دينار",
+        "translation": "I have 10,000 dinars"
+      },
+      {
+        "character": "agent",
+        "text": "راك باغي كرطي سبيسيال",
+        "translation": "Do you want a special place?"
+      },
+      {
+        "character": "tenant",
+        "text": "واه يكون قريب للسونطرفيل",
+        "translation": "Yes, it should be close to the center"
+      },
+      {
+        "character": "agent",
+        "text": "كاينة وحدة لا تشوفها",
+        "translation": "There's one if you want to see it"
+      },
+      {
+        "character": "tenant",
+        "text": "واه حمبوك وينتا نجي",
+        "translation": "Yes, thank you, when should I come?"
+      },
+      {
+        "character": "agent",
+        "text": "ليوم مور الظهر نقارعلك",
+        "translation": "Today after noon, I'll wait for you"
+      }
+    ],
+    "tags": ["accommodation", "housing", "search"],
+    "backgroundImage": null
+  },
+  {
+    "id": "accommodation_search_eastern_dialect",
+    "level": "intermediate",
+    "language": "eastern_dialect",
+    "title": "البحث عن سكن - الشرق الجزائري",
+    "description": "محادثة البحث عن شقة للإيجار باللهجة الشرقية الجزائرية",
+    "scenario": "البحث عن شقة للإيجار مع وكيل عقاري",
+    "dialogue": [
+      {
+        "character": "tenant",
+        "text": "سلام نحوس عدار للكرية",
+        "translation": "Hello, I'm looking for a house to rent"
+      },
+      {
+        "character": "agent",
+        "text": "قداه صواردك",
+        "translation": "How much are your resources?"
+      },
+      {
+        "character": "tenant",
+        "text": "10000 دينار هكاك",
+        "translation": "10,000 dinars like that"
+      },
+      {
+        "character": "agent",
+        "text": "تلوج عحاجة سبيسيال",
+        "translation": "Are you looking for something special?"
+      },
+      {
+        "character": "tenant",
+        "text": "آي تكون قريبة للسونترفيل",
+        "translation": "Yes, it should be close to the center"
+      },
+      {
+        "character": "agent",
+        "text": "كاينة دار تحب تشوفها؟",
+        "translation": "There's a house, do you want to see it?"
+      },
+      {
+        "character": "tenant",
+        "text": "آي يعيشك نشوفها",
+        "translation": "Yes, thank you, I want to see it"
+      },
+      {
+        "character": "agent",
+        "text": "آي قاعد نستناك ليوم بعد الظهر",
+        "translation": "Yes, I'll wait for you today after noon"
+      }
+    ],
+    "tags": ["accommodation", "housing", "search"],
+    "backgroundImage": null
+  },
+  {
+    "id": "accommodation_search_southern_dialect",
+    "level": "intermediate",
+    "language": "southern_dialect",
+    "title": "البحث عن سكن - الجنوب الجزائري",
+    "description": "محادثة البحث عن شقة للإيجار باللهجة الجنوبية الجزائرية",
+    "scenario": "البحث عن شقة للإيجار مع وكيل عقاري",
+    "dialogue": [
+      {
+        "character": "tenant",
+        "text": "سلام خصني دار كشما كاين وا",
+        "translation": "Hello, I need a house, what's available?"
+      },
+      {
+        "character": "agent",
+        "text": "شحال عندك",
+        "translation": "How much do you have?"
+      },
+      {
+        "character": "tenant",
+        "text": "في حدود 10000 دينار",
+        "translation": "Around 10,000 dinars"
+      },
+      {
+        "character": "agent",
+        "text": "كاين حاجة سبيسيال باقيها؟",
+        "translation": "Is there something special you want?"
+      },
+      {
+        "character": "tenant",
+        "text": "ايه تكون قريبة للبلاد",
+        "translation": "Yes, it should be close to the town"
+      },
+      {
+        "character": "agent",
+        "text": "عندي وحدة تشوفها",
+        "translation": "I have one, do you want to see it?"
+      },
+      {
+        "character": "tenant",
+        "text": "ايه الربي",
+        "translation": "Yes, by God"
+      },
+      {
+        "character": "agent",
+        "text": "نستناك ورا الظهر",
+        "translation": "I'll wait for you after noon"
+      }
+    ],
+    "tags": ["accommodation", "housing", "search"],
+    "backgroundImage": null
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "greeting_etiquette",
+    "title": "Traditional Greetings",
+    "titleArabic": "آداب التحية التقليدية",
+    "titleAmazigh": "Ilugan n usulem amaziɣ",
+    "description": "Learn about proper greeting etiquette in Algerian culture",
+    "descriptionArabic": "تعلم آداب التحية المناسبة في الثقافة الجزائرية",
+    "descriptionAmazigh": "Lmed ɣef ilugan n usulem deg tdelsant tazayrit",
+    "type": "multiple_choice",
+    "question": "What is the most appropriate response when someone says 'السلام عليكم' (As-salamu alaykum)?",
+    "questionArabic": "ما هو الرد الأنسب عندما يقول شخص 'السلام عليكم'؟",
+    "questionAmazigh": "D acu-t urray ifazen mi ara d-yini yiwen 'As-salamu alaykum'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hello",
+        "textArabic": "مرحبا",
+        "textAmazigh": "Azul",
+        "isCorrect": false,
+        "explanation": "While friendly, this doesn't follow traditional Islamic greeting protocol"
+      },
+      {
+        "id": "b",
+        "text": "وعليكم السلام (Wa alaykum as-salam)",
+        "textArabic": "وعليكم السلام",
+        "textAmazigh": "Wa alaykum as-salam",
+        "isCorrect": true,
+        "explanation": "This is the traditional and proper response to the Islamic greeting"
+      },
+      {
+        "id": "c",
+        "text": "Good morning",
+        "textArabic": "صباح الخير",
+        "textAmazigh": "Azekka yelhan",
+        "isCorrect": false,
+        "explanation": "This is a time-specific greeting, not the proper response"
+      },
+      {
+        "id": "d",
+        "text": "Thank you",
+        "textArabic": "شكراً",
+        "textAmazigh": "Tanemmirt",
+        "isCorrect": false,
+        "explanation": "This is not the appropriate response to a greeting"
+      }
+    ],
+    "explanation": "In Islamic culture, when someone greets you with 'السلام عليكم' (Peace be upon you), the proper response is 'وعليكم السلام' (And upon you peace). This maintains the traditional greeting exchange.",
+    "explanationArabic": "في الثقافة الإسلامية، عندما يحييك شخص بـ 'السلام عليكم'، الرد المناسب هو 'وعليكم السلام'. هذا يحافظ على تبادل التحية التقليدية",
+    "explanationAmazigh": "Deg tdelsant n Islam, mi ara ak-d-yislem yiwen s 'As-salamu alaykum', urray ifazen d 'Wa alaykum as-salam'. Aya yettḥeṛṛes asmenyif n usulem amaziɣ",
+    "points": 10,
+    "tags": ["greetings", "etiquette", "islam", "culture"],
+    "imageUrl": "traditional_greeting.jpg"
+  },
+  {
+    "id": "tea_ceremony",
+    "title": "Tea Ceremony Etiquette",
+    "titleArabic": "آداب حفل الشاي",
+    "titleAmazigh": "Ilugan n tmeɣra n atay",
+    "description": "Understanding the cultural significance of tea serving in Algeria",
+    "descriptionArabic": "فهم الأهمية الثقافية لتقديم الشاي في الجزائر",
+    "descriptionAmazigh": "Aqader n wazal adelsani n uqeddim n atay deg Lezzayer",
+    "type": "scenario",
+    "question": "You're visiting an Algerian family and they offer you tea. What should you do?",
+    "questionArabic": "أنت تزور عائلة جزائرية وقدموا لك الشاي. ماذا يجب أن تفعل؟",
+    "questionAmazigh": "Tetterzuḍ tawacult tazayrit, fkan-ak atay. D acu ara txedmeḍ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Politely decline if you don't want tea",
+        "textArabic": "ارفض بأدب إذا كنت لا تريد الشاي",
+        "textAmazigh": "Agi s nnif ma yella ur tebɣiḍ ara atay",
+        "isCorrect": false,
+        "explanation": "Declining tea can be seen as impolite in Algerian hospitality culture"
+      },
+      {
+        "id": "b",
+        "text": "Accept graciously, even if just a small sip",
+        "textArabic": "اقبل بامتنان، حتى لو كانت رشفة صغيرة فقط",
+        "textAmazigh": "Qbel s ufrah, ula ma d taqecwalt meẓẓiyen kan",
+        "isCorrect": true,
+        "explanation": "Accepting tea shows respect for the host's hospitality, a core value in Algerian culture"
+      },
+      {
+        "id": "c",
+        "text": "Ask for coffee instead",
+        "textArabic": "اطلب القهوة بدلاً من ذلك",
+        "textAmazigh": "Suter lqehwa deg umḍiq",
+        "isCorrect": false,
+        "explanation": "This could be seen as rejecting their hospitality gesture"
+      },
+      {
+        "id": "d",
+        "text": "Wait for them to drink first",
+        "textArabic": "انتظر حتى يشربوا أولاً",
+        "textAmazigh": "Raǧu alamma d nutni ara yeswen zdat",
+        "isCorrect": false,
+        "explanation": "Guests are typically served and expected to drink first as a sign of honor"
+      }
+    ],
+    "explanation": "In Algerian culture, offering tea is a fundamental gesture of hospitality. Accepting it, even if you only take a small sip, shows respect and appreciation for your host's kindness.",
+    "explanationArabic": "في الثقافة الجزائرية، تقديم الشاي هو إيماءة أساسية للضيافة. قبوله، حتى لو أخذت رشفة صغيرة فقط، يظهر الاحترام والتقدير لكرم المضيف",
+    "explanationAmazigh": "Deg tdelsant tazayrit, aqeddim n atay d tamawt tazadurt n uqbal. Aqbal-is, ula ma teswiḍ taqecwalt meẓẓiyen kan, yesken-d aqader d ufrah i nnif n bab n wexxam",
+    "points": 15,
+    "tags": ["hospitality", "tea", "etiquette", "family", "respect"],
+    "imageUrl": "tea_ceremony.jpg"
+  },
+  {
+    "id": "wedding_traditions",
+    "title": "Wedding Traditions",
+    "titleArabic": "تقاليد الزفاف",
+    "titleAmazigh": "Iẓuran n tmeɣra",
+    "description": "Test your knowledge of Algerian wedding customs",
+    "descriptionArabic": "اختبر معرفتك بعادات الزفاف الجزائرية",
+    "descriptionAmazigh": "Sekyed tamusni-inek ɣef iẓuran n tmeɣra tazayrit",
+    "type": "text_input",
+    "question": "What is the traditional Algerian wedding celebration called that lasts several days?",
+    "questionArabic": "ما اسم احتفال الزفاف الجزائري التقليدي الذي يستمر عدة أيام؟",
+    "questionAmazigh": "D acu isem n tmeɣra n tmeɣra tazayrit taẓurant i yettdumun ddeqs n wussan?",
+    "correctAnswer": "العرس (Al-Urs) or Tameɣra",
+    "explanation": "The traditional Algerian wedding celebration is called 'العرس' (Al-Urs) in Arabic or 'Tameɣra' in Amazigh. It typically involves multiple days of festivities with different ceremonies, music, traditional clothing, and elaborate feasts.",
+    "explanationArabic": "يُسمى احتفال الزفاف الجزائري التقليدي 'العرس' بالعربية أو 'تامغرا' بالأمازيغية. يتضمن عادة عدة أيام من الاحتفالات مع مراسم مختلفة وموسيقى وملابس تقليدية ووجبات فاخرة",
+    "explanationAmazigh": "Tameɣra tazayrit taẓurant tettwasem 'Al-Urs' s taεrabt neɣ 'Tameɣra' s tamaziɣt. Tettawi-d aṭas n wussan n tmeɣriwin s yinaḍen imgaraden, aẓawan, tiksiwin tiẓuranin d imensi imeqqranen",
+    "points": 20,
+    "tags": ["wedding", "traditions", "celebration", "culture", "customs"],
+    "imageUrl": "algerian_wedding.jpg"
+  }
+]

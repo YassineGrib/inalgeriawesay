@@ -1,0 +1,461 @@
+[
+  {
+    "id": "ibn_khaldun",
+    "name": "Ibn Khaldun",
+    "nameArabic": "ابن خلدون",
+    "nameAmazigh": "Aεbd Arraḥman Ibn Xaldun",
+    "bio": "Abd al-Rahman Ibn Khaldun was a 14th-century Arab historiographer and sociologist who is considered the father of modern historiography, sociology, and economics.",
+    "bioArabic": "عبد الرحمن ابن خلدون كان مؤرخاً وعالم اجتماع عربي من القرن الرابع عشر ويعتبر أبو علم التاريخ الحديث وعلم الاجتماع والاقتصاد",
+    "bioAmazigh": "Aεbd Arraḥman Ibn Xaldun d amezruy d amsekti n tmetti seg lqern wis kkuẓ, ittwassen d baba n tmusni n umezruy d tmetti d tadamsa",
+    "field": "History, Sociology, Economics",
+    "birthYear": "1332",
+    "deathYear": "1406",
+    "photoUrl": "scientists/ibn_khaldun.png",
+    "achievements": [
+      "Wrote the Muqaddimah, a foundational work in historiography",
+      "Developed theories of social cohesion and conflict",
+      "Pioneered the scientific approach to history",
+      "Established principles of economics and sociology"
+    ],
+    "achievementsArabic": [
+      "كتب المقدمة، عمل أساسي في علم التاريخ",
+      "طور نظريات التماسك الاجتماعي والصراع",
+      "رائد المنهج العلمي في التاريخ",
+      "أسس مبادئ الاقتصاد وعلم الاجتماع"
+    ],
+    "achievementsAmazigh": [
+      "Yura Tazwart, axeddim azadur deg tmusni n umezruy",
+      "Yesnulfa-d tiẓṛigin n usmenyif d umgaru n tmetti",
+      "Yella d amezwaru deg ubrid n tmusni deg umezruy",
+      "Yessers isental n tadamsa d tmusni n tmetti"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibn_Khaldun",
+    "tags": ["history", "sociology", "economics", "medieval", "tunis"]
+  },
+  {
+    "id": "ahmed_zabana",
+    "name": "Ahmed Zabana",
+    "nameArabic": "أحمد زبانة",
+    "nameAmazigh": "Aḥmed Zebana",
+    "bio": "Ahmed Zabana was an Algerian revolutionary and one of the first martyrs of the Algerian War of Independence. He was executed by French colonial authorities in 1956.",
+    "bioArabic": "أحمد زبانة كان ثورياً جزائرياً وأحد أول شهداء حرب الاستقلال الجزائرية. أُعدم من قبل السلطات الاستعمارية الفرنسية عام 1956",
+    "bioAmazigh": "Aḥmed Zebana d amgaru azayri d yiwen seg imezwura n inelmaden n yimenɣi n tlelli n Lezzayer. Yemmut deg 1956 s ufus n tmurt tafṛansist",
+    "field": "Revolutionary, Independence Fighter",
+    "birthYear": "1926",
+    "deathYear": "1956",
+    "photoUrl": "scientists/ahmed_zabana.jpg",
+    "achievements": [
+      "First martyr executed during the Algerian War of Independence",
+      "Member of the National Liberation Front (FLN)",
+      "Symbol of resistance against colonial rule",
+      "Inspired generations of freedom fighters"
+    ],
+    "achievementsArabic": [
+      "أول شهيد أُعدم خلال حرب الاستقلال الجزائرية",
+      "عضو في جبهة التحرير الوطني",
+      "رمز المقاومة ضد الحكم الاستعماري",
+      "ألهم أجيالاً من مقاتلي الحرية"
+    ],
+    "achievementsAmazigh": [
+      "Amezwaru n inelmaden yemmuten deg yimenɣi n tlelli",
+      "Amaslad deg Tafriqt n Usellek Aɣelnaw",
+      "Azamul n uqawem mgal lḥekm asteεmari",
+      "Yessali tisuraf n imnaɣen i tlelli"
+    ],
+    "tags": ["independence", "martyr", "revolution", "oran", "flm"]
+  },
+  {
+    "id": "kateb_yacine",
+    "name": "Kateb Yacine",
+    "nameArabic": "كاتب ياسين",
+    "nameAmazigh": "Kateb Yasin",
+    "bio": "Kateb Yacine was an Algerian writer and playwright, considered one of the most important figures in North African literature. He wrote in both French and Arabic.",
+    "bioArabic": "كاتب ياسين كان كاتباً ومسرحياً جزائرياً، يُعتبر من أهم الشخصيات في الأدب المغاربي. كتب بالفرنسية والعربية",
+    "bioAmazigh": "Kateb Yasin d amaru d umeskar azayri, ittwassen d yiwen seg wid yufraren deg tsekla n Tafriqt n Ugafa. Yura s tefṛansist d taεrabt",
+    "field": "Literature, Theater, Poetry",
+    "birthYear": "1929",
+    "deathYear": "1989",
+    "photoUrl": "scientists/kateb_yacine.png",
+    "achievements": [
+      "Wrote 'Nedjma', a masterpiece of Algerian literature",
+      "Pioneered experimental narrative techniques",
+      "Promoted Algerian cultural identity through literature",
+      "Influenced generations of North African writers"
+    ],
+    "achievementsArabic": [
+      "كتب 'نجمة'، تحفة من الأدب الجزائري",
+      "رائد تقنيات السرد التجريبية",
+      "روج للهوية الثقافية الجزائرية من خلال الأدب",
+      "أثر على أجيال من الكتاب المغاربة"
+    ],
+    "achievementsAmazigh": [
+      "Yura 'Nejma', taḥfa seg tsekla tazayrit",
+      "Amezwaru deg tiseɣnin n usiwel armitan",
+      "Yessali tamagit tadelsant tazayrit s tsekla",
+      "Yettwaḍfeṛ fell-as imura n Tafriqt n Ugafa"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kateb_Yacine",
+    "tags": ["literature", "theater", "poetry", "constantine", "nedjma"]
+  },
+  {
+    "id": "frantz_fanon",
+    "name": "Frantz Fanon",
+    "nameArabic": "فرانتز فانون",
+    "nameAmazigh": "Frantz Fanon",
+    "bio": "Frantz Fanon was a psychiatrist, philosopher, and revolutionary writer from Algeria. His works on decolonization and psychopathology of colonization have been influential in post-colonial studies.",
+    "bioArabic": "فرانتز فانون كان طبيباً نفسياً وفيلسوفاً وكاتباً ثورياً من الجزائر. أعماله حول إنهاء الاستعمار وعلم النفس المرضي للاستعمار كانت مؤثرة في الدراسات ما بعد الاستعمارية",
+    "bioAmazigh": "Frantz Fanon d ameskar n yiẓuran, d afilasuf d umaru amgaru seg Lezzayer. Ixeddimen-is ɣef usellek d tmusni n yiẓuran n usteεmar ttwaḍefren deg tezrawin n deffir usteεmar",
+    "field": "Psychiatry, Philosophy, Revolutionary Theory",
+    "birthYear": "1925",
+    "deathYear": "1961",
+    "photoUrl": "scientists/Frantz_Fanon.png",
+    "achievements": [
+      "Wrote 'The Wretched of the Earth', a seminal work on decolonization",
+      "Pioneered studies on the psychological effects of colonialism",
+      "Influenced liberation movements worldwide",
+      "Developed revolutionary psychiatric practices"
+    ],
+    "achievementsArabic": [
+      "كتب 'معذبو الأرض'، عمل أساسي حول إنهاء الاستعمار",
+      "رائد الدراسات حول الآثار النفسية للاستعمار",
+      "أثر على حركات التحرر في جميع أنحاء العالم",
+      "طور ممارسات نفسية ثورية"
+    ],
+    "achievementsAmazigh": [
+      "Yura 'Iεeggalen n wakal', axeddim azadur ɣef usellek",
+      "Amezwaru deg tezrawin ɣef yir tḥulfin n usteεmar",
+      "Yettwaḍfeṛ fell-as imusnawen n usellek deg umaḍal",
+      "Yesnulfa-d tigawin timaynutin n tmusni n yiẓuran"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Frantz_Fanon",
+    "tags": ["psychiatry", "philosophy", "decolonization", "martinique", "revolution"]
+  },
+  {
+    "id": "mohammed_arkoun",
+    "name": "Mohammed Arkoun",
+    "nameArabic": "محمد أركون",
+    "nameAmazigh": "Muḥemmed Arkun",
+    "bio": "Mohammed Arkoun was an Algerian scholar of Islamic studies who advocated for a modern approach to Islamic thought and the application of modern critical methods to Islamic texts.",
+    "bioArabic": "محمد أركون كان عالماً جزائرياً في الدراسات الإسلامية دعا إلى نهج حديث للفكر الإسلامي وتطبيق المناهج النقدية الحديثة على النصوص الإسلامية",
+    "bioAmazigh": "Muḥemmed Arkun d amussnaw azayri deg tezrawin n Lislam i yessawel i ubrid amaynut n tikti tislamt d useqdec n tarrayin timaynatin ɣef iḍrisen islamiyen",
+    "field": "Islamic Studies, Philosophy, History",
+    "birthYear": "1928",
+    "deathYear": "2010",
+    "photoUrl": "scientists/mohammed_arkoun.jpg",
+    "achievements": [
+      "Pioneered critical approach to Islamic studies",
+      "Wrote over 30 books on Islamic thought and history",
+      "Professor at Sorbonne University for over 20 years",
+      "Promoted dialogue between Islamic and Western thought"
+    ],
+    "achievementsArabic": [
+      "رائد النهج النقدي في الدراسات الإسلامية",
+      "كتب أكثر من 30 كتاباً حول الفكر والتاريخ الإسلامي",
+      "أستاذ في جامعة السوربون لأكثر من 20 عاماً",
+      "روج للحوار بين الفكر الإسلامي والغربي"
+    ],
+    "achievementsAmazigh": [
+      "Amezwaru deg ubrid anaqdi n tezrawin islamiyen",
+      "Yura ugar n 30 n yidlisen ɣef tikti d umezruy islami",
+      "Aselmad deg Tasddawit n Sorbonne ugar n 20 n yiseggasen",
+      "Yessali amyannan gar tikti tislamt d tarbant"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_Arkoun",
+    "tags": ["islamic_studies", "philosophy", "sorbonne", "kabyle", "critical_thinking"]
+  },
+  {
+    "id": "assia_djebar",
+    "name": "Assia Djebar",
+    "nameArabic": "آسيا جبار",
+    "nameAmazigh": "Asya Jebar",
+    "bio": "Assia Djebar was an Algerian novelist, translator and filmmaker. She was the first Algerian woman elected to the Académie française and is considered one of North Africa's most influential writers.",
+    "bioArabic": "آسيا جبار كانت روائية ومترجمة ومخرجة أفلام جزائرية. كانت أول امرأة جزائرية تُنتخب في الأكاديمية الفرنسية وتُعتبر من أكثر الكتاب تأثيراً في شمال أفريقيا",
+    "bioAmazigh": "Asya Jebar d tamyarut azayrit, d amsegzi d umeskar n yisura. D tamezwarut seg Lezzayer i yettwafernen deg Takadimit tafṛansist, tettwassen d yiwet seg yimura yufraren n Tafriqt n Ugafa",
+    "field": "Literature, Film, Translation",
+    "birthYear": "1936",
+    "deathYear": "2015",
+    "photoUrl": "scientists/assia_djebar.jpg",
+    "achievements": [
+      "First Algerian woman elected to Académie française",
+      "Wrote influential novels about Algerian women's experiences",
+      "Directed several acclaimed films",
+      "Received numerous international literary awards"
+    ],
+    "achievementsArabic": [
+      "أول امرأة جزائرية تُنتخب في الأكاديمية الفرنسية",
+      "كتبت روايات مؤثرة حول تجارب النساء الجزائريات",
+      "أخرجت عدة أفلام حازت على إعجاب النقاد",
+      "حصلت على العديد من الجوائز الأدبية الدولية"
+    ],
+    "achievementsAmazigh": [
+      "Tamezwarut seg Lezzayer i yettwafernen deg Takadimit tafṛansist",
+      "Tura tinyalin yettwaḍefren ɣef tirmit n tilawin tizayriyin",
+      "Teskar aṭas n yisura yettwassnen",
+      "Teṭṭef aṭas n warrazen n tsekla iddukulan"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Assia_Djebar",
+    "tags": ["literature", "feminism", "film", "academie_francaise", "women_rights"]
+  },
+  {
+    "id": "mouloud_mammeri",
+    "name": "Mouloud Mammeri",
+    "nameArabic": "مولود معمري",
+    "nameAmazigh": "Mulud Mεemri",
+    "bio": "Mouloud Mammeri was an Algerian writer, anthropologist and linguist. He was a key figure in preserving and promoting Berber culture and language, and is considered the father of modern Berber literature.",
+    "bioArabic": "مولود معمري كان كاتباً وعالم أنثروبولوجيا ولغوياً جزائرياً. كان شخصية مفتاحية في الحفاظ على الثقافة واللغة البربرية وترقيتها، ويُعتبر أبو الأدب البربري الحديث",
+    "bioAmazigh": "Mulud Mεemri d amaru, d asnawan d ameslay azayri. Yella d amdan azadur deg uḥraz d usilay n tdelsant d tutlayt tamaziɣt, ittwassen d baba n tsekla tamaziɣt tamaynut",
+    "field": "Literature, Anthropology, Linguistics",
+    "birthYear": "1917",
+    "deathYear": "1989",
+    "photoUrl": "",
+    "achievements": [
+      "Pioneered modern Berber literature",
+      "Preserved Berber oral traditions through research",
+      "Founded the Center for Amazigh Studies",
+      "Wrote influential novels about Berber identity"
+    ],
+    "achievementsArabic": [
+      "رائد الأدب البربري الحديث",
+      "حافظ على التقاليد الشفوية البربرية من خلال البحث",
+      "أسس مركز الدراسات الأمازيغية",
+      "كتب روايات مؤثرة حول الهوية البربرية"
+    ],
+    "achievementsAmazigh": [
+      "Amezwaru n tsekla tamaziɣt tamaynut",
+      "Iḥrez amawal aqbur amaziɣ s unadi",
+      "Yessers ammas n tezrawin timaziɣin",
+      "Yura tinyalin yettwaḍefren ɣef tamagit tamaziɣt"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mouloud_Mammeri",
+    "tags": ["berber_literature", "anthropology", "linguistics", "kabyle", "oral_tradition"]
+  },
+  {
+    "id": "ahmed_ben_bella",
+    "name": "Ahmed Ben Bella",
+    "nameArabic": "أحمد بن بلة",
+    "nameAmazigh": "Aḥmed Ben Bella",
+    "bio": "Ahmed Ben Bella was an Algerian politician and revolutionary who served as the first President of Algeria from 1963 to 1965. He was one of the founding members of the National Liberation Front.",
+    "bioArabic": "أحمد بن بلة كان سياسياً وثورياً جزائرياً شغل منصب أول رئيس للجزائر من 1963 إلى 1965. كان أحد الأعضاء المؤسسين لجبهة التحرير الوطني",
+    "bioAmazigh": "Aḥmed Ben Bella d asertay d amgaru azayri i yella d amezwaru n yiselawen n Lezzayer seg 1963 ar 1965. Yella d yiwen seg yimeddukal imeslayen n Tafriqt n Usellek Aɣelnaw",
+    "field": "Politics, Revolutionary Leadership",
+    "birthYear": "1916",
+    "deathYear": "2012",
+    "photoUrl": "",
+    "achievements": [
+      "First President of independent Algeria",
+      "Founding member of the National Liberation Front",
+      "Led Algeria's independence movement",
+      "Promoted Arab socialism and non-alignment"
+    ],
+    "achievementsArabic": [
+      "أول رئيس للجزائر المستقلة",
+      "عضو مؤسس في جبهة التحرير الوطني",
+      "قاد حركة استقلال الجزائر",
+      "روج للاشتراكية العربية وعدم الانحياز"
+    ],
+    "achievementsAmazigh": [
+      "Amezwaru n yiselawen n Lezzayer tilelli",
+      "Amaslad ameslai deg Tafriqt n Usellek Aɣelnaw",
+      "Yessiway amussu n tlelli n Lezzayer",
+      "Yessali tanmegla taεrabt d war aferran"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Ben_Bella",
+    "tags": ["president", "independence", "flm", "socialism", "non_alignment"]
+  },
+  {
+    "id": "abderrahmane_youssoufi",
+    "name": "Abderrahmane Youssoufi",
+    "nameArabic": "عبد الرحمن يوسفي",
+    "nameAmazigh": "Aεbd Arraḥman Yusfi",
+    "bio": "Abderrahmane Youssoufi was an Algerian mathematician and educator who made significant contributions to mathematical research and education in North Africa.",
+    "bioArabic": "عبد الرحمن يوسفي كان عالم رياضيات ومربياً جزائرياً قدم مساهمات مهمة في البحث الرياضي والتعليم في شمال أفريقيا",
+    "bioAmazigh": "Aεbd Arraḥman Yusfi d amussnaw n tusnakt d aselmad azayri i yefkan afud ameqqran deg unadi n tusnakt d usegmi deg Tafriqt n Ugafa",
+    "field": "Mathematics, Education",
+    "birthYear": "1920",
+    "deathYear": "1998",
+    "photoUrl": "",
+    "achievements": [
+      "Pioneered mathematical education in Algeria",
+      "Established mathematics departments in Algerian universities",
+      "Published influential research on algebraic structures",
+      "Mentored generations of Algerian mathematicians"
+    ],
+    "achievementsArabic": [
+      "رائد التعليم الرياضي في الجزائر",
+      "أسس أقسام الرياضيات في الجامعات الجزائرية",
+      "نشر بحوثاً مؤثرة حول البنى الجبرية",
+      "أرشد أجيالاً من علماء الرياضيات الجزائريين"
+    ],
+    "achievementsAmazigh": [
+      "Amezwaru deg usegmi n tusnakt deg Lezzayer",
+      "Yessers iɣallen n tusnakt deg tesdawiyin tizayriyin",
+      "Yessuffeɣ anadi yettwaḍefren ɣef teskiwin n tjebra",
+      "Yesselmad tisuraf n imusnawen n tusnakt izayriyen"
+    ],
+    "tags": ["mathematics", "education", "algebra", "university", "research"]
+  },
+  {
+    "id": "mostefa_lacheraf",
+    "name": "Mostefa Lacheraf",
+    "nameArabic": "مصطفى الأشرف",
+    "nameAmazigh": "Muṣṭafa Lašraf",
+    "bio": "Mostefa Lacheraf was an Algerian writer, politician, and intellectual who played a key role in Algeria's independence movement and later served as Minister of Education.",
+    "bioArabic": "مصطفى الأشرف كان كاتباً وسياسياً ومثقفاً جزائرياً لعب دوراً مفتاحياً في حركة استقلال الجزائر وشغل لاحقاً منصب وزير التربية",
+    "bioAmazigh": "Muṣṭafa Lašraf d amaru d asertay d umussnaw azayri i yuraren tamlilt tazadurt deg umussu n tlelli n Lezzayer, yexdem daɣen d anazur n usegmi",
+    "field": "Literature, Politics, Education",
+    "birthYear": "1917",
+    "deathYear": "2007",
+    "photoUrl": "",
+    "achievements": [
+      "Key figure in Algerian independence movement",
+      "Served as Minister of Education",
+      "Wrote influential works on Algerian culture and identity",
+      "Promoted Arabic language education in post-independence Algeria"
+    ],
+    "achievementsArabic": [
+      "شخصية مفتاحية في حركة الاستقلال الجزائرية",
+      "شغل منصب وزير التربية",
+      "كتب أعمالاً مؤثرة حول الثقافة والهوية الجزائرية",
+      "روج لتعليم اللغة العربية في الجزائر ما بعد الاستقلال"
+    ],
+    "achievementsAmazigh": [
+      "Amdan azadur deg umussu n tlelli tazayrit",
+      "Yexdem d anazur n usegmi",
+      "Yura ixeddimen yettwaḍefren ɣef tdelsant d tamagit tazayrit",
+      "Yessali asegmi n tutlayt taεrabt deg Lezzayer n deffir tlelli"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mostefa_Lacheraf",
+    "tags": ["literature", "politics", "education", "independence", "culture"]
+  },
+  {
+    "id": "rachid_boudjedra",
+    "name": "Rachid Boudjedra",
+    "nameArabic": "رشيد بوجدرة",
+    "nameAmazigh": "Rašid Bujdra",
+    "bio": "Rachid Boudjedra is a contemporary Algerian novelist and poet, considered one of the most important writers in the Maghreb. He writes in both French and Arabic.",
+    "bioArabic": "رشيد بوجدرة روائي وشاعر جزائري معاصر، يُعتبر من أهم الكتاب في المغرب العربي. يكتب بالفرنسية والعربية",
+    "bioAmazigh": "Rašid Bujdra d amyaru d acaεir azayri n wass-a, ittwassen d yiwen seg yimura yufraren deg Tamazɣa. Yettaru s tefṛansist d taεrabt",
+    "field": "Literature, Poetry, Journalism",
+    "birthYear": "1941",
+    "deathYear": "",
+    "photoUrl": "",
+    "achievements": [
+      "Wrote over 20 novels in French and Arabic",
+      "Received numerous international literary awards",
+      "Pioneered experimental narrative techniques in Arabic literature",
+      "Influential voice in contemporary Maghrebi literature"
+    ],
+    "achievementsArabic": [
+      "كتب أكثر من 20 رواية بالفرنسية والعربية",
+      "حصل على العديد من الجوائز الأدبية الدولية",
+      "رائد التقنيات السردية التجريبية في الأدب العربي",
+      "صوت مؤثر في الأدب المغاربي المعاصر"
+    ],
+    "achievementsAmazigh": [
+      "Yura ugar n 20 n tinyalin s tefṛansist d taεrabt",
+      "Yeṭṭef aṭas n warrazen n tsekla iddukulan",
+      "Amezwaru deg tiseɣnin n usiwel armitan deg tsekla taεrabt",
+      "Taɣect yettwaḍefren deg tsekla tamaɣribt n wass-a"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rachid_Boudjedra",
+    "tags": ["literature", "poetry", "bilingual", "contemporary", "experimental"]
+  },
+  {
+    "id": "abdelhamid_mehri",
+    "name": "Abdelhamid Mehri",
+    "nameArabic": "عبد الحميد مهري",
+    "nameAmazigh": "Aεbd Lḥamid Mehri",
+    "bio": "Abdelhamid Mehri was an Algerian politician, diplomat, and intellectual who served as Secretary-General of the FLN and played a crucial role in Algeria's political development.",
+    "bioArabic": "عبد الحميد مهري كان سياسياً ودبلوماسياً ومثقفاً جزائرياً شغل منصب الأمين العام لجبهة التحرير الوطني ولعب دوراً حاسماً في التطوير السياسي للجزائر",
+    "bioAmazigh": "Aεbd Lḥamid Mehri d asertay d udiplumas d umussnaw azayri i yexdmen d akatib agejdan n FLN, yuraren tamlilt tazadurt deg usnerni asertay n Lezzayer",
+    "field": "Politics, Diplomacy, International Relations",
+    "birthYear": "1926",
+    "deathYear": "2012",
+    "photoUrl": "",
+    "achievements": [
+      "Secretary-General of the National Liberation Front",
+      "Ambassador to several countries including France and USSR",
+      "Key architect of Algeria's foreign policy",
+      "Promoted democratic reforms in Algeria"
+    ],
+    "achievementsArabic": [
+      "الأمين العام لجبهة التحرير الوطني",
+      "سفير في عدة دول منها فرنسا والاتحاد السوفيتي",
+      "مهندس رئيسي للسياسة الخارجية الجزائرية",
+      "روج للإصلاحات الديمقراطية في الجزائر"
+    ],
+    "achievementsAmazigh": [
+      "Akatib agejdan n Tafriqt n Usellek Aɣelnaw",
+      "Anmahal deg aṭas n tmura am Fransa d USSR",
+      "Amesnay azadur n tsertit n beṛṛa n Lezzayer",
+      "Yessali isnifal idimukrasiyen deg Lezzayer"
+    ],
+    "tags": ["politics", "diplomacy", "flm", "foreign_policy", "democracy"]
+  },
+  {
+    "id": "malek_bennabi",
+    "name": "Malek Bennabi",
+    "nameArabic": "مالك بن نبي",
+    "nameAmazigh": "Malek Ben Nebi",
+    "bio": "Malek Bennabi was an Algerian writer, philosopher, and intellectual reformer who developed influential theories about civilization, culture, and the Islamic world's development.",
+    "bioArabic": "مالك بن نبي كان كاتباً وفيلسوفاً ومصلحاً فكرياً جزائرياً طور نظريات مؤثرة حول الحضارة والثقافة وتطوير العالم الإسلامي",
+    "bioAmazigh": "Malek Ben Nebi d amaru d afilasuf d umeslaḥ n tikti azayri i yesnulfan tiẓṛigin yettwaḍefren ɣef tɣerma d tdelsant d usnerni n umaḍal islami",
+    "field": "Philosophy, Sociology, Islamic Studies",
+    "birthYear": "1905",
+    "deathYear": "1973",
+    "photoUrl": "",
+    "achievements": [
+      "Developed the theory of 'civilizational cycles'",
+      "Wrote influential works on Islamic renaissance",
+      "Pioneered sociological analysis of Muslim societies",
+      "Influenced modern Islamic intellectual thought"
+    ],
+    "achievementsArabic": [
+      "طور نظرية 'الدورات الحضارية'",
+      "كتب أعمالاً مؤثرة حول النهضة الإسلامية",
+      "رائد التحليل السوسيولوجي للمجتمعات المسلمة",
+      "أثر على الفكر الإسلامي الحديث"
+    ],
+    "achievementsAmazigh": [
+      "Yesnulfa-d taẓṛi n 'tinagalin n tɣerma'",
+      "Yura ixeddimen yettwaḍefren ɣef tnekra tislamt",
+      "Amezwaru deg usleḍ asnawan n tmetti islamiyin",
+      "Yettwaḍfeṛ fell-as tikti tislamt tamaynut"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Malek_Bennabi",
+    "tags": ["philosophy", "sociology", "islamic_studies", "civilization", "intellectual"]
+  },
+  {
+    "id": "tahar_djaout",
+    "name": "Tahar Djaout",
+    "nameArabic": "الطاهر جاووت",
+    "nameAmazigh": "Ṭahar Jaεut",
+    "bio": "Tahar Djaout was an Algerian journalist, poet, and novelist who was assassinated in 1993 for his secular views. He was a prominent voice for intellectual freedom and democracy.",
+    "bioArabic": "الطاهر جاووت كان صحفياً وشاعراً وروائياً جزائرياً اغتيل عام 1993 بسبب آرائه العلمانية. كان صوتاً بارزاً للحرية الفكرية والديمقراطية",
+    "bioAmazigh": "Ṭahar Jaεut d aneɣmas d acaεir d amyaru azayri i yettunɣen deg 1993 ɣef tiktiwin-is tiεelmanin. Yella d taɣect tettban i tlelli n tikti d tdimukrasit",
+    "field": "Journalism, Literature, Poetry",
+    "birthYear": "1954",
+    "deathYear": "1993",
+    "photoUrl": "",
+    "achievements": [
+      "Prominent journalist and editor",
+      "Wrote influential novels and poetry collections",
+      "Advocated for intellectual freedom and secularism",
+      "Symbol of resistance against extremism"
+    ],
+    "achievementsArabic": [
+      "صحفي ومحرر بارز",
+      "كتب روايات ومجموعات شعرية مؤثرة",
+      "دافع عن الحرية الفكرية والعلمانية",
+      "رمز المقاومة ضد التطرف"
+    ],
+    "achievementsAmazigh": [
+      "Aneɣmas d umaẓrag yettwassnen",
+      "Yura tinyalin d tegrummiwin n ccεer yettwaḍefren",
+      "Yemmesten i tlelli n tikti d tεelmanit",
+      "Azamul n uqawem mgal uḥeṛṛiq"
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tahar_Djaout",
+    "tags": ["journalism", "literature", "poetry", "secularism", "martyr"]
+  }
+]

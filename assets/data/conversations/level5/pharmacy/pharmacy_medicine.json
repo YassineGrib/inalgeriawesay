@@ -1,0 +1,194 @@
+[
+  {
+    "id": "pharmacy_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في الصيدلية - العربية الفصحى",
+    "description": "محادثة في الصيدلية لشراء الدواء",
+    "scenario": "شراء دواء للصداع من الصيدلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مساء الخير أريد شراء دواء للصداع",
+        "translation": "Good evening, I want to buy medicine for headache"
+      },
+      {
+        "character": "pharmacist",
+        "text": "هل لديك وصفة طبية؟",
+        "translation": "Do you have a prescription?"
+      },
+      {
+        "character": "customer",
+        "text": "لا لكن أريد شيئاً خفيفاً",
+        "translation": "No, but I want something mild"
+      },
+      {
+        "character": "pharmacist",
+        "text": "يمكنك أخذ هذا الدواء قرصين يومياً بالشفاء",
+        "translation": "You can take this medicine, two tablets daily, get well"
+      }
+    ],
+    "tags": ["pharmacy", "medicine", "health"],
+    "backgroundImage": null
+  },
+  {
+    "id": "pharmacy_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في الصيدلية - الأمازيغية",
+    "description": "محادثة في الصيدلية باللغة الأمازيغية",
+    "scenario": "شراء دواء للصداع من الصيدلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "Tameddit yelhan bɣiɣ ad d-aɣeɣ ddwa n leqṛiḥ n uqerru",
+        "translation": "Good evening, I want to buy medicine for headache"
+      },
+      {
+        "character": "pharmacist",
+        "text": "Tesɛiḍ ttawil n umejjay?",
+        "translation": "Do you have a doctor's prescription?"
+      },
+      {
+        "character": "customer",
+        "text": "Ala, maca bɣiɣ kra ifessuen",
+        "translation": "No, but I want something light"
+      },
+      {
+        "character": "pharmacist",
+        "text": "Tzemreḍ ad teṭṭfeḍ adawi-a snat n tfelwin yal ass s tujjya",
+        "translation": "You can take this medicine, two tablets every day, with healing"
+      }
+    ],
+    "tags": ["pharmacy", "medicine", "health"],
+    "backgroundImage": null
+  },
+  {
+    "id": "pharmacy_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في الصيدلية - الشمال الجزائري",
+    "description": "محادثة في الصيدلية باللهجة الشمالية الجزائرية",
+    "scenario": "شراء دواء للصداع من الصيدلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مسلخير حايب نشري دوا تع راس",
+        "translation": "Good evening, I want to buy medicine for the head"
+      },
+      {
+        "character": "pharmacist",
+        "text": "عندك لوردونوس؟",
+        "translation": "Do you have a prescription?"
+      },
+      {
+        "character": "customer",
+        "text": "لالا عطيني عفسة خفيفة",
+        "translation": "No, give me something light"
+      },
+      {
+        "character": "pharmacist",
+        "text": "داكور ادي هذا زوج حبات في النهار بالشفاء عليك",
+        "translation": "OK, take this, two pills during the day, get well"
+      }
+    ],
+    "tags": ["pharmacy", "medicine", "health"],
+    "backgroundImage": null
+  },
+  {
+    "id": "pharmacy_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في الصيدلية - الغرب الجزائري",
+    "description": "محادثة في الصيدلية باللهجة الغربية الجزائرية",
+    "scenario": "شراء دواء للصداع من الصيدلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مسلخير بانشري دوا تع راس",
+        "translation": "Good evening, I want to buy medicine for the head"
+      },
+      {
+        "character": "pharmacist",
+        "text": "عندك لوردونوس؟",
+        "translation": "Do you have a prescription?"
+      },
+      {
+        "character": "customer",
+        "text": "لا عطيني حاجة خفيفة",
+        "translation": "No, give me something light"
+      },
+      {
+        "character": "pharmacist",
+        "text": "صاحا دير زوج حبات في النهار من هداك الله يجيب الشيفا",
+        "translation": "OK, take two pills during the day from this, may God bring healing"
+      }
+    ],
+    "tags": ["pharmacy", "medicine", "health"],
+    "backgroundImage": null
+  },
+  {
+    "id": "pharmacy_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في الصيدلية - الشرق الجزائري",
+    "description": "محادثة في الصيدلية باللهجة الشرقية الجزائرية",
+    "scenario": "شراء دواء للصداع من الصيدلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مسلخير نلوح على دواء تع راس",
+        "translation": "Good evening, I'm looking for medicine for the head"
+      },
+      {
+        "character": "pharmacist",
+        "text": "عندكشي لوردونوس",
+        "translation": "Do you have a prescription?"
+      },
+      {
+        "character": "customer",
+        "text": "لا أما أطيني حاجة خفيفة خلاه",
+        "translation": "No, but give me something light please"
+      },
+      {
+        "character": "pharmacist",
+        "text": "باهي ادي أدا ودير زوز حبات في النهار بالشفاء",
+        "translation": "Good, take this and take two pills during the day, get well"
+      }
+    ],
+    "tags": ["pharmacy", "medicine", "health"],
+    "backgroundImage": null
+  },
+  {
+    "id": "pharmacy_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في الصيدلية - الجنوب الجزائري",
+    "description": "محادثة في الصيدلية باللهجة الجنوبية الجزائرية",
+    "scenario": "شراء دواء للصداع من الصيدلية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مسلخير باقي كينة تع راس",
+        "translation": "Good evening, I want medicine for the head"
+      },
+      {
+        "character": "pharmacist",
+        "text": "عندك لوردونوس وا",
+        "translation": "Do you have a prescription?"
+      },
+      {
+        "character": "customer",
+        "text": "والوا هات حاجة خفيفة وخلاص",
+        "translation": "No, bring something light and that's it"
+      },
+      {
+        "character": "pharmacist",
+        "text": "صاحا ادي هدا دير منو زوج حبات في النهار وبشفاء",
+        "translation": "OK, take this, take two pills from it during the day, get well"
+      }
+    ],
+    "tags": ["pharmacy", "medicine", "health"],
+    "backgroundImage": null
+  }
+]

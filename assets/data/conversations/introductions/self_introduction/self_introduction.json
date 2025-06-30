@@ -1,0 +1,344 @@
+[
+  {
+    "id": "self_introduction_standard_arabic",
+    "level": "beginner",
+    "language": "standard_arabic",
+    "title": "التعريف بالنفس - العربية الفصحى",
+    "description": "محادثة للتعريف بالنفس باللغة العربية الفصحى",
+    "scenario": "التعريف بالنفس والتعارف مع شخص جديد",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "مرحبا أنا كيم وأنت؟",
+        "translation": "Hello, I'm Kim and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "أهلا أنا ليلى سعيدة بلقائك",
+        "translation": "Hello, I'm Layla, pleased to meet you"
+      },
+      {
+        "character": "person_a",
+        "text": "وأنا كذلك من أين أنت؟",
+        "translation": "Me too, where are you from?"
+      },
+      {
+        "character": "person_b",
+        "text": "أنا من الجزائر وأعيش في وهران وأنت؟",
+        "translation": "I'm from Algeria and I live in Oran, and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "أنا من كوريا وجئت للجزائر",
+        "translation": "I'm from Korea and I came to Algeria"
+      },
+      {
+        "character": "person_b",
+        "text": "مرحبا بك ماذا تعمل وكم عمرك؟",
+        "translation": "Welcome, what do you do and how old are you?"
+      },
+      {
+        "character": "person_a",
+        "text": "عمري ثلاثون سنة أعمل كمهندس برمجيات وأنت؟",
+        "translation": "I'm thirty years old, I work as a software engineer, and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "أنا أستاذة لغة عربية وأساعد الناس على تعلمها",
+        "translation": "I'm an Arabic language teacher and I help people learn it"
+      },
+      {
+        "character": "person_a",
+        "text": "رائع سررت بالتعرف عليك",
+        "translation": "Wonderful, I was pleased to meet you"
+      }
+    ],
+    "tags": ["self_introduction", "personal_info", "meeting"],
+    "backgroundImage": null
+  },
+  {
+    "id": "self_introduction_amazigh",
+    "level": "beginner",
+    "language": "amazigh",
+    "title": "التعريف بالنفس - الأمازيغية",
+    "description": "محادثة للتعريف بالنفس باللغة الأمازيغية",
+    "scenario": "التعريف بالنفس والتعارف مع شخص جديد",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "Azul nekk d kim d kečč",
+        "translation": "Hello, I'm Kim and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "Azul nekk Laila smemreɣ-kem",
+        "translation": "Hello, I'm Layla, pleased to meet you"
+      },
+      {
+        "character": "person_a",
+        "text": "Ula d nekk ansi-k",
+        "translation": "Me too, where are you from?"
+      },
+      {
+        "character": "person_b",
+        "text": "nekk si lezzayer ttidirɣ di wehren , ma d kečč",
+        "translation": "I'm from Algeria, I live in Oran, and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "nekk seg kurya usiɣ-d ɣem lezzayen",
+        "translation": "I'm from Korea and I came to Algeria"
+      },
+      {
+        "character": "person_b",
+        "text": "ansuf yis-wen dacu txeddmeḍ d acḥal tesɛiḍ dez leɛ mer -ik ?",
+        "translation": "Welcome, what do you do and how old are you?"
+      },
+      {
+        "character": "person_a",
+        "text": "ɣur-i llatin n yisezzasen xeddmeɣ d ajenyuṛ n useɣzan ma d kečč ?",
+        "translation": "I'm thirty years old, I work as a software engineer, and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "nekk d axelmad n tutlayt taɛrat ttɛawaneɣ meddenad tt- lemden",
+        "translation": "I'm an Arabic language teacher, I help people learn it"
+      },
+      {
+        "character": "person_a",
+        "text": "igerrez slferḥ imi k-mlaleɣ",
+        "translation": "Wonderful, I was pleased to meet you"
+      }
+    ],
+    "tags": ["self_introduction", "personal_info", "meeting"],
+    "backgroundImage": null
+  },
+  {
+    "id": "self_introduction_northern_dialect",
+    "level": "beginner",
+    "language": "northern_dialect",
+    "title": "التعريف بالنفس - الشمال الجزائري",
+    "description": "محادثة للتعريف بالنفس باللهجة الشمالية الجزائرية",
+    "scenario": "التعريف بالنفس والتعارف مع شخص جديد في الشمال الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "سلام أنا كيم ونت",
+        "translation": "Hello, I'm Kim and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "سلام أن ليلى فرحت لي عرفتك",
+        "translation": "Hello, I'm Layla, I'm happy I met you"
+      },
+      {
+        "character": "person_a",
+        "text": "أنا ثاني من وين انت؟",
+        "translation": "Me too, where are you from?"
+      },
+      {
+        "character": "person_b",
+        "text": "من ألجي وكبرت في ووهران ونت",
+        "translation": "From Algeria and I grew up in Oran, and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "من كوريا وجيت ألجي",
+        "translation": "From Korea and I came to Algeria"
+      },
+      {
+        "character": "person_b",
+        "text": "مرحبا بيك واش تخدم وشحال عمرك؟",
+        "translation": "Welcome, what do you work and how old are you?"
+      },
+      {
+        "character": "person_a",
+        "text": "عمري ثلاثون سنة ونخدم مهندس برمجيات ونتا",
+        "translation": "I'm thirty years old and I work as a software engineer, and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "أنا بروف تع عربية ونعاون ناس تتعلمها",
+        "translation": "I'm an Arabic teacher and I help people learn it"
+      },
+      {
+        "character": "person_a",
+        "text": "مليح صافي بليزير عرفتك",
+        "translation": "Good, it was a pleasure to meet you"
+      }
+    ],
+    "tags": ["self_introduction", "personal_info", "meeting"],
+    "backgroundImage": null
+  },
+  {
+    "id": "self_introduction_western_dialect",
+    "level": "beginner",
+    "language": "western_dialect",
+    "title": "التعريف بالنفس - الغرب الجزائري",
+    "description": "محادثة للتعريف بالنفس باللهجة الغربية الجزائرية",
+    "scenario": "التعريف بالنفس والتعارف مع شخص جديد في الغرب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "سلام أنا كيم ونتا؟",
+        "translation": "Hello, I'm Kim and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "أهلا أنا ليلى فررحت لي تلاقيتك",
+        "translation": "Hello, I'm Layla, I'm happy I met you"
+      },
+      {
+        "character": "person_a",
+        "text": "أنا تاني من وين نتي",
+        "translation": "Me too, where are you from?"
+      },
+      {
+        "character": "person_b",
+        "text": "من الدزاير وعايشة في وهران ونت",
+        "translation": "From Algeria and I live in Oran, and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "من كوريا وجيت لدزاير",
+        "translation": "From Korea and I came to Algeria"
+      },
+      {
+        "character": "person_b",
+        "text": "مرحبا بيك شا تخدم وشحال عندك من عام؟",
+        "translation": "Welcome, what do you work and how many years do you have?"
+      },
+      {
+        "character": "person_a",
+        "text": "عندي ثلاثين عام نخدم مهندس برمجيات ونت؟",
+        "translation": "I have thirty years, I work as a software engineer, and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "نقري عربية ونعاون ناس باش يتعلموها",
+        "translation": "I teach Arabic and I help people to learn it"
+      },
+      {
+        "character": "person_a",
+        "text": "كي غاية فرحت لي تعرفت بيك",
+        "translation": "How good, I'm happy I got to know you"
+      }
+    ],
+    "tags": ["self_introduction", "personal_info", "meeting"],
+    "backgroundImage": null
+  },
+  {
+    "id": "self_introduction_eastern_dialect",
+    "level": "beginner",
+    "language": "eastern_dialect",
+    "title": "التعريف بالنفس - الشرق الجزائري",
+    "description": "محادثة للتعريف بالنفس باللهجة الشرقية الجزائرية",
+    "scenario": "التعريف بالنفس والتعارف مع شخص جديد في الشرق الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "عالسلامة أنا كيم وانت؟",
+        "translation": "Hello, I'm Kim and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "عالسلامة أنا ليلى فرحانة ياسر لي عرفتك",
+        "translation": "Hello, I'm Layla, very happy I met you"
+      },
+      {
+        "character": "person_a",
+        "text": "حتا أنا من وين انت",
+        "translation": "Me too, where are you from?"
+      },
+      {
+        "character": "person_b",
+        "text": "مالدزاير وڨاعدة في وهران دك",
+        "translation": "From Algeria and I live in Oran, you?"
+      },
+      {
+        "character": "person_a",
+        "text": "أنا من كوريا وجيت لدزاير",
+        "translation": "I'm from Korea and I came to Algeria"
+      },
+      {
+        "character": "person_b",
+        "text": "مرحبا بيك واش ڨاعد تخدم وڨداه عمرك؟",
+        "translation": "Welcome, what do you work and how old are you?"
+      },
+      {
+        "character": "person_a",
+        "text": "عمري ثلاثين سنة نخدم مهندس برمجيات وانت؟",
+        "translation": "I'm thirty years old, I work as a software engineer, and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "نقري عربية ونعاون ناس يتعلماها",
+        "translation": "I teach Arabic and I help people learn it"
+      },
+      {
+        "character": "person_a",
+        "text": "باهي متشرفين",
+        "translation": "Good, honored to meet you"
+      }
+    ],
+    "tags": ["self_introduction", "personal_info", "meeting"],
+    "backgroundImage": null
+  },
+  {
+    "id": "self_introduction_southern_dialect",
+    "level": "beginner",
+    "language": "southern_dialect",
+    "title": "التعريف بالنفس - الجنوب الجزائري",
+    "description": "محادثة للتعريف بالنفس باللهجة الجنوبية الجزائرية",
+    "scenario": "التعريف بالنفس والتعارف مع شخص جديد في الجنوب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "سلام أنا كيم وانت؟",
+        "translation": "Hello, I'm Kim and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "سلام أنا ليلى فرحانة لي عرفتك",
+        "translation": "Hello, I'm Layla, happy I met you"
+      },
+      {
+        "character": "person_a",
+        "text": "وتشوف أنا من وين انت",
+        "translation": "You see, me too, where are you from?"
+      },
+      {
+        "character": "person_b",
+        "text": "من دزاير ونسكن في وهران وانت",
+        "translation": "From Algeria and I live in Oran, and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "من كوريا وجيت لدزاير",
+        "translation": "From Korea and I came to Algeria"
+      },
+      {
+        "character": "person_b",
+        "text": "مرحبا بيك واش تخدم وشحال عمرك؟",
+        "translation": "Welcome, what do you work and how old are you?"
+      },
+      {
+        "character": "person_a",
+        "text": "تلاثين سنة ونَخدم مهندس برمجيات وانتِ",
+        "translation": "Thirty years old and I work as a software engineer, and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "نقري لغة عربية ونعاون ناس يتعلموها",
+        "translation": "I teach Arabic language and I help people learn it"
+      },
+      {
+        "character": "person_a",
+        "text": "حاجة زينة متشرفين",
+        "translation": "Good thing, honored to meet you"
+      }
+    ],
+    "tags": ["self_introduction", "personal_info", "meeting"],
+    "backgroundImage": null
+  }
+]

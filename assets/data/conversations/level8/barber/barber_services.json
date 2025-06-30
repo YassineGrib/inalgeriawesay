@@ -1,0 +1,274 @@
+[
+  {
+    "id": "barber_standard_arabic",
+    "level": "expert",
+    "language": "standard_arabic",
+    "title": "عند الحلاق - العربية الفصحى",
+    "description": "محادثة عند الحلاق لقص الشعر وتهذيب اللحية",
+    "scenario": "قص الشعر وتهذيب اللحية عند الحلاق",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مرحباً هل يمكنني الحصول على قصة شعر؟",
+        "translation": "Hello, can I get a haircut?"
+      },
+      {
+        "character": "barber",
+        "text": "أهلاً وسهلاً نعم تفضل بالجلوس كيف تريد قص شعرك؟",
+        "translation": "Welcome, yes please sit down, how do you want your hair cut?"
+      },
+      {
+        "character": "customer",
+        "text": "أريده قصير في الجانبين وطويل في الأعلى",
+        "translation": "I want it short on the sides and long on top"
+      },
+      {
+        "character": "barber",
+        "text": "هل تفضل استخدام المقص أو الماكينة؟",
+        "translation": "Do you prefer using scissors or the machine?"
+      },
+      {
+        "character": "customer",
+        "text": "الماكينة على الجانبين والمقص في الأعلى",
+        "translation": "Machine on the sides and scissors on top"
+      },
+      {
+        "character": "barber",
+        "text": "فهمت، هل ترغب في تهذيب لحيتك أيضاً؟",
+        "translation": "I understand, would you like to trim your beard as well?"
+      },
+      {
+        "character": "customer",
+        "text": "نعم لكن قليلاً فقط",
+        "translation": "Yes, but just a little"
+      }
+    ],
+    "tags": ["barber", "haircut", "grooming"],
+    "backgroundImage": null
+  },
+  {
+    "id": "barber_amazigh",
+    "level": "expert",
+    "language": "amazigh",
+    "title": "عند الحلاق - الأمازيغية",
+    "description": "محادثة عند الحلاق باللغة الأمازيغية",
+    "scenario": "قص الشعر وتهذيب اللحية عند الحلاق",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "Azul zemreɣ ad iyi-gezmeḍ acebbub?",
+        "translation": "Hello, can you cut my hair?"
+      },
+      {
+        "character": "barber",
+        "text": "Azul fell-ak ih ɛafak qqim amek tebɣiḍ ad tt-gezmeɣ yiɣef-ik?",
+        "translation": "Hello, yes please sit down, how do you want me to cut your hair?"
+      },
+      {
+        "character": "customer",
+        "text": "Bɣiɣ-tt d tawezlant deg yidisan d laɣerfant deg ufella",
+        "translation": "I want it short on the sides and long on top"
+      },
+      {
+        "character": "barber",
+        "text": "Tḥemmleḍ ad nesqedec timqstin neɣ tmacint?",
+        "translation": "Do you prefer to use scissors or the machine?"
+      },
+      {
+        "character": "customer",
+        "text": "Tamacint-nni deg yidisan ma d timqstin deg ufella",
+        "translation": "The machine on the sides and scissors on top"
+      },
+      {
+        "character": "barber",
+        "text": "Tfehmeḍ-t tebɣiḍ ad gezmeɣ tamart-ik?",
+        "translation": "I understand, do you want me to trim your beard?"
+      },
+      {
+        "character": "customer",
+        "text": "Ih, maca cwiṭ kan",
+        "translation": "Yes, but just a little"
+      }
+    ],
+    "tags": ["barber", "haircut", "grooming"],
+    "backgroundImage": null
+  },
+  {
+    "id": "barber_northern_dialect",
+    "level": "expert",
+    "language": "northern_dialect",
+    "title": "عند الحلاق - الشمال الجزائري",
+    "description": "محادثة عند الحلاق باللهجة الشمالية الجزائرية",
+    "scenario": "قص الشعر وتهذيب اللحية عند الحلاق",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام حايب ندير كوبا",
+        "translation": "Hello, I want to get a haircut"
+      },
+      {
+        "character": "barber",
+        "text": "وي جوز اقعد كيفاش تحبها؟",
+        "translation": "Yes, come sit down, how do you want it?"
+      },
+      {
+        "character": "customer",
+        "text": "نحيلي من ومن والفوق خليه طويل",
+        "translation": "Cut it short on the sides and leave the top long"
+      },
+      {
+        "character": "barber",
+        "text": "داكور تحب بالمقص ولا طوندوز؟",
+        "translation": "OK, do you want it with scissors or clippers?"
+      },
+      {
+        "character": "customer",
+        "text": "المقص لفوق والطوندوز في الجوانب",
+        "translation": "Scissors on top and clippers on the sides"
+      },
+      {
+        "character": "barber",
+        "text": "أوك تطراسي لحيتك؟",
+        "translation": "OK, do you want to trim your beard?"
+      },
+      {
+        "character": "customer",
+        "text": "ايه شوي أما",
+        "translation": "Yes, just a little"
+      }
+    ],
+    "tags": ["barber", "haircut", "grooming"],
+    "backgroundImage": null
+  },
+  {
+    "id": "barber_western_dialect",
+    "level": "expert",
+    "language": "western_dialect",
+    "title": "عند الحلاق - الغرب الجزائري",
+    "description": "محادثة عند الحلاق باللهجة الغربية الجزائرية",
+    "scenario": "قص الشعر وتهذيب اللحية عند الحلاق",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام بانديركوبا",
+        "translation": "Hello, I want to get a haircut"
+      },
+      {
+        "character": "barber",
+        "text": "واه مرحبا اقعد كيش باغيها؟",
+        "translation": "Yes, welcome, sit down, how do you want it?"
+      },
+      {
+        "character": "customer",
+        "text": "نقصلي على لطراف ولفوق خليه طويل",
+        "translation": "Cut it on the sides and leave the top long"
+      },
+      {
+        "character": "barber",
+        "text": "صاحا تقلع بالمقص ولا طوندوز؟",
+        "translation": "OK, do you want it cut with scissors or clippers?"
+      },
+      {
+        "character": "customer",
+        "text": "بالطوندوز في لطراف ولفوق بالمقص",
+        "translation": "With clippers on the sides and scissors on top"
+      },
+      {
+        "character": "barber",
+        "text": "صاحا وتطراسي اللحية؟",
+        "translation": "OK, and do you want to trim the beard?"
+      },
+      {
+        "character": "customer",
+        "text": "واه شوية حمبوك",
+        "translation": "Yes, a little, thank you"
+      }
+    ],
+    "tags": ["barber", "haircut", "grooming"],
+    "backgroundImage": null
+  },
+  {
+    "id": "barber_eastern_dialect",
+    "level": "expert",
+    "language": "eastern_dialect",
+    "title": "عند الحلاق - الشرق الجزائري",
+    "description": "محادثة عند الحلاق باللهجة الشرقية الجزائرية",
+    "scenario": "قص الشعر وتهذيب اللحية عند الحلاق",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "عسلامة نحب نمقص شعري",
+        "translation": "Hello, I want to cut my hair"
+      },
+      {
+        "character": "barber",
+        "text": "باهي اتفضل كيفاش تحب؟",
+        "translation": "Good, please sit down, how do you want it?"
+      },
+      {
+        "character": "customer",
+        "text": "نقصلي عالطراف والفرق المقص",
+        "translation": "Cut it on the sides and the top with scissors"
+      },
+      {
+        "character": "barber",
+        "text": "تطراسي اللحية؟",
+        "translation": "Do you want to trim the beard?"
+      },
+      {
+        "character": "customer",
+        "text": "آي أما شوي برك موش ياسر",
+        "translation": "Yes, but just a little, not too much"
+      }
+    ],
+    "tags": ["barber", "haircut", "grooming"],
+    "backgroundImage": null
+  },
+  {
+    "id": "barber_southern_dialect",
+    "level": "expert",
+    "language": "southern_dialect",
+    "title": "عند الحلاق - الجنوب الجزائري",
+    "description": "محادثة عند الحلاق باللهجة الجنوبية الجزائرية",
+    "scenario": "قص الشعر وتهذيب اللحية عند الحلاق",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام باقي نحفف شعري",
+        "translation": "Hello, I want to cut my hair"
+      },
+      {
+        "character": "barber",
+        "text": "سلام اقعد كيفاش ديرلو؟",
+        "translation": "Hello, sit down, how do you want it done?"
+      },
+      {
+        "character": "customer",
+        "text": "نقصلي منا ومنا والفوق طويل الربي",
+        "translation": "Cut it on the sides and leave the top long, please"
+      },
+      {
+        "character": "barber",
+        "text": "صاحا نقصلك بالماشينة ولا لمقص؟",
+        "translation": "OK, should I cut it with the machine or scissors?"
+      },
+      {
+        "character": "customer",
+        "text": "منا منا بالماشينة والفوق لمقص",
+        "translation": "Sides with the machine and top with scissors"
+      },
+      {
+        "character": "barber",
+        "text": "صاحا وتطراسي اللحية؟",
+        "translation": "OK, and do you want to trim the beard?"
+      },
+      {
+        "character": "customer",
+        "text": "اييه شوي",
+        "translation": "Yes, a little"
+      }
+    ],
+    "tags": ["barber", "haircut", "grooming"],
+    "backgroundImage": null
+  }
+]

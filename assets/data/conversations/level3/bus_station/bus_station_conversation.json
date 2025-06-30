@@ -1,0 +1,314 @@
+[
+  {
+    "id": "bus_station_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في محطة الحافلات - العربية الفصحى",
+    "description": "محادثة في محطة الحافلات للاستفسار عن مواعيد الحافلات",
+    "scenario": "الاستفسار عن موعد الحافلة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "سلام من فضلك متى ستصل الحافلة رقم 10؟",
+        "translation": "Hello, when will bus number 10 arrive please?"
+      },
+      {
+        "character": "staff",
+        "text": "ستصل خلال 15 دقيقة إلى أين تتجه؟",
+        "translation": "It will arrive in 15 minutes, where are you heading?"
+      },
+      {
+        "character": "passenger",
+        "text": "أريد الذهاب إلى وسط المدينة",
+        "translation": "I want to go to the city center"
+      },
+      {
+        "character": "staff",
+        "text": "الحافلة تذهب إلى هناك يمكنك ركوبها من هذا الرصيف",
+        "translation": "The bus goes there, you can board it from this platform"
+      },
+      {
+        "character": "passenger",
+        "text": "شكرا لقد جاءت سأذهب",
+        "translation": "Thank you, it has come, I'll go"
+      },
+      {
+        "character": "driver",
+        "text": "بعد قليل أنزل في وسط المدينة",
+        "translation": "In a little while, get off at the city center"
+      },
+      {
+        "character": "passenger",
+        "text": "كم السعر وهل أدفع نقدا",
+        "translation": "How much is the price and do I pay cash?"
+      },
+      {
+        "character": "driver",
+        "text": "نعم السعر 20 دينار",
+        "translation": "Yes, the price is 20 dinars"
+      }
+    ],
+    "tags": ["bus", "station", "transport"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bus_station_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في محطة الحافلات - الأمازيغية",
+    "description": "محادثة في محطة الحافلات للاستفسار عن مواعيد الحافلات باللغة الأمازيغية",
+    "scenario": "الاستفسار عن موعد الحافلة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "Azul ɛafak melmi ara d-yaweḍ ikaṛ wis 10?",
+        "translation": "Hello please, when will bus number 10 arrive?"
+      },
+      {
+        "character": "staff",
+        "text": "Deg 15 dqayeq ad taweḍ ɣer wanda ara tmuḥeḍ?",
+        "translation": "In 15 minutes it will arrive, where are you going?"
+      },
+      {
+        "character": "passenger",
+        "text": "Bɣiɣ ad ṛuḥeɣ ɣer tlemmast n temdint",
+        "translation": "I want to go to the city center"
+      },
+      {
+        "character": "staff",
+        "text": "Lkaṛ ad iruḥ ɣer dinna tzemreḍ ad t-taliḍ seg uqaɛa-agi",
+        "translation": "The bus goes there, you can take it from this platform"
+      },
+      {
+        "character": "passenger",
+        "text": "Tanemmirt ad ṛuḥeɣ",
+        "translation": "Thank you, I'll go"
+      },
+      {
+        "character": "driver",
+        "text": "Send kra n wakud, ad ṛuḥeɣ ɣer tlemmast n temdint",
+        "translation": "After a little while, get off at the city center"
+      },
+      {
+        "character": "passenger",
+        "text": "Acḥal ssuma-s yerna ad xellṣeɣ s yidrimen?",
+        "translation": "How much is the price and do I pay with money?"
+      },
+      {
+        "character": "driver",
+        "text": "Ih ssuma-s d 20 n yidinaren",
+        "translation": "Yes, the price is 20 dinars"
+      }
+    ],
+    "tags": ["bus", "station", "transport"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bus_station_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في محطة الحافلات - الشمال الجزائري",
+    "description": "محادثة في محطة الحافلات باللهجة الشمالية الجزائرية",
+    "scenario": "الاستفسار عن موعد الحافلة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "سلام تعيش وينتا يوصل البيس نيميرو 10",
+        "translation": "Hello, when does bus number 10 arrive?"
+      },
+      {
+        "character": "staff",
+        "text": "ربع ساعة ويوصل وين حتروح",
+        "translation": "Quarter hour and it arrives, where are you going?"
+      },
+      {
+        "character": "passenger",
+        "text": "حايب نروح للسونترفيل",
+        "translation": "I want to go to the center"
+      },
+      {
+        "character": "staff",
+        "text": "ايه يجوز لتم زوح قبالة بش تطلع",
+        "translation": "Yes, it goes there, go opposite to get on"
+      },
+      {
+        "character": "passenger",
+        "text": "تعيش راي جات",
+        "translation": "Thank you, it has come"
+      },
+      {
+        "character": "driver",
+        "text": "ايا السونترفيل",
+        "translation": "Hey, the center"
+      },
+      {
+        "character": "passenger",
+        "text": "تعيش خو شحال",
+        "translation": "Thank you brother, how much?"
+      },
+      {
+        "character": "driver",
+        "text": "20 دينار",
+        "translation": "20 dinars"
+      }
+    ],
+    "tags": ["bus", "station", "transport"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bus_station_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في محطة الحافلات - الشرق الجزائري",
+    "description": "محادثة في محطة الحافلات باللهجة الشرقية الجزائرية",
+    "scenario": "الاستفسار عن موعد الحافلة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "سلام يعيش خويا عڨداه يوصل البيس نومرو 10",
+        "translation": "Hello, when does bus number 10 arrive, my brother?"
+      },
+      {
+        "character": "staff",
+        "text": "ربع ساعة هكاك وين حاب تروح؟",
+        "translation": "Quarter hour like that, where do you want to go?"
+      },
+      {
+        "character": "passenger",
+        "text": "للسونترفيل",
+        "translation": "To the center"
+      },
+      {
+        "character": "staff",
+        "text": "اي يعجب من فم",
+        "translation": "Yes, it goes from here"
+      },
+      {
+        "character": "passenger",
+        "text": "يعيشك راو جا",
+        "translation": "Thank you, it has come"
+      },
+      {
+        "character": "driver",
+        "text": "أو السونترفيل آ",
+        "translation": "Oh, the center"
+      },
+      {
+        "character": "passenger",
+        "text": "بڨداه اصحيبي",
+        "translation": "How much, my friend?"
+      },
+      {
+        "character": "driver",
+        "text": "20",
+        "translation": "20"
+      }
+    ],
+    "tags": ["bus", "station", "transport"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bus_station_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في محطة الحافلات - الغرب الجزائري",
+    "description": "محادثة في محطة الحافلات باللهجة الغربية الجزائرية",
+    "scenario": "الاستفسار عن موعد الحافلة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "سلام حمبوك على قداه يوصل البيس نيميرو 10",
+        "translation": "Hello, when does bus number 10 arrive?"
+      },
+      {
+        "character": "staff",
+        "text": "ربع ساعة ولا وين بتروح",
+        "translation": "Quarter hour or so, where are you going?"
+      },
+      {
+        "character": "passenger",
+        "text": "بانروح للسونترفيل",
+        "translation": "I'm going to the center"
+      },
+      {
+        "character": "staff",
+        "text": "واه يفوت من تم روح نيشان به تركب",
+        "translation": "Yes, it passes from there, go straight to get on"
+      },
+      {
+        "character": "passenger",
+        "text": "حفضم راو جا",
+        "translation": "Thank you, it has come"
+      },
+      {
+        "character": "driver",
+        "text": "أيا السنترفيل",
+        "translation": "Hey, the center"
+      },
+      {
+        "character": "passenger",
+        "text": "شحال حمبوك",
+        "translation": "How much, thank you"
+      },
+      {
+        "character": "driver",
+        "text": "20 دينار",
+        "translation": "20 dinars"
+      }
+    ],
+    "tags": ["bus", "station", "transport"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bus_station_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في محطة الحافلات - الجنوب الجزائري",
+    "description": "محادثة في محطة الحافلات باللهجة الجنوبية الجزائرية",
+    "scenario": "الاستفسار عن موعد الحافلة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "سلام الربي على قداه يوصل الكار نيميرو 10",
+        "translation": "Hello, when does car number 10 arrive?"
+      },
+      {
+        "character": "staff",
+        "text": "ربع ساعة ولا وين باقي تروح",
+        "translation": "Quarter hour or so, where are you going?"
+      },
+      {
+        "character": "passenger",
+        "text": "للسنترفيل",
+        "translation": "To the center"
+      },
+      {
+        "character": "staff",
+        "text": "اييه يفوت من تما روح طول بع تركب",
+        "translation": "Yes, it passes from there, go straight to get on"
+      },
+      {
+        "character": "passenger",
+        "text": "ربي يحفظك",
+        "translation": "May God protect you"
+      },
+      {
+        "character": "driver",
+        "text": "السونترفيل أيا السونترفيل",
+        "translation": "The center, hey the center"
+      },
+      {
+        "character": "passenger",
+        "text": "شحال الربي",
+        "translation": "How much, by God"
+      },
+      {
+        "character": "driver",
+        "text": "20 دينار",
+        "translation": "20 dinars"
+      }
+    ],
+    "tags": ["bus", "station", "transport"],
+    "backgroundImage": null
+  }
+]

@@ -1,0 +1,93 @@
+name: inalgeriawesay
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # State management and hooks
+  provider: ^6.1.2
+  flutter_hooks: ^0.21.2
+
+  # Local storage
+  shared_preferences: ^2.2.3
+
+  # Video player for offline videos
+  video_player: ^2.8.6
+
+  # JSON handling
+  json_annotation: ^4.9.0
+
+  # YouTube player
+  youtube_player_flutter: ^9.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+  build_runner: ^2.4.9
+  json_serializable: ^6.8.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/
+    - assets/data/dialogues/
+    - assets/data/conversations/
+    - assets/data/conversations/meetings/
+    - assets/data/conversations/meetings/first_meetings/
+    - assets/data/conversations/meetings/acquaintance_reunions/
+    - assets/data/conversations/greetings/
+    - assets/data/conversations/greetings/morning/
+    - assets/data/conversations/greetings/evening/
+    - assets/data/conversations/greetings/farewell/
+    - assets/data/conversations/greetings/phone/
+    - assets/data/conversations/introductions/
+    - assets/data/conversations/introductions/self_introduction/
+    - assets/data/conversations/travel/
+    - assets/data/conversations/travel/airport/
+    - assets/data/conversations/travel/taxi/
+    - assets/data/conversations/travel/hotel_booking/
+    - assets/data/conversations/travel/accommodation_search/
+    - assets/data/conversations/level3/
+    - assets/data/conversations/level3/bus_station/
+    - assets/data/conversations/level3/metro_station/
+    - assets/data/conversations/level3/restaurant/
+    - assets/data/conversations/level4/
+    - assets/data/conversations/level4/street_help/
+    - assets/data/conversations/level4/job_interview/
+    - assets/data/conversations/level4/post_office/
+    - assets/data/conversations/level5/
+    - assets/data/conversations/level5/hospital/
+    - assets/data/conversations/level5/pharmacy/
+    - assets/data/conversations/level5/police_station/
+    - assets/data/conversations/level5/traditional_market/
+    - assets/data/conversations/level6/
+    - assets/data/conversations/level6/grocery_store/
+    - assets/data/conversations/level6/supermarket/
+    - assets/data/conversations/level6/butcher_shop/
+    - assets/data/conversations/level6/bakery/
+    - assets/data/conversations/level7/
+    - assets/data/conversations/level7/school/
+    - assets/data/conversations/level7/university/
+    - assets/data/conversations/level7/gym/
+    - assets/data/conversations/level7/library/
+    - assets/data/conversations/level7/mosque/
+    - assets/data/conversations/level8/
+    - assets/data/conversations/level8/hammam/
+    - assets/data/conversations/level8/barber/
+    - assets/data/conversations/level8/cinema/
+    - assets/data/conversations/level8/park/
+    - assets/images/
+    - assets/images/scientists/
+    - assets/videos/

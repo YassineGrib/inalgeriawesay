@@ -1,0 +1,194 @@
+[
+  {
+    "id": "library_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في المكتبة العامة - العربية الفصحى",
+    "description": "محادثة في المكتبة حول استعارة الكتب وإصدار البطاقة",
+    "scenario": "استعارة كتاب من المكتبة العامة والحصول على بطاقة المكتبة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "مرحباً، هل يمكنني استعارة كتاب؟",
+        "translation": "Hello, can I borrow a book?"
+      },
+      {
+        "character": "librarian",
+        "text": "نعم، هل لديك بطاقة المكتبة؟",
+        "translation": "Yes, do you have a library card?"
+      },
+      {
+        "character": "visitor",
+        "text": "لا كيف أحصل عليها؟",
+        "translation": "No, how do I get one?"
+      },
+      {
+        "character": "librarian",
+        "text": "تحتاج إلى جواز السفر وصورة شمسية",
+        "translation": "You need a passport and a photo"
+      }
+    ],
+    "tags": ["library", "books", "card"],
+    "backgroundImage": null
+  },
+  {
+    "id": "library_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في المكتبة العامة - الأمازيغية",
+    "description": "محادثة في المكتبة باللغة الأمازيغية",
+    "scenario": "استعارة كتاب من المكتبة العامة والحصول على بطاقة المكتبة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "Azul zemreɣ ad rḍleɣ adlis?",
+        "translation": "Hello, can I borrow a book?"
+      },
+      {
+        "character": "librarian",
+        "text": "Ih tesɛiḍ takarḍa n temkarḍit?",
+        "translation": "Yes, do you have a library card?"
+      },
+      {
+        "character": "visitor",
+        "text": "Ala amek ara t-id-awiɣ?",
+        "translation": "No, how do I get it?"
+      },
+      {
+        "character": "librarian",
+        "text": "Teḥwağeḍ apaspur d yiwet n tugna",
+        "translation": "You need a passport and a photo"
+      }
+    ],
+    "tags": ["library", "books", "card"],
+    "backgroundImage": null
+  },
+  {
+    "id": "library_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في المكتبة العامة - الشمال الجزائري",
+    "description": "محادثة في المكتبة باللهجة الشمالية الجزائرية",
+    "scenario": "استعارة كتاب من المكتبة العامة والحصول على بطاقة المكتبة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "سلام حايب ندي كتاب نقدر؟",
+        "translation": "Hello, I want to take a book, can I?"
+      },
+      {
+        "character": "librarian",
+        "text": "ايه تقدر اسك عندك لاكارت ديال المكتبة؟",
+        "translation": "Yes, you can, do you have the library card?"
+      },
+      {
+        "character": "visitor",
+        "text": "لا لا كيفاش نخدمها؟",
+        "translation": "No, no, how do I make it?"
+      },
+      {
+        "character": "librarian",
+        "text": "بالباسبور وفوطو",
+        "translation": "With passport and photo"
+      }
+    ],
+    "tags": ["library", "books", "card"],
+    "backgroundImage": null
+  },
+  {
+    "id": "library_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في المكتبة العامة - الغرب الجزائري",
+    "description": "محادثة في المكتبة باللهجة الغربية الجزائرية",
+    "scenario": "استعارة كتاب من المكتبة العامة والحصول على بطاقة المكتبة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "سلام با ندي كتاب أسك نقد؟",
+        "translation": "Hello, I want to take a book, can I?"
+      },
+      {
+        "character": "librarian",
+        "text": "واه تقد عندك لاكارت تع المكتبة",
+        "translation": "Yes, you can, do you have the library card?"
+      },
+      {
+        "character": "visitor",
+        "text": "لا كيفاه نخدمها",
+        "translation": "No, how do I make it?"
+      },
+      {
+        "character": "librarian",
+        "text": "بالباسبور وفوطو",
+        "translation": "With passport and photo"
+      }
+    ],
+    "tags": ["library", "books", "card"],
+    "backgroundImage": null
+  },
+  {
+    "id": "library_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في المكتبة العامة - الشرق الجزائري",
+    "description": "محادثة في المكتبة باللهجة الشرقية الجزائرية",
+    "scenario": "استعارة كتاب من المكتبة العامة والحصول على بطاقة المكتبة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "علامة نجم ندي كتاب؟",
+        "translation": "Hello, can I take a book?"
+      },
+      {
+        "character": "librarian",
+        "text": "آي تنجم عندك لاكارت تيع المكتبة؟",
+        "translation": "Yes, you can, do you have the library card?"
+      },
+      {
+        "character": "visitor",
+        "text": "لا ماعنديش بربي كيفاه نخدمها؟",
+        "translation": "No, I don't have it, please how do I make it?"
+      },
+      {
+        "character": "librarian",
+        "text": "بالباسبور وتصويرة",
+        "translation": "With passport and photo"
+      }
+    ],
+    "tags": ["library", "books", "card"],
+    "backgroundImage": null
+  },
+  {
+    "id": "library_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في المكتبة العامة - الجنوب الجزائري",
+    "description": "محادثة في المكتبة باللهجة الجنوبية الجزائرية",
+    "scenario": "استعارة كتاب من المكتبة العامة والحصول على بطاقة المكتبة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "سلام باقي ندي كتاب نطيق وا؟",
+        "translation": "Hello, I want to take a book, can I?"
+      },
+      {
+        "character": "librarian",
+        "text": "ايه تدي عندك لاكارت وا؟",
+        "translation": "Yes, you can take, do you have the card?"
+      },
+      {
+        "character": "visitor",
+        "text": "والوا كيفاش نخدمها؟",
+        "translation": "No, how do I make it?"
+      },
+      {
+        "character": "librarian",
+        "text": "بالباسبور وتصويرة",
+        "translation": "With passport and photo"
+      }
+    ],
+    "tags": ["library", "books", "card"],
+    "backgroundImage": null
+  }
+]

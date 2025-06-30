@@ -1,0 +1,39 @@
+[
+  {
+    "id": "first_meeting_amazigh",
+    "level": "beginner",
+    "language": "amazigh",
+    "title": "لقاء أول - الأمازيغية",
+    "description": "محادثة للتعارف لأول مرة باللغة الأمازيغية (تمازيغت)",
+    "scenario": "لقاء مع شخص لأول مرة باللغة الأمازيغية",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "Azul",
+        "translation": "Hello/Peace"
+      },
+      {
+        "character": "person_b",
+        "text": "Azul Amek tellelid",
+        "translation": "Hello, how are you?"
+      },
+      {
+        "character": "person_a",
+        "text": "Tanemmirt Rebbi dkunui",
+        "translation": "Thank God, I'm fine"
+      },
+      {
+        "character": "person_b",
+        "text": "lhi l ; s imi k-malaley",
+        "translation": "Good, praise be, nice to meet you"
+      },
+      {
+        "character": "person_a",
+        "text": "Snemmer -iyi dayem imi k-mlaley",
+        "translation": "I'm also always happy to meet you"
+      }
+    ],
+    "tags": ["greeting", "amazigh", "first_meeting", "introduction", "berber"],
+    "backgroundImage": null
+  }
+]

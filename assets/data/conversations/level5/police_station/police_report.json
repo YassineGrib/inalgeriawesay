@@ -1,0 +1,194 @@
+[
+  {
+    "id": "police_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في مركز الشرطة - العربية الفصحى",
+    "description": "محادثة في مركز الشرطة للإبلاغ عن فقدان المحفظة",
+    "scenario": "الإبلاغ عن فقدان المحفظة في مركز الشرطة",
+    "dialogue": [
+      {
+        "character": "citizen",
+        "text": "مساء الخير أريد تقديم بلاغ عن فقدان محفظتي",
+        "translation": "Good evening, I want to file a report about losing my wallet"
+      },
+      {
+        "character": "officer",
+        "text": "متى وأين فقدتها وما هي محتوياتها؟",
+        "translation": "When and where did you lose it and what are its contents?"
+      },
+      {
+        "character": "citizen",
+        "text": "فقدتها أمس في القصبة كانت تحتوي على بطاقتي الوطنية وبعض المال",
+        "translation": "I lost it yesterday in the Casbah, it contained my national ID and some money"
+      },
+      {
+        "character": "officer",
+        "text": "حسناً، سنسجل البلاغ ونبحث في الكاميرات اترك معلوماتك وسنتصل بك",
+        "translation": "Alright, we will register the report and check the cameras, leave your information and we will contact you"
+      }
+    ],
+    "tags": ["police", "report", "lost"],
+    "backgroundImage": null
+  },
+  {
+    "id": "police_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في مركز الشرطة - الأمازيغية",
+    "description": "محادثة في مركز الشرطة باللغة الأمازيغية",
+    "scenario": "الإبلاغ عن فقدان المحفظة في مركز الشرطة",
+    "dialogue": [
+      {
+        "character": "citizen",
+        "text": "Tameddit yelhan bɣiɣ ad d-awiɣ aṛabul ɣef lexṣaṣ n tesfift-iw",
+        "translation": "Good evening, I want to bring a report about losing my wallet"
+      },
+      {
+        "character": "officer",
+        "text": "Melmi d wanda i t-texṣeḍ d wacu i d-yellan deg-s?",
+        "translation": "When and where did you lose it and what was in it?"
+      },
+      {
+        "character": "citizen",
+        "text": "Ssexṣareɣ-tt iḍelli di Kasbah tella deg-s tkarḍa-inu taɣelnawt d kra n yidrimen",
+        "translation": "I lost it yesterday in the Casbah, it had my national card and some money"
+      },
+      {
+        "character": "officer",
+        "text": "Ssarameɣ ad nessekles aḍris-nni yerna ad nnadi deg tkamerat, eǧǧ-d isalan-ik ad k-neḍfer",
+        "translation": "We will register the report and search in the cameras, leave your information and we will call you"
+      }
+    ],
+    "tags": ["police", "report", "lost"],
+    "backgroundImage": null
+  },
+  {
+    "id": "police_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في مركز الشرطة - الشمال الجزائري",
+    "description": "محادثة في مركز الشرطة باللهجة الشمالية الجزائرية",
+    "scenario": "الإبلاغ عن فقدان المحفظة في مركز الشرطة",
+    "dialogue": [
+      {
+        "character": "citizen",
+        "text": "مسلخير بحرت صاكودو ديالي حايب نديكلاري",
+        "translation": "Good evening, I lost my wallet, I want to declare"
+      },
+      {
+        "character": "officer",
+        "text": "وقتاش وكيفاش وين طيحتها وواشن فيها؟",
+        "translation": "When and how and where did you drop it and what's in it?"
+      },
+      {
+        "character": "citizen",
+        "text": "طيحتها البارح في القصبة فيها لاكارت ديالي وشوي دراهم",
+        "translation": "I dropped it yesterday in the Casbah, it has my card and some money"
+      },
+      {
+        "character": "officer",
+        "text": "أوك رح نسجلو البلاغ ديالك ونشوفو الكاميرات خلي المعلومات ديالك ونعيطولك",
+        "translation": "OK, we'll register your report and check the cameras, leave your information and we'll call you"
+      }
+    ],
+    "tags": ["police", "report", "lost"],
+    "backgroundImage": null
+  },
+  {
+    "id": "police_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في مركز الشرطة - الغرب الجزائري",
+    "description": "محادثة في مركز الشرطة باللهجة الغربية الجزائرية",
+    "scenario": "الإبلاغ عن فقدان المحفظة في مركز الشرطة",
+    "dialogue": [
+      {
+        "character": "citizen",
+        "text": "مسلخير طيحت صاكودو تاعي بانديكلاري",
+        "translation": "Good evening, I lost my wallet, I want to declare"
+      },
+      {
+        "character": "officer",
+        "text": "وقتاه وكيفاه ووين طيحته وشافيه",
+        "translation": "When and how and where did you lose it and what's in it?"
+      },
+      {
+        "character": "citizen",
+        "text": "طيحته البارح في الباهية فيه لاكارت تاعي وشوي دراهم",
+        "translation": "I lost it yesterday in Bahia, it has my card and some money"
+      },
+      {
+        "character": "officer",
+        "text": "صاحا رح نسجلو البلاغ تاعك خلي معلوماتك وغادي نشوفو الكاميرات ونعيطولك",
+        "translation": "OK, we'll register your report, leave your information and we'll check the cameras and call you"
+      }
+    ],
+    "tags": ["police", "report", "lost"],
+    "backgroundImage": null
+  },
+  {
+    "id": "police_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في مركز الشرطة - الشرق الجزائري",
+    "description": "محادثة في مركز الشرطة باللهجة الشرقية الجزائرية",
+    "scenario": "الإبلاغ عن فقدان المحفظة في مركز الشرطة",
+    "dialogue": [
+      {
+        "character": "citizen",
+        "text": "مسلخير راحلي الصاكودو تيعي نحب نديكلاري",
+        "translation": "Good evening, my wallet is gone, I want to declare"
+      },
+      {
+        "character": "officer",
+        "text": "عقداش وكيفاش ووين راحلك وواش فاها؟",
+        "translation": "When and how and where did it go and what's in it?"
+      },
+      {
+        "character": "citizen",
+        "text": "راحلي البارح في السوق فاها لاكارت تيعي وصواردي",
+        "translation": "It went yesterday in the market, it has my card and my money"
+      },
+      {
+        "character": "officer",
+        "text": "باهي تو نسجلو البلاغ وباش نشوفو الكاميرات ونعيطولك خلي معلوماتك",
+        "translation": "Good, we'll register the report and we'll check the cameras and call you, leave your information"
+      }
+    ],
+    "tags": ["police", "report", "lost"],
+    "backgroundImage": null
+  },
+  {
+    "id": "police_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في مركز الشرطة - الجنوب الجزائري",
+    "description": "محادثة في مركز الشرطة باللهجة الجنوبية الجزائرية",
+    "scenario": "الإبلاغ عن فقدان المحفظة في مركز الشرطة",
+    "dialogue": [
+      {
+        "character": "citizen",
+        "text": "مسلخير باقي نديكلاري ضيعت صاكودو تاعي",
+        "translation": "Good evening, I want to declare, I lost my wallet"
+      },
+      {
+        "character": "officer",
+        "text": "وين وينتا وكيفاش ضيعتو؟",
+        "translation": "Where and when and how did you lose it?"
+      },
+      {
+        "character": "citizen",
+        "text": "لبارح في بني يزقن فيه لاكارت تاعي ودراهمي",
+        "translation": "Yesterday in Beni Isguen, it has my card and my money"
+      },
+      {
+        "character": "officer",
+        "text": "صاحا خلي معلوماتك ودك نشوفو الكاميرات ونعيطولك ودك نسجل البلاغ",
+        "translation": "OK, leave your information and we'll check the cameras and call you and we'll register the report"
+      }
+    ],
+    "tags": ["police", "report", "lost"],
+    "backgroundImage": null
+  }
+]

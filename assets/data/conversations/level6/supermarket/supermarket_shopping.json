@@ -1,0 +1,194 @@
+[
+  {
+    "id": "supermarket_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في السوبرماركت - العربية الفصحى",
+    "description": "محادثة في السوبرماركت للبحث عن المنتجات",
+    "scenario": "البحث عن منتجات الألبان والمشروبات في السوبرماركت",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مساء الخير أين يمكنني أن أجد الحليب والجبن؟",
+        "translation": "Good evening, where can I find milk and cheese?"
+      },
+      {
+        "character": "staff",
+        "text": "مساء النور يمكنك العثور عليها في القسم المبرد هناك على اليمين",
+        "translation": "Good evening, you can find them in the refrigerated section there on the right"
+      },
+      {
+        "character": "customer",
+        "text": "شكراً وأين أجد العصائر والصودا؟",
+        "translation": "Thank you, and where do I find juices and soda?"
+      },
+      {
+        "character": "staff",
+        "text": "في آخر الممر على اليسار",
+        "translation": "At the end of the aisle on the left"
+      }
+    ],
+    "tags": ["supermarket", "shopping", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "supermarket_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في السوبرماركت - الأمازيغية",
+    "description": "محادثة في السوبرماركت باللغة الأمازيغية",
+    "scenario": "البحث عن منتجات الألبان والمشروبات في السوبرماركت",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "Tameddit yelhan anida zemreɣ ad afeɣ ayefki akk-d ayet",
+        "translation": "Good evening, where can I find milk and cheese?"
+      },
+      {
+        "character": "staff",
+        "text": "Tafat n tmeddit tzemreḍ ad tt-tafeḍ deg weḥric n tfelwit dinna ɣef yidis ayeffus",
+        "translation": "Good evening, you can find it in the refrigerated section there on the right side"
+      },
+      {
+        "character": "customer",
+        "text": "Tanemmirt Anda zemreɣ ad afeɣ igazwal?",
+        "translation": "Thank you, where can I find juices?"
+      },
+      {
+        "character": "staff",
+        "text": "Deg taggara n ubrid s uzelmaḍ",
+        "translation": "At the end of the path on the left"
+      }
+    ],
+    "tags": ["supermarket", "shopping", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "supermarket_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في السوبرماركت - الشمال الجزائري",
+    "description": "محادثة في السوبرماركت باللهجة الشمالية الجزائرية",
+    "scenario": "البحث عن منتجات الألبان والمشروبات في السوبرماركت",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مسلخير وين نقدر نلقى الحليب والفرماج؟",
+        "translation": "Good evening, where can I find milk and cheese?"
+      },
+      {
+        "character": "staff",
+        "text": "مسلخير تلقاه لتم على ليمنة في الفريجيدار",
+        "translation": "Good evening, you'll find it there on the right in the refrigerator"
+      },
+      {
+        "character": "customer",
+        "text": "تعيش والجو والليموناد وين",
+        "translation": "Thank you, and where are the juice and lemonade?"
+      },
+      {
+        "character": "staff",
+        "text": "كمل قبالة على لاقوش",
+        "translation": "Continue straight on the left"
+      }
+    ],
+    "tags": ["supermarket", "shopping", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "supermarket_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في السوبرماركت - الغرب الجزائري",
+    "description": "محادثة في السوبرماركت باللهجة الغربية الجزائرية",
+    "scenario": "البحث عن منتجات الألبان والمشروبات في السوبرماركت",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مسلخير وين نلقى الحليب والفرماج",
+        "translation": "Good evening, where do I find milk and cheese?"
+      },
+      {
+        "character": "staff",
+        "text": "مسلخير تلقاه في الفريجيدار",
+        "translation": "Good evening, you'll find it in the refrigerator"
+      },
+      {
+        "character": "customer",
+        "text": "حفظك والجو واليموناد",
+        "translation": "May you be protected, and the juice and lemonade?"
+      },
+      {
+        "character": "staff",
+        "text": "كمل نيشان على لاقوش",
+        "translation": "Continue straight on the left"
+      }
+    ],
+    "tags": ["supermarket", "shopping", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "supermarket_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في السوبرماركت - الشرق الجزائري",
+    "description": "محادثة في السوبرماركت باللهجة الشرقية الجزائرية",
+    "scenario": "البحث عن منتجات الألبان والمشروبات في السوبرماركت",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "علامة وين نلقاشي الحليب والفرماج؟",
+        "translation": "Hello, where do I find milk and cheese?"
+      },
+      {
+        "character": "staff",
+        "text": "علامة راهم في الفريجيدار عالليمنة",
+        "translation": "Hello, they're in the refrigerator on the right"
+      },
+      {
+        "character": "customer",
+        "text": "باهي والجو والقازوز؟",
+        "translation": "Good, and the juice and soda?"
+      },
+      {
+        "character": "staff",
+        "text": "كمل طول تو تلقاهم اقوش",
+        "translation": "Continue straight, you'll find them on the left"
+      }
+    ],
+    "tags": ["supermarket", "shopping", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "supermarket_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في السوبرماركت - الجنوب الجزائري",
+    "description": "محادثة في السوبرماركت باللهجة الجنوبية الجزائرية",
+    "scenario": "البحث عن منتجات الألبان والمشروبات في السوبرماركت",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام وين نلقا الحليب والجبن",
+        "translation": "Hello, where do I find milk and cheese?"
+      },
+      {
+        "character": "staff",
+        "text": "مرحبا في المبرد على ليمنة",
+        "translation": "Welcome, in the refrigerator on the right"
+      },
+      {
+        "character": "customer",
+        "text": "صحا والجي والقازوز",
+        "translation": "Thank you, and the juice and soda?"
+      },
+      {
+        "character": "staff",
+        "text": "زوح طول على ليسرة تلقاهم",
+        "translation": "Go straight on the left, you'll find them"
+      }
+    ],
+    "tags": ["supermarket", "shopping", "directions"],
+    "backgroundImage": null
+  }
+]

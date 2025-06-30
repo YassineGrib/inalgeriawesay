@@ -1,0 +1,254 @@
+[
+  {
+    "id": "post_office_standard_arabic",
+    "level": "expert",
+    "language": "standard_arabic",
+    "title": "في مكتب البريد - العربية الفصحى",
+    "description": "محادثة في مكتب البريد لسحب المال والتحويلات",
+    "scenario": "سحب المال من الحساب البريدي وإرسال حوالة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "صباح الخير أود سحب بعض المال من حسابي البريدي",
+        "translation": "Good morning, I would like to withdraw some money from my postal account"
+      },
+      {
+        "character": "clerk",
+        "text": "صباح النور، هل لديك بطاقة الحساب أو دفتر التوفير؟",
+        "translation": "Good morning, do you have the account card or savings book?"
+      },
+      {
+        "character": "customer",
+        "text": "نعم، لدي بطاقة الحساب أريد سحب 20000 دينار",
+        "translation": "Yes, I have the account card, I want to withdraw 20,000 dinars"
+      },
+      {
+        "character": "clerk",
+        "text": "لحظة من فضلك أدخل رقمك السري على هذا الجهاز",
+        "translation": "One moment please, enter your PIN on this device"
+      },
+      {
+        "character": "customer",
+        "text": "أريد أيضاً تحويل مبلغ إلى صديق كيف يمكنني فعل ذلك؟",
+        "translation": "I also want to transfer money to a friend, how can I do that?"
+      },
+      {
+        "character": "clerk",
+        "text": "يمكنك استخدام الحوالة البريدية فقط املأ هذا النموذج بالمعلومات اللازمة وسنرسل الحوالة إليه",
+        "translation": "You can use postal money order, just fill this form with the necessary information and we'll send the transfer to him"
+      }
+    ],
+    "tags": ["post", "money", "services"],
+    "backgroundImage": null
+  },
+  {
+    "id": "post_office_amazigh",
+    "level": "expert",
+    "language": "amazigh",
+    "title": "في مكتب البريد - الأمازيغية",
+    "description": "محادثة في مكتب البريد باللغة الأمازيغية",
+    "scenario": "سحب المال من الحساب البريدي وإرسال حوالة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "Azul fellawen bɣiɣ ad d-kkseɣ kra n yidrimen seg umiḍan-iw n yimayl",
+        "translation": "Hello, I want to withdraw some money from my postal account"
+      },
+      {
+        "character": "clerk",
+        "text": "Azul, tesɛiḍ takarḍa n uḥisab neɣ adlis n usmel?",
+        "translation": "Hello, do you have the account card or savings book?"
+      },
+      {
+        "character": "customer",
+        "text": "Ih, sɛiɣ takarḍa n uḥisab bɣiɣ ad d-ssutɣeɣ 20000 n yidinaren",
+        "translation": "Yes, I have the account card, I want to withdraw 20,000 dinars"
+      },
+      {
+        "character": "clerk",
+        "text": "Yawed n teswiɛt ɛafak ssekcem awal-ik uffir deg wallal-a",
+        "translation": "One moment please, enter your secret code on this device"
+      },
+      {
+        "character": "customer",
+        "text": "Bɣiɣ daɣen ad siweḍeɣ azal i umeddakel-iw amek ara xedmeɣ aya?",
+        "translation": "I also want to send money to my friend, how can I do this?"
+      },
+      {
+        "character": "clerk",
+        "text": "Tzemreḍ ad tesqedceḍ asiweḍ n tbaḍnit ccuḍeḍ kan tafelwit-a s yisallen ilazen ad as-d-nazen asiweḍ",
+        "translation": "You can use postal transfer, just fill this form with the necessary information and we'll send the transfer"
+      }
+    ],
+    "tags": ["post", "money", "services"],
+    "backgroundImage": null
+  },
+  {
+    "id": "post_office_northern_dialect",
+    "level": "expert",
+    "language": "northern_dialect",
+    "title": "في مكتب البريد - الشمال الجزائري",
+    "description": "محادثة في مكتب البريد باللهجة الشمالية الجزائرية",
+    "scenario": "سحب المال من الحساب البريدي وإرسال حوالة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "صباح الخير جايب نخرج دراهم من الكونت ديالي",
+        "translation": "Good morning, I want to withdraw money from my account"
+      },
+      {
+        "character": "clerk",
+        "text": "صباح الخير عندك لاكارت",
+        "translation": "Good morning, do you have the card?"
+      },
+      {
+        "character": "customer",
+        "text": "ايه عندي جايب نخرج 20000 دينار",
+        "translation": "Yes I have it, I want to withdraw 20,000 dinars"
+      },
+      {
+        "character": "clerk",
+        "text": "دقيقة تعيش دخل الكود تاعك هنايا",
+        "translation": "One minute please, enter your code here"
+      },
+      {
+        "character": "customer",
+        "text": "حايب تاني نفارسي دراهم لواحد حبيبي كيفاش ندير",
+        "translation": "I also want to send money to a friend, how do I do it?"
+      },
+      {
+        "character": "clerk",
+        "text": "تقدر بشاك سوكور عمرو بالمعلومات ديالو ونبعتولو",
+        "translation": "You can with money order, fill it with his information and we'll send it to him"
+      }
+    ],
+    "tags": ["post", "money", "services"],
+    "backgroundImage": null
+  },
+  {
+    "id": "post_office_western_dialect",
+    "level": "expert",
+    "language": "western_dialect",
+    "title": "في مكتب البريد - الغرب الجزائري",
+    "description": "محادثة في مكتب البريد باللهجة الغربية الجزائرية",
+    "scenario": "سحب المال من الحساب البريدي وإرسال حوالة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "صباح الخير بانخرج دراهم من الكونت تاعي",
+        "translation": "Good morning, I want to withdraw money from my account"
+      },
+      {
+        "character": "clerk",
+        "text": "صباح الخير عندك لاكارت",
+        "translation": "Good morning, do you have the card?"
+      },
+      {
+        "character": "customer",
+        "text": "واه عندي بانخرج 20000 دينار",
+        "translation": "Yes I have it, I want to withdraw 20,000 dinars"
+      },
+      {
+        "character": "clerk",
+        "text": "قاع دقيقة هاك دخل الكود هنا",
+        "translation": "Just a minute, here enter the code here"
+      },
+      {
+        "character": "customer",
+        "text": "باغي تاني نبعت دراهم كيش ندير",
+        "translation": "I also want to send money, how do I do it?"
+      },
+      {
+        "character": "clerk",
+        "text": "شاك سوكور وعمرو بمعلوماتو ونبعتوهالو",
+        "translation": "Money order, fill it with his information and we'll send it to him"
+      }
+    ],
+    "tags": ["post", "money", "services"],
+    "backgroundImage": null
+  },
+  {
+    "id": "post_office_eastern_dialect",
+    "level": "expert",
+    "language": "eastern_dialect",
+    "title": "في مكتب البريد - الشرق الجزائري",
+    "description": "محادثة في مكتب البريد باللهجة الشرقية الجزائرية",
+    "scenario": "سحب المال من الحساب البريدي وإرسال حوالة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "صباح الخير نحب نخرج صوارد من الكونت تاعي",
+        "translation": "Good morning, I want to withdraw money from my account"
+      },
+      {
+        "character": "clerk",
+        "text": "صباح الخير عندك لاكارت",
+        "translation": "Good morning, do you have the card?"
+      },
+      {
+        "character": "customer",
+        "text": "آي عندي",
+        "translation": "Yes I have it"
+      },
+      {
+        "character": "clerk",
+        "text": "شوي برك بربي دخل رقمك لهنا",
+        "translation": "Just a moment, please enter your number here"
+      },
+      {
+        "character": "customer",
+        "text": "نحب تاني نبعث صوارد لصحيبي نجم؟",
+        "translation": "I also want to send money to my friend, can I?"
+      },
+      {
+        "character": "clerk",
+        "text": "آي اكتب معلوماتو في الشاك سوكور وتو نبعثولو",
+        "translation": "Yes, write his information in the money order and we'll send it to him"
+      }
+    ],
+    "tags": ["post", "money", "services"],
+    "backgroundImage": null
+  },
+  {
+    "id": "post_office_southern_dialect",
+    "level": "expert",
+    "language": "southern_dialect",
+    "title": "في مكتب البريد - الجنوب الجزائري",
+    "description": "محادثة في مكتب البريد باللهجة الجنوبية الجزائرية",
+    "scenario": "سحب المال من الحساب البريدي وإرسال حوالة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "صباح الخير باقي نخرج دراهم من الكونت تاعي",
+        "translation": "Good morning, I want to withdraw money from my account"
+      },
+      {
+        "character": "clerk",
+        "text": "صباح النور عندك لاكارت وا؟",
+        "translation": "Good morning, do you have the card?"
+      },
+      {
+        "character": "customer",
+        "text": "اييه عندي",
+        "translation": "Yes I have it"
+      },
+      {
+        "character": "clerk",
+        "text": "ستنا دقيقة ربي اكتب الكود",
+        "translation": "Wait a minute, please write the code"
+      },
+      {
+        "character": "customer",
+        "text": "باقي تاني نبعث دراهم لصاحبي نقدر وا؟",
+        "translation": "I also want to send money to my friend, can I?"
+      },
+      {
+        "character": "clerk",
+        "text": "ايه بشاك سوكور عمر معلوماتو ونبعثولو",
+        "translation": "Yes, with money order, fill his information and we'll send it to him"
+      }
+    ],
+    "tags": ["post", "money", "services"],
+    "backgroundImage": null
+  }
+]

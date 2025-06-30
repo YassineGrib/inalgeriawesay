@@ -1,0 +1,194 @@
+[
+  {
+    "id": "hammam_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في الحمام التقليدي - العربية الفصحى",
+    "description": "محادثة في الحمام التقليدي الجزائري",
+    "scenario": "تجربة الحمام التقليدي الجزائري والاستمتاع بالثقافة المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "مرحباً أريد تجربة الحمام التقليدي، ماذا علي أن أفعل؟",
+        "translation": "Hello, I want to experience the traditional hammam, what should I do?"
+      },
+      {
+        "character": "staff",
+        "text": "أهلاً بك، يمكنك شراء الصابون البلدي والليفة ثم الدخول لقاعة البخار",
+        "translation": "Welcome, you can buy the local soap and loofah then enter the steam room"
+      },
+      {
+        "character": "tourist",
+        "text": "كم تستغرق الجلسة عادة؟",
+        "translation": "How long does the session usually take?"
+      },
+      {
+        "character": "staff",
+        "text": "بقدر ما شئت، نعيماً",
+        "translation": "As long as you wish, enjoy"
+      }
+    ],
+    "tags": ["hammam", "traditional", "spa"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hammam_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في الحمام التقليدي - الأمازيغية",
+    "description": "محادثة في الحمام التقليدي باللغة الأمازيغية",
+    "scenario": "تجربة الحمام التقليدي الجزائري والاستمتاع بالثقافة المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "Azul bɣiɣ ad ɛerdeɣ ḥemmam aqbur d acu ara xedmeɣ?",
+        "translation": "Hello, I want to try the traditional hammam, what should I do?"
+      },
+      {
+        "character": "staff",
+        "text": "Ansuf, tzemreḍ ad tessneḍ ssabun adigan d loofah syen ad tkecmeḍ ɣer texxamt n tbuciḍant",
+        "translation": "Welcome, you can buy the local soap and loofah then enter the steam room"
+      },
+      {
+        "character": "tourist",
+        "text": "Acḥal n lweqt itettattaf s umatayiwet n tɣimit?",
+        "translation": "How much time does the session usually take?"
+      },
+      {
+        "character": "staff",
+        "text": "Akken tebɣiḍ tumert",
+        "translation": "As you wish, enjoy"
+      }
+    ],
+    "tags": ["hammam", "traditional", "spa"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hammam_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في الحمام التقليدي - الشمال الجزائري",
+    "description": "محادثة في الحمام التقليدي باللهجة الشمالية الجزائرية",
+    "scenario": "تجربة الحمام التقليدي الجزائري والاستمتاع بالثقافة المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام حايب نجرب الحمام واش لازم ندير؟",
+        "translation": "Hello, I want to try the hammam, what should I do?"
+      },
+      {
+        "character": "staff",
+        "text": "مرحبا بيك أشري الكياسة وصابون دزاير وادخل لقاعة البخار",
+        "translation": "Welcome, buy the scrubbing glove and Algerian soap and enter the steam room"
+      },
+      {
+        "character": "tourist",
+        "text": "شحال نقدر نبقى؟",
+        "translation": "How long can I stay?"
+      },
+      {
+        "character": "staff",
+        "text": "كيما تحب بصحتك",
+        "translation": "As you like, to your health"
+      }
+    ],
+    "tags": ["hammam", "traditional", "spa"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hammam_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في الحمام التقليدي - الغرب الجزائري",
+    "description": "محادثة في الحمام التقليدي باللهجة الغربية الجزائرية",
+    "scenario": "تجربة الحمام التقليدي الجزائري والاستمتاع بالثقافة المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام بانجرب الحمام شا ندير؟",
+        "translation": "Hello, I want to try the hammam, what should I do?"
+      },
+      {
+        "character": "staff",
+        "text": "مرحبا اشري كياسة وصابون البلدي وادخل لداخل",
+        "translation": "Welcome, buy a scrubbing glove and local soap and enter inside"
+      },
+      {
+        "character": "tourist",
+        "text": "شحال نقد نقعد؟",
+        "translation": "How long can I stay?"
+      },
+      {
+        "character": "staff",
+        "text": "كيما تبغي بصحتك",
+        "translation": "As you wish, to your health"
+      }
+    ],
+    "tags": ["hammam", "traditional", "spa"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hammam_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في الحمام التقليدي - الشرق الجزائري",
+    "description": "محادثة في الحمام التقليدي باللهجة الشرقية الجزائرية",
+    "scenario": "تجربة الحمام التقليدي الجزائري والاستمتاع بالثقافة المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "عسلامة نحب نجرب لحمام واش نعمل؟",
+        "translation": "Hello, I want to try the hammam, what should I do?"
+      },
+      {
+        "character": "staff",
+        "text": "مرحبا اشري كياسة وصابون دزاير وادخل لقاعة البخار",
+        "translation": "Welcome, buy a scrubbing glove and Algerian soap and enter the steam room"
+      },
+      {
+        "character": "tourist",
+        "text": "باهي قداه نبقى؟",
+        "translation": "Good, how long do I stay?"
+      },
+      {
+        "character": "staff",
+        "text": "قد ما تحب بصحتك",
+        "translation": "As much as you want, to your health"
+      }
+    ],
+    "tags": ["hammam", "traditional", "spa"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hammam_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في الحمام التقليدي - الجنوب الجزائري",
+    "description": "محادثة في الحمام التقليدي باللهجة الجنوبية الجزائرية",
+    "scenario": "تجربة الحمام التقليدي الجزائري والاستمتاع بالثقافة المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام باقي نجرب للحمام واش ندير؟",
+        "translation": "Hello, I want to try the hammam, what should I do?"
+      },
+      {
+        "character": "staff",
+        "text": "مرحبا اشري كياسة وصابون دزاير وادخل لقاعة البخار",
+        "translation": "Welcome, buy a scrubbing glove and Algerian soap and enter the steam room"
+      },
+      {
+        "character": "tourist",
+        "text": "وشحال نطيق نقعد؟",
+        "translation": "And how long can I stay?"
+      },
+      {
+        "character": "staff",
+        "text": "كيما تبقي بصحتك",
+        "translation": "As you wish, to your health"
+      }
+    ],
+    "tags": ["hammam", "traditional", "spa"],
+    "backgroundImage": null
+  }
+]

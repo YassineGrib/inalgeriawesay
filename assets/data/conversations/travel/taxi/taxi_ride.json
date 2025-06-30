@@ -1,0 +1,404 @@
+[
+  {
+    "id": "taxi_standard_arabic",
+    "level": "intermediate",
+    "language": "standard_arabic",
+    "title": "طلب وتوقيف سيارة أجرة - العربية الفصحى",
+    "description": "محادثة طلب سيارة أجرة والتفاوض على السعر باللغة العربية الفصحى",
+    "scenario": "طلب سيارة أجرة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "تاكسي",
+        "translation": "Taxi"
+      },
+      {
+        "character": "driver",
+        "text": "نعم إلى أين تريد الذهاب",
+        "translation": "Yes, where do you want to go?"
+      },
+      {
+        "character": "passenger",
+        "text": "أريد الذهاب إلى وسط المدينة كم السعر؟",
+        "translation": "I want to go to the city center, how much is the price?"
+      },
+      {
+        "character": "driver",
+        "text": "تفضل بالصعود 500 دينار",
+        "translation": "Please get in, 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "حسنا اتفقنا",
+        "translation": "Good, we agreed"
+      },
+      {
+        "character": "driver",
+        "text": "هل تفضل طريقا معينا؟",
+        "translation": "Do you prefer a specific route?"
+      },
+      {
+        "character": "passenger",
+        "text": "لا أعرف الطرق هل هناك زحمة اليوم؟",
+        "translation": "I don't know the roads, is there traffic today?"
+      },
+      {
+        "character": "driver",
+        "text": "نعم هناك عند الجسر لكن سنأخذ طريق جانبي",
+        "translation": "Yes there is at the bridge but we'll take a side road"
+      },
+      {
+        "character": "passenger",
+        "text": "نعم لو سمحت",
+        "translation": "Yes please"
+      },
+      {
+        "character": "driver",
+        "text": "ها قد وصلنا المجموع 500 دينار",
+        "translation": "Here we arrived, total 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "تفضل يومك سعيد",
+        "translation": "Here you go, have a nice day"
+      }
+    ],
+    "tags": ["taxi", "transportation", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "taxi_amazigh",
+    "level": "intermediate",
+    "language": "amazigh",
+    "title": "طلب وتوقيف سيارة أجرة - الأمازيغية",
+    "description": "محادثة طلب سيارة أجرة والتفاوض على السعر باللغة الأمازيغية",
+    "scenario": "طلب سيارة أجرة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "Taksi!",
+        "translation": "Taxi!"
+      },
+      {
+        "character": "driver",
+        "text": "Ih anda tebɣid ad truḥeḍ?",
+        "translation": "Yes, where do you want to go?"
+      },
+      {
+        "character": "passenger",
+        "text": "bɣiɣ ad ṛuḥeɣ ger tlemmast n temdint. Acḥal ssuma-s?",
+        "translation": "I want to go to the city center. How much is the price?"
+      },
+      {
+        "character": "driver",
+        "text": "Ttxil-k ruḥ ɣer ufella 500 n yindinaren",
+        "translation": "Please get in, 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "Ihi msefhameɣ",
+        "translation": "Good, we agreed"
+      },
+      {
+        "character": "driver",
+        "text": "Themmleḍ abrid s timmad-is neɣ tferneḍ win i d-yettawin s tɣawla?",
+        "translation": "Do you prefer a specific route or choose the one that avoids traffic?"
+      },
+      {
+        "character": "passenger",
+        "text": "Ur ssineɣ ara abriwen. Yella usikel ass-a?",
+        "translation": "I don't know the roads. Is there traffic today?"
+      },
+      {
+        "character": "driver",
+        "text": "Ih, yella deg ubrid n tlemmast maca ad nmeṭṭef abrid n yidis",
+        "translation": "Yes, there is on the main road but we'll take a side road"
+      },
+      {
+        "character": "passenger",
+        "text": "Ih ɛafak",
+        "translation": "Yes please"
+      },
+      {
+        "character": "driver",
+        "text": "Nessaweḍ s ujemmal 500 n yindinaren",
+        "translation": "We arrived, total 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "Sɛeddi ass amezzaz",
+        "translation": "Have a nice day"
+      }
+    ],
+    "tags": ["taxi", "transportation", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "taxi_northern_dialect",
+    "level": "intermediate",
+    "language": "northern_dialect",
+    "title": "طلب وتوقيف سيارة أجرة - الشمال الجزائري",
+    "description": "محادثة طلب سيارة أجرة والتفاوض على السعر باللهجة الشمالية الجزائرية",
+    "scenario": "طلب سيارة أجرة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "تاكسي",
+        "translation": "Taxi"
+      },
+      {
+        "character": "driver",
+        "text": "وي لوين حاتروح؟",
+        "translation": "Yes, where are you going?"
+      },
+      {
+        "character": "passenger",
+        "text": "حايب نروح للسونترفيل بشحال؟",
+        "translation": "I want to go to the center, how much?"
+      },
+      {
+        "character": "driver",
+        "text": "جوز اطلع 500 دينار",
+        "translation": "Come get in, 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "أوك",
+        "translation": "OK"
+      },
+      {
+        "character": "driver",
+        "text": "كاين تريق حابب تروح منها",
+        "translation": "Is there a route you want to take?"
+      },
+      {
+        "character": "passenger",
+        "text": "لا لا منعرفش كاين السركالة ليوما؟",
+        "translation": "No, I don't know, is there traffic today?"
+      },
+      {
+        "character": "driver",
+        "text": "وي كاين مي حا ندو طريق خلاف",
+        "translation": "Yes there is but we'll take a different route"
+      },
+      {
+        "character": "passenger",
+        "text": "ايه تعيش",
+        "translation": "Yes, thank you"
+      },
+      {
+        "character": "driver",
+        "text": "صيبون لحقنا عندك 500 دينار",
+        "translation": "We arrived, you have 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "نهارك مبروك",
+        "translation": "Have a blessed day"
+      }
+    ],
+    "tags": ["taxi", "transportation", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "taxi_western_dialect",
+    "level": "intermediate",
+    "language": "western_dialect",
+    "title": "طلب وتوقيف سيارة أجرة - الغرب الجزائري",
+    "description": "محادثة طلب سيارة أجرة والتفاوض على السعر باللهجة الغربية الجزائرية",
+    "scenario": "طلب سيارة أجرة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "طاكسي!",
+        "translation": "Taxi!"
+      },
+      {
+        "character": "driver",
+        "text": "وي وين بيها؟",
+        "translation": "Yes, where to?"
+      },
+      {
+        "character": "passenger",
+        "text": "با نروح لسونترفيل داه؟",
+        "translation": "I want to go to the center, how much?"
+      },
+      {
+        "character": "driver",
+        "text": "اطلع 500 دينار",
+        "translation": "Get in, 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "صاحا",
+        "translation": "OK"
+      },
+      {
+        "character": "driver",
+        "text": "كاين طريڨ باغي نفوتو منها؟",
+        "translation": "Is there a route you want us to take?"
+      },
+      {
+        "character": "passenger",
+        "text": "لا منعرفش كاين سيركيلاسيون اليوم؟",
+        "translation": "No, I don't know, is there traffic today?"
+      },
+      {
+        "character": "driver",
+        "text": "واه غي هي مي غادي نروحو من طريق وادوخرة",
+        "translation": "Yes there is but we'll go from another route"
+      },
+      {
+        "character": "passenger",
+        "text": "واه حمبوك",
+        "translation": "Yes, thank you"
+      },
+      {
+        "character": "driver",
+        "text": "صاي لحقنا",
+        "translation": "We arrived"
+      },
+      {
+        "character": "passenger",
+        "text": "نهارك زين",
+        "translation": "Have a good day"
+      }
+    ],
+    "tags": ["taxi", "transportation", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "taxi_eastern_dialect",
+    "level": "intermediate",
+    "language": "eastern_dialect",
+    "title": "طلب وتوقيف سيارة أجرة - الشرق الجزائري",
+    "description": "محادثة طلب سيارة أجرة والتفاوض على السعر باللهجة الشرقية الجزائرية",
+    "scenario": "طلب سيارة أجرة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "تاكسي!",
+        "translation": "Taxi!"
+      },
+      {
+        "character": "driver",
+        "text": "وين حاب تروح؟",
+        "translation": "Where do you want to go?"
+      },
+      {
+        "character": "passenger",
+        "text": "للسونترفيل بقداه؟",
+        "translation": "To the center, how much?"
+      },
+      {
+        "character": "driver",
+        "text": "اطلع 500 دينار",
+        "translation": "Get in, 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "باهي",
+        "translation": "Good"
+      },
+      {
+        "character": "driver",
+        "text": "فما طريق تحب تروح منها؟",
+        "translation": "Is there a route you want to take?"
+      },
+      {
+        "character": "passenger",
+        "text": "لا منعرفش راو فمّ سيركيلاسيون؟",
+        "translation": "No, I don't know, is there traffic?"
+      },
+      {
+        "character": "driver",
+        "text": "آي فمّ أما باش نروحو من طريق مفيهاش",
+        "translation": "Yes there is but we'll go from a route without it"
+      },
+      {
+        "character": "passenger",
+        "text": "أي يعيشك",
+        "translation": "Yes, thank you"
+      },
+      {
+        "character": "driver",
+        "text": "لحقنا راو عندك 500 دينار",
+        "translation": "We arrived, you have 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "نهارك زين",
+        "translation": "Have a good day"
+      }
+    ],
+    "tags": ["taxi", "transportation", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "taxi_southern_dialect",
+    "level": "intermediate",
+    "language": "southern_dialect",
+    "title": "طلب وتوقيف سيارة أجرة - الجنوب الجزائري",
+    "description": "محادثة طلب سيارة أجرة والتفاوض على السعر باللهجة الجنوبية الجزائرية",
+    "scenario": "طلب سيارة أجرة والذهاب إلى وسط المدينة",
+    "dialogue": [
+      {
+        "character": "passenger",
+        "text": "طاكسي!",
+        "translation": "Taxi!"
+      },
+      {
+        "character": "driver",
+        "text": "وباقي تروح؟",
+        "translation": "Where are you going?"
+      },
+      {
+        "character": "passenger",
+        "text": "للسونترفيل بشحال؟",
+        "translation": "To the center, how much?"
+      },
+      {
+        "character": "driver",
+        "text": "اطلع 500 دينار",
+        "translation": "Get in, 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "مريڨلة",
+        "translation": "Good"
+      },
+      {
+        "character": "driver",
+        "text": "كاش طريق باغي تفوت منها؟",
+        "translation": "Any route you want to take?"
+      },
+      {
+        "character": "passenger",
+        "text": "والوا منعرف كاش سيركيلاسيون",
+        "translation": "Nothing, I don't know, any traffic?"
+      },
+      {
+        "character": "driver",
+        "text": "ايييه كاينة بصح نفوتو من طريق مفيهاش",
+        "translation": "Yes there is but we'll take a route without it"
+      },
+      {
+        "character": "passenger",
+        "text": "ايه يعطيك الصحة",
+        "translation": "Yes, may you have health"
+      },
+      {
+        "character": "driver",
+        "text": "وصلنا جاتك 500 دينار",
+        "translation": "We arrived, you have 500 dinars"
+      },
+      {
+        "character": "passenger",
+        "text": "نهارك مبروك",
+        "translation": "Have a blessed day"
+      }
+    ],
+    "tags": ["taxi", "transportation", "directions"],
+    "backgroundImage": null
+  }
+]

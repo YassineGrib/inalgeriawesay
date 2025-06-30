@@ -1,0 +1,194 @@
+[
+  {
+    "id": "gym_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في قاعة الرياضة - العربية الفصحى",
+    "description": "محادثة في النادي الرياضي حول العضوية والمرافق",
+    "scenario": "الاشتراك في النادي الرياضي والتعرف على المرافق المتاحة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مرحباً أريد اشتراك شهري في النادي هل يوجد؟",
+        "translation": "Hello, I want a monthly membership in the club, is there one?"
+      },
+      {
+        "character": "staff",
+        "text": "نعم يوجد حصتين كل أسبوع بـ 2000 دينار",
+        "translation": "Yes, there are two sessions per week for 2000 dinars"
+      },
+      {
+        "character": "customer",
+        "text": "هل يشمل استخدام جميع الأجهزة؟",
+        "translation": "Does it include using all the equipment?"
+      },
+      {
+        "character": "staff",
+        "text": "نعم حتى حصص التدريب الجماعية",
+        "translation": "Yes, even group training sessions"
+      }
+    ],
+    "tags": ["gym", "fitness", "membership"],
+    "backgroundImage": null
+  },
+  {
+    "id": "gym_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في قاعة الرياضة - الأمازيغية",
+    "description": "محادثة في النادي الرياضي باللغة الأمازيغية",
+    "scenario": "الاشتراك في النادي الرياضي والتعرف على المرافق المتاحة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "Azul bɣiɣ asenqed n yal agur ɣer tdukla is yella?",
+        "translation": "Hello, I want a monthly subscription to the club, is there one?"
+      },
+      {
+        "character": "staff",
+        "text": "Ih llant snat n tɣuriwin yal ddurt s 2000 n yidinaren",
+        "translation": "Yes, there are two sessions every week for 2000 dinars"
+      },
+      {
+        "character": "customer",
+        "text": "Ma yella deg-s useqdec n wakk allalen?",
+        "translation": "Does it include using all the equipment?"
+      },
+      {
+        "character": "staff",
+        "text": "Ih ula d tiɣimiyin n ussileɣ n terbaɛt",
+        "translation": "Yes, even group training sessions"
+      }
+    ],
+    "tags": ["gym", "fitness", "membership"],
+    "backgroundImage": null
+  },
+  {
+    "id": "gym_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في قاعة الرياضة - الشمال الجزائري",
+    "description": "محادثة في النادي الرياضي باللهجة الشمالية الجزائرية",
+    "scenario": "الاشتراك في النادي الرياضي والتعرف على المرافق المتاحة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام با نسجل شهر في الكلوب كاين؟",
+        "translation": "Hello, I want to register for a month in the club, is there one?"
+      },
+      {
+        "character": "staff",
+        "text": "وي زوج حصص كل سمانة بـ 2000 دينار",
+        "translation": "Yes, two sessions every week for 2000 dinars"
+      },
+      {
+        "character": "customer",
+        "text": "فيها الماتريال؟",
+        "translation": "Does it include the equipment?"
+      },
+      {
+        "character": "staff",
+        "text": "وي فيها وليسيونس الجماعية",
+        "translation": "Yes, it includes group lessons"
+      }
+    ],
+    "tags": ["gym", "fitness", "membership"],
+    "backgroundImage": null
+  },
+  {
+    "id": "gym_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في قاعة الرياضة - الغرب الجزائري",
+    "description": "محادثة في النادي الرياضي باللهجة الغربية الجزائرية",
+    "scenario": "الاشتراك في النادي الرياضي والتعرف على المرافق المتاحة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام بانسجل شهر في الكلوب كاين؟",
+        "translation": "Hello, I want to register for a month in the club, is there one?"
+      },
+      {
+        "character": "staff",
+        "text": "واه كاين زوج حصات كل سمانة بـ 2000 دينار",
+        "translation": "Yes, there are two sessions every week for 2000 dinars"
+      },
+      {
+        "character": "customer",
+        "text": "فيها الماتريال؟",
+        "translation": "Does it include the equipment?"
+      },
+      {
+        "character": "staff",
+        "text": "واه فيها وتاني الحصص الجماعية",
+        "translation": "Yes, it includes and also group sessions"
+      }
+    ],
+    "tags": ["gym", "fitness", "membership"],
+    "backgroundImage": null
+  },
+  {
+    "id": "gym_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في قاعة الرياضة - الشرق الجزائري",
+    "description": "محادثة في النادي الرياضي باللهجة الشرقية الجزائرية",
+    "scenario": "الاشتراك في النادي الرياضي والتعرف على المرافق المتاحة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "علامة نحب نسجل شهر في الكلوب فما؟",
+        "translation": "Hello, I want to register for a month in the club, is there one?"
+      },
+      {
+        "character": "staff",
+        "text": "آي فما زوز حصص كل سمانة بـ 2000 دينار",
+        "translation": "Yes, there are two sessions every week for 2000 dinars"
+      },
+      {
+        "character": "customer",
+        "text": "فاها الماتريال؟",
+        "translation": "Does it include the equipment?"
+      },
+      {
+        "character": "staff",
+        "text": "آي فاها وحتى الحصص الجماعية",
+        "translation": "Yes, it includes and even group sessions"
+      }
+    ],
+    "tags": ["gym", "fitness", "membership"],
+    "backgroundImage": null
+  },
+  {
+    "id": "gym_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في قاعة الرياضة - الجنوب الجزائري",
+    "description": "محادثة في النادي الرياضي باللهجة الجنوبية الجزائرية",
+    "scenario": "الاشتراك في النادي الرياضي والتعرف على المرافق المتاحة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام باغي نسجل شهر في لاصال كاين وا؟",
+        "translation": "Hello, I want to register for a month in the hall, is there one?"
+      },
+      {
+        "character": "staff",
+        "text": "ايه كاين زوج حصات كل سمانة 2000 دينار",
+        "translation": "Yes, there are two sessions every week, 2000 dinars"
+      },
+      {
+        "character": "customer",
+        "text": "فيها الآلات",
+        "translation": "Does it include the machines?"
+      },
+      {
+        "character": "staff",
+        "text": "ايه فيها وتاني حصص التدريب الجماعية",
+        "translation": "Yes, it includes and also group training sessions"
+      }
+    ],
+    "tags": ["gym", "fitness", "membership"],
+    "backgroundImage": null
+  }
+]

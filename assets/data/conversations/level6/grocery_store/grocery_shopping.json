@@ -1,0 +1,254 @@
+[
+  {
+    "id": "grocery_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في متجر الخضر والفواكه - العربية الفصحى",
+    "description": "محادثة في متجر الخضر والفواكه لشراء الخضروات والتمور",
+    "scenario": "شراء الخضروات وتجربة التمور الجزائرية المشهورة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "مرحباً هلا أعطيتني 2 كيلو بطاطا ورطل من كل الخضر",
+        "translation": "Hello, can you give me 2 kilos of potatoes and a pound of all vegetables"
+      },
+      {
+        "character": "seller",
+        "text": "بالتأكيد تفضل اختر بنفسك",
+        "translation": "Certainly, please choose yourself"
+      },
+      {
+        "character": "customer",
+        "text": "شكراً سمعت أن التمور الجزائرية من الأفضل في العالم",
+        "translation": "Thank you, I heard that Algerian dates are among the best in the world"
+      },
+      {
+        "character": "seller",
+        "text": "نعم خاصة دقلة نور هي الأجود",
+        "translation": "Yes, especially Deglet Nour, it's the finest"
+      },
+      {
+        "character": "customer",
+        "text": "سآخذ كيلوغراماً منها كم السعر الإجمالي؟",
+        "translation": "I'll take a kilogram of them, what's the total price?"
+      },
+      {
+        "character": "seller",
+        "text": "تفضل السعر 3000 دينار بالهناء",
+        "translation": "Here you go, the price is 3000 dinars, enjoy"
+      }
+    ],
+    "tags": ["grocery", "fruits", "vegetables"],
+    "backgroundImage": null
+  },
+  {
+    "id": "grocery_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في متجر الخضر والفواكه - الأمازيغية",
+    "description": "محادثة في متجر الخضر والفواكه باللغة الأمازيغية",
+    "scenario": "شراء الخضروات وتجربة التمور الجزائرية المشهورة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "Azul Tzemreḍ ad iyi-d-tefkeḍ 2 n kilu n uzemmur d yiwen n lkilu n lxeḍra meṛṛa",
+        "translation": "Hello, can you give me 2 kilos of potatoes and one kilo of all vegetables"
+      },
+      {
+        "character": "seller",
+        "text": "S tidett fren iman-ik",
+        "translation": "Certainly, choose yourself"
+      },
+      {
+        "character": "customer",
+        "text": "Tanemmirt sliɣ belli tizemrin tizzayriyin gar tid ifazen deg umaḍal",
+        "translation": "Thank you, I heard that Algerian dates are among the best in the world"
+      },
+      {
+        "character": "seller",
+        "text": "Ih ladɣa Deglet Nour d win igerrzen akk",
+        "translation": "Yes, especially Deglet Nour, it's the finest of all"
+      },
+      {
+        "character": "customer",
+        "text": "Ad s-d-awiɣ yiwen n ukilu Acḥal d ssuma n ujemmal?",
+        "translation": "I'll take one kilo, what's the total price?"
+      },
+      {
+        "character": "seller",
+        "text": "Ssuma-s d 3000 n yidinaren s ayuz",
+        "translation": "The price is 3000 dinars, enjoy"
+      }
+    ],
+    "tags": ["grocery", "fruits", "vegetables"],
+    "backgroundImage": null
+  },
+  {
+    "id": "grocery_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في متجر الخضر والفواكه - الشمال الجزائري",
+    "description": "محادثة في متجر الخضر والفواكه باللهجة الشمالية الجزائرية",
+    "scenario": "شراء الخضروات وتجربة التمور الجزائرية المشهورة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام تعيش عطيلي زوج كيلو بطاطا ورطل من الخضرة قاعيتيك",
+        "translation": "Hello, thank you, give me two kilos of potatoes and a pound of vegetables, all of them"
+      },
+      {
+        "character": "seller",
+        "text": "بياسور خير وحدك",
+        "translation": "Of course, choose yourself"
+      },
+      {
+        "character": "customer",
+        "text": "تعيش سمعت بزاف على التمر في دزاير قالو شباب",
+        "translation": "Thank you, I heard a lot about dates in Algeria, they said they're great"
+      },
+      {
+        "character": "seller",
+        "text": "وي شباب بزاف سورتو دقلة نور",
+        "translation": "Yes, very great, especially Deglet Nour"
+      },
+      {
+        "character": "customer",
+        "text": "عطيلي كيلو منها وشوفلي كامل بشحال",
+        "translation": "Give me a kilo of them and see everything, how much?"
+      },
+      {
+        "character": "seller",
+        "text": "تفضل 3000 دينار بصحتك خو",
+        "translation": "Here you go, 3000 dinars, to your health brother"
+      }
+    ],
+    "tags": ["grocery", "fruits", "vegetables"],
+    "backgroundImage": null
+  },
+  {
+    "id": "grocery_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في متجر الخضر والفواكه - الغرب الجزائري",
+    "description": "محادثة في متجر الخضر والفواكه باللهجة الغربية الجزائرية",
+    "scenario": "شراء الخضروات وتجربة التمور الجزائرية المشهورة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام حمبوك ديرلي زوج كيلو بطاطا ورطل من كلش",
+        "translation": "Hello, thank you, make me two kilos of potatoes and a pound of everything"
+      },
+      {
+        "character": "seller",
+        "text": "صاحا عمر وحدك خير",
+        "translation": "OK, fill yourself, choose"
+      },
+      {
+        "character": "customer",
+        "text": "حفظك سمعت بزاف على التمر تع دزاير قاع يشكرو فيه",
+        "translation": "May you be protected, I heard a lot about Algerian dates, everyone praises them"
+      },
+      {
+        "character": "seller",
+        "text": "واه التمر عنا حاجة مصراتش سورتو دقلة نور",
+        "translation": "Yes, dates with us are something unmatched, especially Deglet Nour"
+      },
+      {
+        "character": "customer",
+        "text": "عطيلي كيلو منها وشوفلي كلش قداه",
+        "translation": "Give me a kilo of them and see everything, how much?"
+      },
+      {
+        "character": "seller",
+        "text": "هاك جاتك 3000 دينار بصحتك",
+        "translation": "Here you go, 3000 dinars, to your health"
+      }
+    ],
+    "tags": ["grocery", "fruits", "vegetables"],
+    "backgroundImage": null
+  },
+  {
+    "id": "grocery_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في متجر الخضر والفواكه - الشرق الجزائري",
+    "description": "محادثة في متجر الخضر والفواكه باللهجة الشرقية الجزائرية",
+    "scenario": "شراء الخضروات وتجربة التمور الجزائرية المشهورة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "عالسلامة تعيش خويا اوزنلي زوز كيلو بطاطا ورطل من كلشي",
+        "translation": "Hello, thank you brother, weigh me two kilos of potatoes and a pound of everything"
+      },
+      {
+        "character": "seller",
+        "text": "باهي أما خير وحدك خير",
+        "translation": "Good, but choose yourself, choose"
+      },
+      {
+        "character": "customer",
+        "text": "بفضلك سمعت ياسر عالتمر في دزاير قالو يهبل خلاه",
+        "translation": "Please, I heard a lot about dates in Algeria, they said they're amazing"
+      },
+      {
+        "character": "seller",
+        "text": "أي التمر بتعنا يهبل فرات سورتو دقلة نور",
+        "translation": "Yes, our dates are amazing indeed, especially Deglet Nour"
+      },
+      {
+        "character": "customer",
+        "text": "ديلي منها كيلو وشوفلي كلش بقداه",
+        "translation": "Give me a kilo of them and see everything, how much?"
+      },
+      {
+        "character": "seller",
+        "text": "باهي تفضل 3000 دينار بصحتك اصحيبي",
+        "translation": "Good, here you go, 3000 dinars, to your health my friend"
+      }
+    ],
+    "tags": ["grocery", "fruits", "vegetables"],
+    "backgroundImage": null
+  },
+  {
+    "id": "grocery_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في متجر الخضر والفواكه - الجنوب الجزائري",
+    "description": "محادثة في متجر الخضر والفواكه باللهجة الجنوبية الجزائرية",
+    "scenario": "شراء الخضروات وتجربة التمور الجزائرية المشهورة",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "سلام الربي زوج كيلو بطاطا ورطل من كلش",
+        "translation": "Hello, please two kilos of potatoes and a pound of everything"
+      },
+      {
+        "character": "seller",
+        "text": "خير وحدك",
+        "translation": "Choose yourself"
+      },
+      {
+        "character": "customer",
+        "text": "صحيت سمعت على التمر عندكم حاجة زينة",
+        "translation": "Thank you, I heard about dates, you have something beautiful"
+      },
+      {
+        "character": "seller",
+        "text": "ايه التمر عدنا مليح خاصة دقلة نور",
+        "translation": "Yes, dates with us are good, especially Deglet Nour"
+      },
+      {
+        "character": "customer",
+        "text": "ديرلي منها كيلو وشوفلي كلش بشحال",
+        "translation": "Make me a kilo of them and see everything, how much?"
+      },
+      {
+        "character": "seller",
+        "text": "تفضل 3000 دينار بصحتك",
+        "translation": "Here you go, 3000 dinars, to your health"
+      }
+    ],
+    "tags": ["grocery", "fruits", "vegetables"],
+    "backgroundImage": null
+  }
+]

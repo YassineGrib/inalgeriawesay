@@ -1,0 +1,284 @@
+[
+  {
+    "id": "bakery_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في المخبزة ومحل الحلويات - العربية الفصحى",
+    "description": "محادثة في المخبزة لشراء الخبز والحلويات التقليدية",
+    "scenario": "شراء خبز طازج وتجربة الحلويات الجزائرية التقليدية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "صباح الخير أريد خبز طازج؟ أريد ثلاث خبزات لو سمحت",
+        "translation": "Good morning, I want fresh bread? I want three loaves please"
+      },
+      {
+        "character": "baker",
+        "text": "صباح النور نعم طازج أخرجته لتو من الفرن، حسناً",
+        "translation": "Good morning, yes fresh, I just took it out of the oven, alright"
+      },
+      {
+        "character": "customer",
+        "text": "جيد وما ذلك الذي بجانب الكرواسون؟",
+        "translation": "Good, and what's that next to the croissant?"
+      },
+      {
+        "character": "baker",
+        "text": "ذلك كعك جزائري مشهور في ولاية تلمسان يوضع بالسمسم واليانسون له طعم فريد",
+        "translation": "That's Algerian cake famous in Tlemcen province, made with sesame and anise, it has a unique taste"
+      },
+      {
+        "character": "customer",
+        "text": "يا للروعة أعطني منه شكله يشهي كم السعر؟",
+        "translation": "How wonderful, give me some, it looks appetizing, what's the price?"
+      },
+      {
+        "character": "baker",
+        "text": "30 دينار والكعك هدية من عندي",
+        "translation": "30 dinars and the cake is a gift from me"
+      },
+      {
+        "character": "customer",
+        "text": "شكراً لكرمكم طاب يومك",
+        "translation": "Thank you for your generosity, have a good day"
+      }
+    ],
+    "tags": ["bakery", "bread", "sweets"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bakery_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في المخبزة ومحل الحلويات - الأمازيغية",
+    "description": "محادثة في المخبزة باللغة الأمازيغية",
+    "scenario": "شراء خبز طازج وتجربة الحلويات الجزائرية التقليدية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "Tifawin bɣiɣ aɣrum amaynut kraḍ n teḥbulin n weɣrum texxil-ik",
+        "translation": "Good morning, I want fresh bread, three loaves of bread please"
+      },
+      {
+        "character": "baker",
+        "text": "Tifawin ih amaynut tura i t-id-ssufɣeɣ seg tmes",
+        "translation": "Good morning, yes fresh, I just took it out of the oven"
+      },
+      {
+        "character": "customer",
+        "text": "Yelha d ayen yellan zdat n ukrus?",
+        "translation": "Good, what's that in front of the croissant?"
+      },
+      {
+        "character": "baker",
+        "text": "Wagi d aɣrum azzayri mechur deg twilayt n Telemsan yettwaxdem s sisam d anis, yesɛa aẓayer ur nesɛi amkan",
+        "translation": "This is Algerian bread famous in Tlemcen province, made with sesame and anise, it has a unique taste"
+      },
+      {
+        "character": "customer",
+        "text": "Ayen igerrzen efk-iyi-d kra seg-s acḥal d ssuma-s?",
+        "translation": "How wonderful, give me some of it, what's its price?"
+      },
+      {
+        "character": "baker",
+        "text": "30 n yidinaren d lgaṭu tikci sɣur-i",
+        "translation": "30 dinars and the cake is a gift from me"
+      },
+      {
+        "character": "customer",
+        "text": "Tanemmirt ɣef timeqrant-ik ad tesɛuḍ ass ameggaz",
+        "translation": "Thank you for your generosity, may you have a great day"
+      }
+    ],
+    "tags": ["bakery", "bread", "sweets"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bakery_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في المخبزة ومحل الحلويات - الشمال الجزائري",
+    "description": "محادثة في المخبزة باللهجة الشمالية الجزائرية",
+    "scenario": "شراء خبز طازج وتجربة الحلويات الجزائرية التقليدية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "صباح الخير كاين خبز تع ليوما عطيلي تلاثة خبزات تعيش",
+        "translation": "Good morning, is there bread for today, give me three loaves, thank you"
+      },
+      {
+        "character": "baker",
+        "text": "صباح الخير ايه هدا وين خرجتو من الفورنو أوك",
+        "translation": "Good morning, yes this one, I just took it out of the oven, OK"
+      },
+      {
+        "character": "customer",
+        "text": "مليح واشن هداك لي حدا الكرواسون؟",
+        "translation": "Good, what's that next to the croissant?"
+      },
+      {
+        "character": "baker",
+        "text": "هو كعك دزيري مشهور في ولاية تلمسان يتخدم بالجلجلان وحبة الحلاوة عندو قو سبيسيال",
+        "translation": "It's Algerian cake famous in Tlemcen province, made with sesame and anise seed, it has special taste"
+      },
+      {
+        "character": "customer",
+        "text": "ياه حالة أعطيني راو يشهي ويشحال؟",
+        "translation": "Wow, great, give me some, it looks appetizing, how much?"
+      },
+      {
+        "character": "baker",
+        "text": "الخبز 30 دينار والكعك من عندي",
+        "translation": "The bread is 30 dinars and the cake is from me"
+      },
+      {
+        "character": "customer",
+        "text": "يعيشك ماغسي على الجاست ربي يعاونك",
+        "translation": "Thank you, thanks for the gesture, may God help you"
+      }
+    ],
+    "tags": ["bakery", "bread", "sweets"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bakery_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في المخبزة ومحل الحلويات - الغرب الجزائري",
+    "description": "محادثة في المخبزة باللهجة الغربية الجزائرية",
+    "scenario": "شراء خبز طازج وتجربة الحلويات الجزائرية التقليدية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "صباح الخير كاين الخبز تع اليوم؟ عطيني تلاثة حمبوك",
+        "translation": "Good morning, is there bread for today? Give me three, thank you"
+      },
+      {
+        "character": "baker",
+        "text": "صباح النور واه هدا وين جبدته من الفور",
+        "translation": "Good morning, yes this one, I just brought it from the oven"
+      },
+      {
+        "character": "customer",
+        "text": "أيا غاية وهداك لي حدا الكرواسون شاه؟",
+        "translation": "Yes, good, and what's that next to the croissant?"
+      },
+      {
+        "character": "baker",
+        "text": "كعك تع الدزاير شايع في ولاية تلمسان يندار بالجلجلان وحبة لحلاوة عنده قو هبال وصاي",
+        "translation": "Algerian cake famous in Tlemcen province, made with sesame and anise seed, it has amazing taste"
+      },
+      {
+        "character": "customer",
+        "text": "علامة عطيني منه راه يسخف وقولي شحال؟",
+        "translation": "Great, give me some, it looks appetizing, tell me how much?"
+      },
+      {
+        "character": "baker",
+        "text": "الخبز 30 دينار والكعك من عندي",
+        "translation": "The bread is 30 dinars and the cake is from me"
+      },
+      {
+        "character": "customer",
+        "text": "صحيت الله يخليك ربي يفتح عليك",
+        "translation": "Thank you, may God keep you, may God open for you"
+      }
+    ],
+    "tags": ["bakery", "bread", "sweets"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bakery_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في المخبزة ومحل الحلويات - الشرق الجزائري",
+    "description": "محادثة في المخبزة باللهجة الشرقية الجزائرية",
+    "scenario": "شراء خبز طازج وتجربة الحلويات الجزائرية التقليدية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "علامة فما خبز متاع اليوم اطيني تلاثة خبزات يعيشك",
+        "translation": "Hello, is there bread for today, give me three loaves, thank you"
+      },
+      {
+        "character": "baker",
+        "text": "سلامة أي خرجتو قد قد من الفور",
+        "translation": "Hello, yes I just took it out of the oven"
+      },
+      {
+        "character": "customer",
+        "text": "باهي وأداكا لي بحذا الكرواسون شنوا؟",
+        "translation": "Good, and what's that next to the croissant?"
+      },
+      {
+        "character": "baker",
+        "text": "أداكا كعك دزيري نتاع ولاية تلمسان معمول بالجلجلان وحبة لحلاوة عندو ذوق بنين خلاه",
+        "translation": "That's Algerian cake from Tlemcen province, made with sesame and anise seed, it has good taste"
+      },
+      {
+        "character": "customer",
+        "text": "شكلو يهبل خلاص أطيني منو وقداه؟",
+        "translation": "It looks amazing, give me some, how much?"
+      },
+      {
+        "character": "baker",
+        "text": "الخبز 30 دينار والكعك من عندي",
+        "translation": "The bread is 30 dinars and the cake is from me"
+      },
+      {
+        "character": "customer",
+        "text": "يعيش خويا ربي يحفظك",
+        "translation": "Thank you brother, may God protect you"
+      }
+    ],
+    "tags": ["bakery", "bread", "sweets"],
+    "backgroundImage": null
+  },
+  {
+    "id": "bakery_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في المخبزة ومحل الحلويات - الجنوب الجزائري",
+    "description": "محادثة في المخبزة باللهجة الجنوبية الجزائرية",
+    "scenario": "شراء خبز طازج وتجربة الحلويات الجزائرية التقليدية",
+    "dialogue": [
+      {
+        "character": "customer",
+        "text": "صباح الخير كاين خبز جديد وا؟ عطيني تلاثة الربي",
+        "translation": "Good morning, is there fresh bread? Give me three, please"
+      },
+      {
+        "character": "baker",
+        "text": "ايه خرجتو دك برك من الكوشا",
+        "translation": "Yes, I just took it out of the oven"
+      },
+      {
+        "character": "customer",
+        "text": "مريقلة وهداك لي حدا الكرواسون واش؟",
+        "translation": "Good, and what's that next to the croissant?"
+      },
+      {
+        "character": "baker",
+        "text": "كعك دزيري تع ولاية تلمسان يخدموه بالجلجلان وحبة لحلاوة عندو طعم سبيسيال",
+        "translation": "Algerian cake from Tlemcen province, they make it with sesame and anise seed, it has special taste"
+      },
+      {
+        "character": "customer",
+        "text": "أيوة مليح بعد هاتلي منو وقولي شحال؟",
+        "translation": "Yes, good, bring me some and tell me how much?"
+      },
+      {
+        "character": "baker",
+        "text": "الخبز ب 30 دينار والكعك من عندي",
+        "translation": "The bread is 30 dinars and the cake is from me"
+      },
+      {
+        "character": "customer",
+        "text": "صحيت ربي يسجيك",
+        "translation": "Thank you, may God reward you"
+      }
+    ],
+    "tags": ["bakery", "bread", "sweets"],
+    "backgroundImage": null
+  }
+]

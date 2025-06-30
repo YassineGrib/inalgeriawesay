@@ -1,0 +1,224 @@
+[
+  {
+    "id": "university_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في الجامعة - العربية الفصحى",
+    "description": "محادثة في الجامعة حول التسجيل والحياة الجامعية",
+    "scenario": "طالب تبادل يسجل في الجامعة ويتعرف على الحرم الجامعي",
+    "dialogue": [
+      {
+        "character": "sam",
+        "text": "مرحباً أنا طالب تبادل وأرغب في التسجيل هنا تخصص ترجمة",
+        "translation": "Hello, I'm an exchange student and I want to register here, translation major"
+      },
+      {
+        "character": "staff",
+        "text": "مرحباً بك عليك تقديم وثائقك إلى مكتب الشؤون الأكاديمية",
+        "translation": "Welcome, you need to submit your documents to the Academic Affairs office"
+      },
+      {
+        "character": "sam",
+        "text": "عذراً أيها الطالب أنا جديد هنا أين أجد القاعة 02؟",
+        "translation": "Excuse me, student, I'm new here, where do I find Hall 02?"
+      },
+      {
+        "character": "student",
+        "text": "أهلاً توجد في الطابق الأول سأرافقك إليها وأريك المكتبة والمطعم الجامعي ومختلف المرافق",
+        "translation": "Hello, it's on the first floor, I'll accompany you there and show you the library, university restaurant and various facilities"
+      },
+      {
+        "character": "sam",
+        "text": "شكراً هذا من طيبتك سأكون سعيداً",
+        "translation": "Thank you, this is your kindness, I'll be happy"
+      }
+    ],
+    "tags": ["university", "student", "campus"],
+    "backgroundImage": null
+  },
+  {
+    "id": "university_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في الجامعة - الأمازيغية",
+    "description": "محادثة في الجامعة باللغة الأمازيغية",
+    "scenario": "طالب تبادل يسجل في الجامعة ويتعرف على الحرم الجامعي",
+    "dialogue": [
+      {
+        "character": "sam",
+        "text": "Azul nekk d anelmad umciwen bɣiɣ ad sɣermeɣ iman-iw dagi akken ad mmuzzleɣ deg tsuqilt",
+        "translation": "Hello, I'm an exchange student and I want to register myself here to specialize in translation"
+      },
+      {
+        "character": "staff",
+        "text": "Ansuf yis-wen llaq ad tesiwḍeḍ lekwaɣeḍ-ik ɣer udiwan n temsal tisdawanin",
+        "translation": "Welcome, you need to submit your documents to the Academic Affairs office"
+      },
+      {
+        "character": "sam",
+        "text": "Ssurfi ay anelmad nekk d amaynut dagi anda zemreɣ ad afeɣ tazeqqa tis 02?",
+        "translation": "Excuse me, student, I'm new here, where can I find Hall 02?"
+      },
+      {
+        "character": "student",
+        "text": "Azul deg lqaɛa tamezwarut ad k-id-ṛuḥeɣ dinna, ad ak-d-ssekneɣ tamkerḍit, asensu n tesdawit d ttawillat yemgaraden",
+        "translation": "Hello, on the first floor, I'll take you there, I'll show you the library, university restaurant and various facilities"
+      },
+      {
+        "character": "sam",
+        "text": "Tanemmirt-ik d lxir-ik aṭas ad sferḥeɣ",
+        "translation": "Thank you, this is your great kindness, I'll be happy"
+      }
+    ],
+    "tags": ["university", "student", "campus"],
+    "backgroundImage": null
+  },
+  {
+    "id": "university_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في الجامعة - الشمال الجزائري",
+    "description": "محادثة في الجامعة باللهجة الشمالية الجزائرية",
+    "scenario": "طالب تبادل يسجل في الجامعة ويتعرف على الحرم الجامعي",
+    "dialogue": [
+      {
+        "character": "sam",
+        "text": "سلام أنا طالب تبادل وحايب نسجل تخصص ترجمة",
+        "translation": "Hello, I'm an exchange student and I want to register, translation major"
+      },
+      {
+        "character": "staff",
+        "text": "مرحبا حط الدوسي تاعك في بيرو الشؤون الأكاديمية",
+        "translation": "Welcome, put your file in the Academic Affairs office"
+      },
+      {
+        "character": "sam",
+        "text": "تعيش ياخو أنا جديد هنا وين نلقا القاعة 02؟",
+        "translation": "Thank you brother, I'm new here, where do I find Hall 02?"
+      },
+      {
+        "character": "student",
+        "text": "أهلا تلقاها في ليطاج لول أيا نروحولها ونوريلك المكتبة والريسطو والجامعة قاعيتيك",
+        "translation": "Hello, you'll find it on the first floor, come let's go there and I'll show you the library, restaurant and the whole university"
+      },
+      {
+        "character": "sam",
+        "text": "صافي بليزير تعيش لعزيز",
+        "translation": "OK, with pleasure, thank you dear"
+      }
+    ],
+    "tags": ["university", "student", "campus"],
+    "backgroundImage": null
+  },
+  {
+    "id": "university_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في الجامعة - الغرب الجزائري",
+    "description": "محادثة في الجامعة باللهجة الغربية الجزائرية",
+    "scenario": "طالب تبادل يسجل في الجامعة ويتعرف على الحرم الجامعي",
+    "dialogue": [
+      {
+        "character": "sam",
+        "text": "سلام أنا طالب تبادل وبانسجل تخصص ترجمة",
+        "translation": "Hello, I'm an exchange student and I want to register, translation major"
+      },
+      {
+        "character": "staff",
+        "text": "مرحبا مي حط الدوسي تاعك في مكتب الشؤون الأكاديمية",
+        "translation": "Welcome, put your file in the Academic Affairs office"
+      },
+      {
+        "character": "sam",
+        "text": "خويا حمبوك أنا جديد هنا معليش تقولي لاصال 02 وين؟",
+        "translation": "Brother, thank you, I'm new here, please tell me where Hall 02 is?"
+      },
+      {
+        "character": "student",
+        "text": "مرحبا جاية في ليطاج لول تمشي معايا نوريهالك ونزيدو المكتبة والريسطو وندورك في الجامعة",
+        "translation": "Welcome, it's on the first floor, come with me I'll show it to you and also the library and restaurant and I'll tour you around the university"
+      },
+      {
+        "character": "sam",
+        "text": "أيا كي غاية شا نقولك ربي يحفظك",
+        "translation": "Yes, how good, what can I say, may God protect you"
+      }
+    ],
+    "tags": ["university", "student", "campus"],
+    "backgroundImage": null
+  },
+  {
+    "id": "university_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في الجامعة - الشرق الجزائري",
+    "description": "محادثة في الجامعة باللهجة الشرقية الجزائرية",
+    "scenario": "طالب تبادل يسجل في الجامعة ويتعرف على الحرم الجامعي",
+    "dialogue": [
+      {
+        "character": "sam",
+        "text": "سلام أنا طالب تبادل نحب نسجل تخصص ترجمة",
+        "translation": "Hello, I'm an exchange student, I want to register, translation major"
+      },
+      {
+        "character": "staff",
+        "text": "مرحبا أما حط الدوسي تيعك في مكتب الشؤون الأكاديمية",
+        "translation": "Welcome, put your file in the Academic Affairs office"
+      },
+      {
+        "character": "sam",
+        "text": "يعيش خويا أنا جديد تعرفشي لاصال 02 وين آ؟",
+        "translation": "Thank you brother, I'm new, do you know where Hall 02 is?"
+      },
+      {
+        "character": "student",
+        "text": "مرحبا ايجا معايا تو نوريهالك هي والمكتبة والريسطو وندورك في الجامعة بكل",
+        "translation": "Welcome, come with me, I'll show it to you and the library and restaurant and tour you around the whole university"
+      },
+      {
+        "character": "sam",
+        "text": "يعيشك ربي يفضلك",
+        "translation": "Thank you, may God favor you"
+      }
+    ],
+    "tags": ["university", "student", "campus"],
+    "backgroundImage": null
+  },
+  {
+    "id": "university_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في الجامعة - الجنوب الجزائري",
+    "description": "محادثة في الجامعة باللهجة الجنوبية الجزائرية",
+    "scenario": "طالب تبادل يسجل في الجامعة ويتعرف على الحرم الجامعي",
+    "dialogue": [
+      {
+        "character": "sam",
+        "text": "سلام أنا جديد هنا وباغي نسجل تخصص ترجمة أنا طالب تبادل",
+        "translation": "Hello, I'm new here and I want to register, translation major, I'm an exchange student"
+      },
+      {
+        "character": "staff",
+        "text": "مرحبا حط دوسيك في مكتب الشؤون الأكاديمية",
+        "translation": "Welcome, put your file in the Academic Affairs office"
+      },
+      {
+        "character": "sam",
+        "text": "خويا الربي وين جات القاعة 02 أنا جديد هنا؟",
+        "translation": "Brother, please, where is Hall 02, I'm new here?"
+      },
+      {
+        "character": "student",
+        "text": "مرحبا بيك هايا نروحو لاها جاية في ليطاج لول ونوريلك المكتبة والمطعم وقاع الجامعة",
+        "translation": "Welcome, let's go there, it's on the first floor and I'll show you the library, restaurant and the whole university"
+      },
+      {
+        "character": "sam",
+        "text": "مريقلة ربي يسجيك ويوفقك",
+        "translation": "Good, may God reward you and grant you success"
+      }
+    ],
+    "tags": ["university", "student", "campus"],
+    "backgroundImage": null
+  }
+]

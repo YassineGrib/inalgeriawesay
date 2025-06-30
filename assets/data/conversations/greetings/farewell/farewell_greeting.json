@@ -1,0 +1,254 @@
+[
+  {
+    "id": "farewell_greeting_standard_arabic",
+    "level": "beginner",
+    "language": "standard_arabic",
+    "title": "تحية الوداع - العربية الفصحى",
+    "description": "تحية وداع باللغة العربية الفصحى",
+    "scenario": "وداع شخص",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "إلى اللقاء. كان من الرائع لقاؤك اليوم.",
+        "translation": "See you later. It was wonderful to meet you today"
+      },
+      {
+        "character": "person_b",
+        "text": "شكرا لك. سعدت بلقائك أيضا.",
+        "translation": "Thank you. I was happy to meet you too"
+      },
+      {
+        "character": "person_a",
+        "text": "إن شاء الله نلتقي قريبا.",
+        "translation": "God willing, we will meet soon"
+      },
+      {
+        "character": "person_b",
+        "text": "أراك لاحقا.",
+        "translation": "See you later"
+      },
+      {
+        "character": "person_a",
+        "text": "مع السلامة. دمت بخير.",
+        "translation": "Goodbye. Stay well"
+      },
+      {
+        "character": "person_b",
+        "text": "في أمان الله. اعتني بنفسك.",
+        "translation": "In God's protection. Take care of yourself"
+      }
+    ],
+    "tags": ["farewell", "goodbye", "leaving"],
+    "backgroundImage": null
+  },
+  {
+    "id": "farewell_greeting_amazigh",
+    "level": "beginner",
+    "language": "amazigh",
+    "title": "تحية الوداع - الأمازيغية",
+    "description": "تحية وداع باللغة الأمازيغية",
+    "scenario": "وداع شخص",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "Ar tufat yella d ayen izerrzen mi k-nemlal ass-a",
+        "translation": "Until we meet, it was wonderful when we met today"
+      },
+      {
+        "character": "person_b",
+        "text": "Tanemmirt-ik , Snemrey -k ula d kečč",
+        "translation": "Thank you, I was happy to meet you too"
+      },
+      {
+        "character": "person_a",
+        "text": "Ssarameɣ ad nemlil S lemɣawla",
+        "translation": "I hope we will meet soon"
+      },
+      {
+        "character": "person_b",
+        "text": "Ad k-Ẓ reɣ mbeɛd",
+        "translation": "I will see you later"
+      },
+      {
+        "character": "person_a",
+        "text": "Ar lufat, qqimet mliḥ",
+        "translation": "Until we meet, stay well"
+      },
+      {
+        "character": "person_b",
+        "text": "Ad k-ibarek Rebbi ḥader iman-ik",
+        "translation": "May God bless you, take care of yourself"
+      }
+    ],
+    "tags": ["farewell", "goodbye", "leaving"],
+    "backgroundImage": null
+  },
+  {
+    "id": "farewell_greeting_northern_dialect",
+    "level": "beginner",
+    "language": "northern_dialect",
+    "title": "تحية الوداع - الشمال الجزائري",
+    "description": "تحية وداع باللهجة الشمالية الجزائرية",
+    "scenario": "وداع شخص في الشمال الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "تروح بالسلامة. جازت هايلة الخرجة معاك اليوم.",
+        "translation": "Go in peace. The outing with you today was great"
+      },
+      {
+        "character": "person_b",
+        "text": "يعيشك مام أنا فرحت كي تلاقيتك.",
+        "translation": "May you live long, I was happy when I met you"
+      },
+      {
+        "character": "person_a",
+        "text": "إن شاء الله. ربي يلاقينا في ساعة خير.",
+        "translation": "God willing. May God bring us together in good times"
+      },
+      {
+        "character": "person_b",
+        "text": "المرة الجاية إن شاء الله",
+        "translation": "Next time, God willing"
+      },
+      {
+        "character": "person_a",
+        "text": "بالسلامة. تبقى على خير.",
+        "translation": "In peace. Stay well"
+      },
+      {
+        "character": "person_b",
+        "text": "في لامان. رد بالك على روحك.",
+        "translation": "In safety. Take care of yourself"
+      }
+    ],
+    "tags": ["farewell", "goodbye", "leaving"],
+    "backgroundImage": null
+  },
+  {
+    "id": "farewell_greeting_western_dialect",
+    "level": "beginner",
+    "language": "western_dialect",
+    "title": "تحية الوداع - الغرب الجزائري",
+    "description": "تحية وداع باللهجة الغربية الجزائرية",
+    "scenario": "وداع شخص في الغرب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "بسلامة. كي غاية كي تلاقيتك اليوم.",
+        "translation": "In peace. How good it was when I met you today"
+      },
+      {
+        "character": "person_b",
+        "text": "فرحت كي تلاقيتك اليوم أنا تاني",
+        "translation": "I was happy when I met you today, me too"
+      },
+      {
+        "character": "person_a",
+        "text": "إن شاء الله نتلاقاو قريب.",
+        "translation": "God willing, we will meet soon"
+      },
+      {
+        "character": "person_b",
+        "text": "نشوفك من بعد.",
+        "translation": "I'll see you later"
+      },
+      {
+        "character": "person_a",
+        "text": "بسلامة تقعد بخير.",
+        "translation": "In peace, stay well"
+      },
+      {
+        "character": "person_b",
+        "text": "في لامان تهلى في روحك.",
+        "translation": "In safety, take care of yourself"
+      }
+    ],
+    "tags": ["farewell", "goodbye", "leaving"],
+    "backgroundImage": null
+  },
+  {
+    "id": "farewell_greeting_eastern_dialect",
+    "level": "beginner",
+    "language": "eastern_dialect",
+    "title": "تحية الوداع - الشرق الجزائري",
+    "description": "تحية وداع باللهجة الشرقية الجزائرية",
+    "scenario": "وداع شخص في الشرق الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "أيا صحا باي. ملاحة كي تلاقيتك اليوما",
+        "translation": "Yes, goodbye. It was good when I met you today"
+      },
+      {
+        "character": "person_b",
+        "text": "ربي يعيشك حتى انا فرحت كي تلاقيتك.",
+        "translation": "May God give you long life, I was also happy when I met you"
+      },
+      {
+        "character": "person_a",
+        "text": "إن شاء الله نزيدو نتلاقاو",
+        "translation": "God willing, we will meet again"
+      },
+      {
+        "character": "person_b",
+        "text": "المرة الجاية نشوفك.",
+        "translation": "Next time I'll see you"
+      },
+      {
+        "character": "person_a",
+        "text": "بالسلامة. إن شاء الله ديما لاباس.",
+        "translation": "In peace. God willing, always fine"
+      },
+      {
+        "character": "person_b",
+        "text": "هايا صحا تهلا في روحك.",
+        "translation": "Come on, goodbye, take care of yourself"
+      }
+    ],
+    "tags": ["farewell", "goodbye", "leaving"],
+    "backgroundImage": null
+  },
+  {
+    "id": "farewell_greeting_southern_dialect",
+    "level": "beginner",
+    "language": "southern_dialect",
+    "title": "تحية الوداع - الجنوب الجزائري",
+    "description": "تحية وداع باللهجة الجنوبية الجزائرية",
+    "scenario": "وداع شخص في الجنوب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "على خير فرحت كي تلاقيتك اليوم.",
+        "translation": "Farewell, I was happy when I met you today"
+      },
+      {
+        "character": "person_b",
+        "text": "يعطيك الصحة حتى أنا فرحت كي تلاقيتك.",
+        "translation": "May you be given health, I was also happy when I met you"
+      },
+      {
+        "character": "person_a",
+        "text": "إن شاء الله نتلاقاو مرة أخرى",
+        "translation": "God willing, we will meet again"
+      },
+      {
+        "character": "person_b",
+        "text": "نتشاوفو نهار آخر.",
+        "translation": "We'll see each other another day"
+      },
+      {
+        "character": "person_a",
+        "text": "على خير.",
+        "translation": "Farewell"
+      },
+      {
+        "character": "person_b",
+        "text": "ربي يحفظك. تهلا في روحك.",
+        "translation": "May God protect you. Take care of yourself"
+      }
+    ],
+    "tags": ["farewell", "goodbye", "leaving"],
+    "backgroundImage": null
+  }
+]

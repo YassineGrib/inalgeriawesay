@@ -1,0 +1,187 @@
+[
+  {
+    "id": "first_meeting_standard_arabic",
+    "level": "beginner",
+    "language": "standard_arabic",
+    "title": "لقاء أول - العربية الفصحى",
+    "description": "محادثة رسمية للتعارف لأول مرة باللغة العربية الفصحى",
+    "scenario": "لقاء مع شخص لأول مرة في مكان رسمي أو اجتماعي",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "السلام عليكم ورحمة الله وبركاته",
+        "translation": "Peace be upon you and God's mercy and blessings"
+      },
+      {
+        "character": "person_b",
+        "text": "وعليكم السلام ورحمة الله وبركاته. كيف حالك؟",
+        "translation": "And upon you peace and God's mercy and blessings. How are you?"
+      },
+      {
+        "character": "person_a",
+        "text": "بخير، الحمد لله. وأنت؟",
+        "translation": "I'm well, praise be to God. And you?"
+      },
+      {
+        "character": "person_b",
+        "text": "الحمد لله، بخير. سررت بلقائك.",
+        "translation": "Praise be to God, I'm well. I'm pleased to meet you."
+      },
+      {
+        "character": "person_a",
+        "text": "وأنا كذلك، شرف لي التعرف عليك.",
+        "translation": "Me too, it's an honor to get to know you."
+      }
+    ],
+    "tags": ["greeting", "formal", "first_meeting", "introduction"],
+    "backgroundImage": null
+  },
+  {
+    "id": "first_meeting_northern_dialect",
+    "level": "beginner",
+    "language": "northern_dialect",
+    "title": "لقاء أول - الشمال الجزائري",
+    "description": "محادثة للتعارف لأول مرة باللهجة الشمالية الجزائرية",
+    "scenario": "لقاء مع شخص لأول مرة في الشمال الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "السلام عليكم",
+        "translation": "Peace be upon you"
+      },
+      {
+        "character": "person_b",
+        "text": "السلام، واش راك؟",
+        "translation": "Peace, how are you?"
+      },
+      {
+        "character": "person_a",
+        "text": "لاباس خو، وأنت؟",
+        "translation": "I'm fine brother, and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "أنتيك، فرحت لي عرفتك",
+        "translation": "Me too, I'm happy to meet you"
+      },
+      {
+        "character": "person_a",
+        "text": "أنا تانيك يا خو، تعيش",
+        "translation": "Me too brother, may you live long"
+      }
+    ],
+    "tags": ["greeting", "informal", "first_meeting", "northern_dialect"],
+    "backgroundImage": null
+  },
+  {
+    "id": "first_meeting_western_dialect",
+    "level": "beginner",
+    "language": "western_dialect",
+    "title": "لقاء أول - الغرب الجزائري",
+    "description": "محادثة للتعارف لأول مرة باللهجة الغربية الجزائرية",
+    "scenario": "لقاء مع شخص لأول مرة في الغرب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "أهلا",
+        "translation": "Hello"
+      },
+      {
+        "character": "person_b",
+        "text": "أهلا. كيراك؟",
+        "translation": "Hello. How are you?"
+      },
+      {
+        "character": "person_a",
+        "text": "غاية وأنت؟",
+        "translation": "I'm fine and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "غاية الحمد لله. معرفة خير خويا",
+        "translation": "I'm fine praise be to God. Nice to meet you brother"
+      },
+      {
+        "character": "person_a",
+        "text": "متشرفين خويا",
+        "translation": "Honored to meet you brother"
+      }
+    ],
+    "tags": ["greeting", "informal", "first_meeting", "western_dialect"],
+    "backgroundImage": null
+  },
+  {
+    "id": "first_meeting_eastern_dialect",
+    "level": "beginner",
+    "language": "eastern_dialect",
+    "title": "لقاء أول - الشرق الجزائري",
+    "description": "محادثة للتعارف لأول مرة باللهجة الشرقية الجزائرية",
+    "scenario": "لقاء مع شخص لأول مرة في الشرق الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "عالسلامة",
+        "translation": "Peace be upon you"
+      },
+      {
+        "character": "person_b",
+        "text": "عالسلامة واشك صافا؟",
+        "translation": "Peace be upon you, how are you doing?"
+      },
+      {
+        "character": "person_a",
+        "text": "لاباس وأنت؟",
+        "translation": "I'm fine and you?"
+      },
+      {
+        "character": "person_b",
+        "text": "ماشية. فرحت خلاه لي شفتك",
+        "translation": "I'm doing well. I'm happy that I saw you"
+      },
+      {
+        "character": "person_a",
+        "text": "حتى أنا متشرفين",
+        "translation": "Me too, honored to meet you"
+      }
+    ],
+    "tags": ["greeting", "informal", "first_meeting", "eastern_dialect"],
+    "backgroundImage": null
+  },
+  {
+    "id": "first_meeting_southern_dialect",
+    "level": "beginner",
+    "language": "southern_dialect",
+    "title": "لقاء أول - الجنوب الجزائري",
+    "description": "محادثة للتعارف لأول مرة باللهجة الجنوبية الجزائرية",
+    "scenario": "لقاء مع شخص لأول مرة في الجنوب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "السلام، مرحبا",
+        "translation": "Peace, welcome"
+      },
+      {
+        "character": "person_b",
+        "text": "بيك، لاباس وا؟",
+        "translation": "Welcome to you, are you fine?"
+      },
+      {
+        "character": "person_a",
+        "text": "والله قا لاباس وأنت واش حوالك؟",
+        "translation": "By God I'm fine and you, how are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "قا العافية. فرحت ياسر لي شفتك.",
+        "translation": "I'm in good health. I'm very happy to see you."
+      },
+      {
+        "character": "person_a",
+        "text": "وتشوف أنا. متشرفين.",
+        "translation": "And you see me too. Honored to meet you."
+      }
+    ],
+    "tags": ["greeting", "informal", "first_meeting", "southern_dialect"],
+    "backgroundImage": null
+  }
+]

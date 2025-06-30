@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "id": "meetings",
+      "title": "اللقاءات",
+      "title_en": "Meetings",
+      "description": "محادثات اللقاءات والتعارف",
+      "description_en": "Conversations for meetings and introductions",
+      "icon": "people",
+      "subcategories": [
+        {
+          "id": "first_meetings",
+          "title": "اللقاءات الأولى",
+          "title_en": "First Meetings",
+          "description": "محادثات التعارف والتحية لأول مرة",
+          "description_en": "Conversations for introductions and first-time greetings",
+          "files": [
+            "first_meeting.json",
+            "first_meeting_amazigh.json"
+          ]
+        },
+        {
+          "id": "acquaintance_reunions",
+          "title": "لقاء المعارف",
+          "title_en": "Acquaintance Reunions",
+          "description": "محادثات لقاء الأشخاص المعروفين",
+          "description_en": "Conversations for meeting known people",
+          "files": [
+            "acquaintance_reunion.json"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "greetings",
+      "title": "التحيات",
+      "title_en": "Greetings",
+      "description": "محادثات التحيات والسلامات",
+      "description_en": "Conversations for greetings and salutations",
+      "icon": "waving_hand",
+      "subcategories": [
+        {
+          "id": "morning_greetings",
+          "title": "تحية الصباح",
+          "title_en": "Morning Greetings",
+          "description": "تحيات صباحية",
+          "description_en": "Morning greetings",
+          "files": [
+            "morning_greeting.json"
+          ]
+        },
+        {
+          "id": "evening_greetings",
+          "title": "تحية المساء",
+          "title_en": "Evening Greetings",
+          "description": "تحيات مسائية",
+          "description_en": "Evening greetings",
+          "files": [
+            "evening_greeting.json"
+          ]
+        },
+        {
+          "id": "farewell_greetings",
+          "title": "تحية الوداع",
+          "title_en": "Farewell Greetings",
+          "description": "تحيات الوداع",
+          "description_en": "Farewell greetings",
+          "files": [
+            "farewell_greeting.json"
+          ]
+        },
+        {
+          "id": "phone_greetings",
+          "title": "التحية عبر الهاتف",
+          "title_en": "Phone Greetings",
+          "description": "تحيات هاتفية",
+          "description_en": "Phone greetings",
+          "files": [
+            "phone_greeting.json"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "2.0.0",
+    "last_updated": "2025-01-18",
+    "total_categories": 2,
+    "total_dialogues": 39,
+    "supported_languages": [
+      "standard_arabic",
+      "amazigh",
+      "northern_dialect",
+      "western_dialect",
+      "eastern_dialect",
+      "southern_dialect"
+    ],
+    "amazigh_dialogues": 6
+  }
+}

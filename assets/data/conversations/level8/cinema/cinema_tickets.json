@@ -1,0 +1,194 @@
+[
+  {
+    "id": "cinema_standard_arabic",
+    "level": "expert",
+    "language": "standard_arabic",
+    "title": "في السينما - العربية الفصحى",
+    "description": "محادثة في السينما لشراء تذاكر الأفلام الجزائرية",
+    "scenario": "شراء تذكرة لمشاهدة فيلم جزائري والتعرف على السينما المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "مرحباً، أريد شراء تذكرة فيلم هل هناك أفلام اليوم؟",
+        "translation": "Hello, I want to buy a movie ticket, are there any movies today?"
+      },
+      {
+        "character": "staff",
+        "text": "نعم، لدينا فيلم جزائري \"هيليوبوليس\" يتحدث عن أحداث تاريخية مهمة في الجزائر",
+        "translation": "Yes, we have an Algerian film 'Heliopolis' that talks about important historical events in Algeria"
+      },
+      {
+        "character": "tourist",
+        "text": "رائع، هل هو مترجم إلى الإنجليزية؟",
+        "translation": "Great, is it translated to English?"
+      },
+      {
+        "character": "staff",
+        "text": "نعم، يتوفر بالترجمة تفضل تذكرتك الفيلم بعد 15 دقيقة، مشاهدة ممتعة",
+        "translation": "Yes, it's available with subtitles, here's your ticket, the movie starts in 15 minutes, enjoy watching"
+      }
+    ],
+    "tags": ["cinema", "movies", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "cinema_amazigh",
+    "level": "expert",
+    "language": "amazigh",
+    "title": "في السينما - الأمازيغية",
+    "description": "محادثة في السينما باللغة الأمازيغية",
+    "scenario": "شراء تذكرة لمشاهدة فيلم جزائري والتعرف على السينما المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "Azul bɣiɣ ad sɣeɣ atikki n ssinim allan kra n yisura ass-a?",
+        "translation": "Hello, I want to buy a cinema ticket, are there any movies today?"
+      },
+      {
+        "character": "staff",
+        "text": "Ih, nesɛa asaru azzayri \"Heliopolis\" i d-yettmeslayen ɣef tedyanin timezruyanin yesɛan azal deg Lezzayer",
+        "translation": "Yes, we have an Algerian film 'Heliopolis' that talks about important historical events in Algeria"
+      },
+      {
+        "character": "tourist",
+        "text": "Meqqer yettwasuqel ɣer teglizit?",
+        "translation": "Great, is it translated to English?"
+      },
+      {
+        "character": "staff",
+        "text": "Ih, yella s yisuqal hemmet tikki-k asaru deffir 15 n tedqiqin n tmuɣli",
+        "translation": "Yes, it's available with translation, here's your ticket, the movie starts in 15 minutes, enjoy watching"
+      }
+    ],
+    "tags": ["cinema", "movies", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "cinema_northern_dialect",
+    "level": "expert",
+    "language": "northern_dialect",
+    "title": "في السينما - الشمال الجزائري",
+    "description": "محادثة في السينما باللهجة الشمالية الجزائرية",
+    "scenario": "شراء تذكرة لمشاهدة فيلم جزائري والتعرف على السينما المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام حايب نشري تيكي كاش أفلام ليوما؟",
+        "translation": "Hello, I want to buy a ticket, are there any movies today?"
+      },
+      {
+        "character": "staff",
+        "text": "وي كاين وحد دزيري \"هيليوبوليس\" يحكي عا أحداث تاريخية في الدزاير",
+        "translation": "Yes, there's an Algerian one 'Heliopolis' that tells about historical events in Algeria"
+      },
+      {
+        "character": "tourist",
+        "text": "باهي مترجم للونقلي؟",
+        "translation": "Good, is it translated to English?"
+      },
+      {
+        "character": "staff",
+        "text": "آي مترجم تفضل تيكي تيعك الفيلم بعد ربع ساعة هايا بصحتك",
+        "translation": "Yes, it's translated, here's your ticket, the movie starts in a quarter hour, go ahead, to your health"
+      }
+    ],
+    "tags": ["cinema", "movies", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "cinema_western_dialect",
+    "level": "expert",
+    "language": "western_dialect",
+    "title": "في السينما - الغرب الجزائري",
+    "description": "محادثة في السينما باللهجة الغربية الجزائرية",
+    "scenario": "شراء تذكرة لمشاهدة فيلم جزائري والتعرف على السينما المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام بانشوف كش فيلم ليوم كاين؟",
+        "translation": "Hello, I want to watch, are there any movies today?"
+      },
+      {
+        "character": "staff",
+        "text": "واه كاين فيلم جزايري \"هيليوبوليس\" يهدر على أحداث تاريخية مهمة في الجزاير",
+        "translation": "Yes, there's an Algerian film 'Heliopolis' that talks about important historical events in Algeria"
+      },
+      {
+        "character": "tourist",
+        "text": "غاية ومترجم لونقلي؟",
+        "translation": "Good, and is it translated to English?"
+      },
+      {
+        "character": "staff",
+        "text": "واه مترجم هاولا تيكيك الفيلم مور ربع ساعة بصحتك",
+        "translation": "Yes, it's translated, here's your ticket, the movie starts in a quarter hour, to your health"
+      }
+    ],
+    "tags": ["cinema", "movies", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "cinema_eastern_dialect",
+    "level": "expert",
+    "language": "eastern_dialect",
+    "title": "في السينما - الشرق الجزائري",
+    "description": "محادثة في السينما باللهجة الشرقية الجزائرية",
+    "scenario": "شراء تذكرة لمشاهدة فيلم جزائري والتعرف على السينما المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "عسلامة نحب نشري تيكي فما أفلام ليوم؟",
+        "translation": "Hello, I want to buy a ticket, are there movies today?"
+      },
+      {
+        "character": "staff",
+        "text": "آي فما فيلم دزيري \"هيليوبوليس\" يحكي على أحداث تاريخية مهمة في الدزاير",
+        "translation": "Yes, there's an Algerian film 'Heliopolis' that tells about important historical events in Algeria"
+      },
+      {
+        "character": "tourist",
+        "text": "باهي ومترجم بالونقلي؟",
+        "translation": "Good, and is it translated to English?"
+      },
+      {
+        "character": "staff",
+        "text": "آي مترجم هاك تيكيك الفيلم بعد ربع ساعة بصحتك",
+        "translation": "Yes, it's translated, here's your ticket, the movie starts in a quarter hour, to your health"
+      }
+    ],
+    "tags": ["cinema", "movies", "culture"],
+    "backgroundImage": null
+  },
+  {
+    "id": "cinema_southern_dialect",
+    "level": "expert",
+    "language": "southern_dialect",
+    "title": "في السينما - الجنوب الجزائري",
+    "description": "محادثة في السينما باللهجة الجنوبية الجزائرية",
+    "scenario": "شراء تذكرة لمشاهدة فيلم جزائري والتعرف على السينما المحلية",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "السلام الربي كاش فيلم اليوم باقي نتفرج؟",
+        "translation": "Hello, please, are there any movies today that I can watch?"
+      },
+      {
+        "character": "staff",
+        "text": "ايه كاين فيلم تع لبلاد \"هيليوبوليس\" يهدر على احداث مهمة في الجزاير",
+        "translation": "Yes, there's a film from our country 'Heliopolis' that talks about important events in Algeria"
+      },
+      {
+        "character": "tourist",
+        "text": "مليحة ومترجم بلونقلي؟",
+        "translation": "Good, and is it translated to English?"
+      },
+      {
+        "character": "staff",
+        "text": "اييه مترجم بعد والفيلم بعد ربع ساعة بصحتك",
+        "translation": "Yes, it's translated, and the movie starts in a quarter hour, to your health"
+      }
+    ],
+    "tags": ["cinema", "movies", "culture"],
+    "backgroundImage": null
+  }
+]

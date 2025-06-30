@@ -1,0 +1,394 @@
+[
+  {
+    "id": "restaurant_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في المطعم - العربية الفصحى",
+    "description": "محادثة في المطعم لطلب الطعام والاستفسار عن الأطباق التقليدية",
+    "scenario": "طلب الطعام في مطعم والاستفسار عن الأطباق التقليدية",
+    "dialogue": [
+      {
+        "character": "waiter",
+        "text": "مرحبا بك هل ترغب في الإطلاع على القائمة؟",
+        "translation": "Welcome, would you like to see the menu?"
+      },
+      {
+        "character": "customer",
+        "text": "نعم شكرا لك أنا جديد هنا ما هي الأطباق التقليدية التي تنصحني بها؟",
+        "translation": "Yes thank you, I'm new here, what traditional dishes do you recommend?"
+      },
+      {
+        "character": "waiter",
+        "text": "لدينا الكسكس الشوربة الجزائرية الشخشوخة والشواء وهو لحم مشوي على الطريقة التقليدية",
+        "translation": "We have couscous, Algerian soup, chakhchoukha, and grilled meat cooked in the traditional way"
+      },
+      {
+        "character": "customer",
+        "text": "رائع أعتقد أني سأجرب الكسكس سمعت عنه الكثير",
+        "translation": "Great, I think I'll try the couscous, I've heard a lot about it"
+      },
+      {
+        "character": "waiter",
+        "text": "اختيار ممتاز هل تريده مع الدجاج أو اللحم؟",
+        "translation": "Excellent choice, do you want it with chicken or meat?"
+      },
+      {
+        "character": "customer",
+        "text": "مع الدجاج من فضلك",
+        "translation": "With chicken please"
+      },
+      {
+        "character": "waiter",
+        "text": "تفضل شهية طيبة",
+        "translation": "Here you go, bon appétit"
+      },
+      {
+        "character": "customer",
+        "text": "شكرا لو سمحت كيف أتناوله بالطريقة التقليدية؟",
+        "translation": "Thank you, please how do I eat it the traditional way?"
+      },
+      {
+        "character": "waiter",
+        "text": "في العادة يتم تناوله بالملعقة وخلط المرق مع الكسكس حسب رغبتك",
+        "translation": "Usually it's eaten with a spoon and mixing the broth with couscous as you like"
+      },
+      {
+        "character": "customer",
+        "text": "شكرا على الخدمة الممتازة الطعام كان لذيذا جدا هل يمكنني الحصول على الفاتورة",
+        "translation": "Thank you for the excellent service, the food was very delicious, can I get the bill?"
+      },
+      {
+        "character": "waiter",
+        "text": "ها هي الفاتورة مرحبا بك طاب يومك",
+        "translation": "Here is the bill, welcome, have a good day"
+      }
+    ],
+    "tags": ["restaurant", "food", "traditional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "restaurant_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في المطعم - الأمازيغية",
+    "description": "محادثة في المطعم لطلب الطعام والاستفسار عن الأطباق التقليدية باللغة الأمازيغية",
+    "scenario": "طلب الطعام في مطعم والاستفسار عن الأطباق التقليدية",
+    "dialogue": [
+      {
+        "character": "waiter",
+        "text": "Ansuf tebɣiḍ ad twaliḍ umuɣ?",
+        "translation": "Welcome, do you want to see the menu?"
+      },
+      {
+        "character": "customer",
+        "text": "Ih tanemmirt Nek d amaynut dagi Anwi iḍebsiyen iqburen i d-tessumreḍ?",
+        "translation": "Yes thank you, I'm new here, what traditional dishes do you recommend?"
+      },
+      {
+        "character": "waiter",
+        "text": "Nesɛa Seksu Aḥebbus azzayri shekhshoukha, u barbeku d aksum iylan s tarrayt taqburt",
+        "translation": "We have couscous, Algerian soup, chakhchoukha, and barbecue which is meat cooked in the traditional way"
+      },
+      {
+        "character": "customer",
+        "text": "Igerrez ɣileɣ ad ɛerdeɣ seksu sliɣ fell-as atas",
+        "translation": "Great, I think I'll try couscous, I've heard a lot about it"
+      },
+      {
+        "character": "waiter",
+        "text": "Afran igerzen, Tebɣiḍ-t s uyaziḍ neɣ s uksum?",
+        "translation": "Excellent choice, do you want it with chicken or meat?"
+      },
+      {
+        "character": "customer",
+        "text": "S ayaziḍ ɛafak",
+        "translation": "With chicken please"
+      },
+      {
+        "character": "waiter",
+        "text": "ɣur-k lebɣi yelhan",
+        "translation": "Here you go, bon appétit"
+      },
+      {
+        "character": "customer",
+        "text": "Tanemmirt-ik ɛafak Amek ara t-ččeɣ s ubrid aqbur?",
+        "translation": "Thank you, please how do I eat it the traditional way?"
+      },
+      {
+        "character": "waiter",
+        "text": "Yettwačč s umata s tɣanimt yeld aɣrum d seksu akken tebɣiḍ",
+        "translation": "Usually it's eaten with a spoon and mixing the broth with couscous as you like"
+      },
+      {
+        "character": "customer",
+        "text": "Tanemmirt ɣef useqdec ifazen lqut-nni yella d aẓiḍan atas zemreɣ ad d-awiɣ tafakturt-nni?",
+        "translation": "Thank you for the excellent service, the food was very delicious, can I get the bill?"
+      },
+      {
+        "character": "waiter",
+        "text": "Atan tafakturt ansuf ass yelhan",
+        "translation": "Here is the bill, welcome, have a good day"
+      }
+    ],
+    "tags": ["restaurant", "food", "traditional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "restaurant_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في المطعم - الشمال الجزائري",
+    "description": "محادثة في المطعم باللهجة الشمالية الجزائرية",
+    "scenario": "طلب الطعام في مطعم والاستفسار عن الأطباق التقليدية",
+    "dialogue": [
+      {
+        "character": "waiter",
+        "text": "مرحبا بيك تحب نجيبلك المونو",
+        "translation": "Welcome, do you want me to bring you the menu?"
+      },
+      {
+        "character": "customer",
+        "text": "وي تعيش أنا جديد لهنا وشنو لي بلا تراديسيونال لي تنصحني بيهم",
+        "translation": "Yes thank you, I'm new here, what traditional dishes do you recommend?"
+      },
+      {
+        "character": "waiter",
+        "text": "عندنا الطعام، شربة فريك، تشخشوخة، الشواء، هدا سبيسيال تع ليزالجيريان",
+        "translation": "We have couscous, freekeh soup, chakhchoukha, grilled meat, this is special Algerian"
+      },
+      {
+        "character": "customer",
+        "text": "واو حنجرب الطعام سمعت عليه بالبزاف",
+        "translation": "Wow, I'll try the couscous, I've heard a lot about it"
+      },
+      {
+        "character": "waiter",
+        "text": "درتي بالراي تحبيه بالجاج ولا اللحم",
+        "translation": "You made the right choice, do you want it with chicken or meat?"
+      },
+      {
+        "character": "customer",
+        "text": "بالجاج تعيش",
+        "translation": "With chicken, thank you"
+      },
+      {
+        "character": "waiter",
+        "text": "تفضلي بون آبيتي",
+        "translation": "Here you go, bon appétit"
+      },
+      {
+        "character": "customer",
+        "text": "ماغسي تعيش كيفاه ياكلوه هنايا",
+        "translation": "Thank you, how do they eat it here?"
+      },
+      {
+        "character": "waiter",
+        "text": "جينيرالمون بالمعيلقة ويسقيو الطعام بالمرقة سينو كيما تحبي",
+        "translation": "Generally with a spoon and they pour the couscous with broth, however you like"
+      },
+      {
+        "character": "customer",
+        "text": "ماغسي كلش بنين بالطبع جيبلي لافاكتور",
+        "translation": "Thank you, everything is good, of course bring me the bill"
+      },
+      {
+        "character": "waiter",
+        "text": "تفضلي مرحبا بيك",
+        "translation": "Here you go, welcome"
+      }
+    ],
+    "tags": ["restaurant", "food", "traditional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "restaurant_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في المطعم - الغرب الجزائري",
+    "description": "محادثة في المطعم باللهجة الغربية الجزائرية",
+    "scenario": "طلب الطعام في مطعم والاستفسار عن الأطباق التقليدية",
+    "dialogue": [
+      {
+        "character": "waiter",
+        "text": "مرحبا بيك عدنا نجيبلك المونو؟",
+        "translation": "Welcome to us, shall I bring you the menu?"
+      },
+      {
+        "character": "customer",
+        "text": "واه، أنا جديد هنا شاعندكم دي بلا طراديسيونال لي تقد تنصحني بيها",
+        "translation": "Yes, I'm new here, what traditional dishes do you have that you can recommend?"
+      },
+      {
+        "character": "waiter",
+        "text": "عنا الطعام، حريرة، شخشوخة، والشواء هذا سبيسيال تع دزاير",
+        "translation": "We have couscous, harira, chakhchoukha, and grilled meat, this is special from Algeria"
+      },
+      {
+        "character": "customer",
+        "text": "غاية، غادي نجرب الطعام سمعت عليه بزاف",
+        "translation": "Good, I'll try the couscous, I've heard a lot about it"
+      },
+      {
+        "character": "waiter",
+        "text": "واه غادي ديري براي تبغيه بالجاج ولا لحم",
+        "translation": "Yes, you'll do well, do you want it with chicken or meat?"
+      },
+      {
+        "character": "customer",
+        "text": "بالجاج حمبوك",
+        "translation": "With chicken, thank you"
+      },
+      {
+        "character": "waiter",
+        "text": "تفضلي بصحتك",
+        "translation": "Here you go, to your health"
+      },
+      {
+        "character": "customer",
+        "text": "صحيت قولي برك كيش ينتكل هنا",
+        "translation": "Thank you, just tell me how it's eaten here"
+      },
+      {
+        "character": "waiter",
+        "text": "نورمال بالمغرف وتسقي بالمرقة سينو كيما تبغي",
+        "translation": "Normal with a ladle and you pour with broth, however you want"
+      },
+      {
+        "character": "customer",
+        "text": "صحيت كلشي بنين حمبوك هاتلي لافاكتور",
+        "translation": "Thank you, everything is good, thank you, bring me the bill"
+      },
+      {
+        "character": "waiter",
+        "text": "هايالا تفضلي ومرحبا بيك",
+        "translation": "Here you go and welcome"
+      }
+    ],
+    "tags": ["restaurant", "food", "traditional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "restaurant_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في المطعم - الشرق الجزائري",
+    "description": "محادثة في المطعم باللهجة الشرقية الجزائرية",
+    "scenario": "طلب الطعام في مطعم والاستفسار عن الأطباق التقليدية",
+    "dialogue": [
+      {
+        "character": "waiter",
+        "text": "علامة مرحبا بيك عنا نجيبلك المونو",
+        "translation": "Hello, welcome, shall we bring you the menu?"
+      },
+      {
+        "character": "customer",
+        "text": "آي يعيشك، أنا جديد وش كاين دي بلا طراديسيونال لي تنجم تنصحني باها",
+        "translation": "Yes thank you, I'm new, what traditional dishes are there that you can recommend?"
+      },
+      {
+        "character": "waiter",
+        "text": "عنا الكسكسي، الجاري، الشخشوخة والشواء هدايا سبيسيال متاع الدزاير",
+        "translation": "We have couscous, soup, chakhchoukha and grilled meat, these are special from Algeria"
+      },
+      {
+        "character": "customer",
+        "text": "نجرب الكسكسي سمعت عليه ياسر",
+        "translation": "I'll try the couscous, I've heard a lot about it"
+      },
+      {
+        "character": "waiter",
+        "text": "آي عرفتي تخيري تحبيه بالدجاج ولا اللحم",
+        "translation": "Yes, you know how to choose, do you want it with chicken or meat?"
+      },
+      {
+        "character": "customer",
+        "text": "بالجاج يعيشك",
+        "translation": "With chicken, thank you"
+      },
+      {
+        "character": "waiter",
+        "text": "تفضلي هايا بصحتك",
+        "translation": "Here you go, to your health"
+      },
+      {
+        "character": "customer",
+        "text": "يعيشك كلش بنين يهبل جيبلي الفاكتور",
+        "translation": "Thank you, everything is very good, bring me the bill"
+      },
+      {
+        "character": "waiter",
+        "text": "بالطبيعة تفضلي ومرحبا بيك",
+        "translation": "Naturally, here you go and welcome"
+      }
+    ],
+    "tags": ["restaurant", "food", "traditional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "restaurant_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في المطعم - الجنوب الجزائري",
+    "description": "محادثة في المطعم باللهجة الجنوبية الجزائرية",
+    "scenario": "طلب الطعام في مطعم والاستفسار عن الأطباق التقليدية",
+    "dialogue": [
+      {
+        "character": "waiter",
+        "text": "مرحبا بيك نجيبلك القائمة تع الماكلة",
+        "translation": "Welcome, shall I bring you the food menu?"
+      },
+      {
+        "character": "customer",
+        "text": "ايه، أنا جديد لهنا واش عندكم أطباق تع لبلاد",
+        "translation": "Yes, I'm new here, what local dishes do you have?"
+      },
+      {
+        "character": "waiter",
+        "text": "كاين العيش، الشوربة، الشخشوخة، والشواء سبيسيال تع الدزاير",
+        "translation": "There's couscous, soup, chakhchoukha, and grilled meat, special from Algeria"
+      },
+      {
+        "character": "customer",
+        "text": "جيبلي العيش سمعت عليه ياسر",
+        "translation": "Bring me the couscous, I've heard a lot about it"
+      },
+      {
+        "character": "waiter",
+        "text": "جبتيها قد قد، تبغيه بالجاج ولا باللحم",
+        "translation": "You got it right, do you want it with chicken or meat?"
+      },
+      {
+        "character": "customer",
+        "text": "بالدجاج يسجيك",
+        "translation": "With chicken, thank you"
+      },
+      {
+        "character": "waiter",
+        "text": "تفضلي شهية طيبة",
+        "translation": "Here you go, bon appétit"
+      },
+      {
+        "character": "customer",
+        "text": "صحيت كيفاش تاكلوه هنا",
+        "translation": "Thank you, how do you eat it here?"
+      },
+      {
+        "character": "waiter",
+        "text": "عادي بالمقرف ويسقوه بالمرقة كيما تبقي",
+        "translation": "Normal with a spoon and pour it with broth as you like"
+      },
+      {
+        "character": "customer",
+        "text": "يعطيكم الصحة كلشي بنين جيبلي الفاتورة الربي",
+        "translation": "May you have health, everything is good, bring me the bill please"
+      },
+      {
+        "character": "waiter",
+        "text": "تفضلي ومرحبا بيك",
+        "translation": "Here you go and welcome"
+      }
+    ],
+    "tags": ["restaurant", "food", "traditional"],
+    "backgroundImage": null
+  }
+]

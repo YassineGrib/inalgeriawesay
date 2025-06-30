@@ -1,0 +1,194 @@
+[
+  {
+    "id": "morning_greeting_standard_arabic",
+    "level": "beginner",
+    "language": "standard_arabic",
+    "title": "تحية الصباح - العربية الفصحى",
+    "description": "تحية صباحية باللغة العربية الفصحى",
+    "scenario": "تحية شخص في الصباح",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "صباح الخير. كيف حالك؟",
+        "translation": "Good morning. How are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "صباح النور. أنا بخير شكرا وأنت؟",
+        "translation": "Good morning. I'm fine thank you and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "أنا أيضا بخير. الحمد لله. هل لديك خطط لليوم؟",
+        "translation": "I'm also fine. Praise be to God. Do you have plans for today?"
+      },
+      {
+        "character": "person_b",
+        "text": "لا أخذت إجازة",
+        "translation": "No, I took a vacation"
+      }
+    ],
+    "tags": ["morning", "greeting", "good_morning"],
+    "backgroundImage": null
+  },
+  {
+    "id": "morning_greeting_amazigh",
+    "level": "beginner",
+    "language": "amazigh",
+    "title": "تحية الصباح - الأمازيغية",
+    "description": "تحية صباحية باللغة الأمازيغية",
+    "scenario": "تحية شخص في الصباح",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "Sbah bxir. amek tellid?",
+        "translation": "Good morning. How are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "sbah azul nekk s bxir tanemmirt",
+        "translation": "Good morning, I'm fine thank you"
+      },
+      {
+        "character": "person_a",
+        "text": "Nekk s lxir tanemmirt n rebbi tesɛid iɣawasen ass-a?",
+        "translation": "I'm fine thank God, do you have plans today?"
+      },
+      {
+        "character": "person_b",
+        "text": "Ala ṭṭeɣ imuraṣ",
+        "translation": "No, I took a vacation"
+      }
+    ],
+    "tags": ["morning", "greeting", "good_morning"],
+    "backgroundImage": null
+  },
+  {
+    "id": "morning_greeting_northern_dialect",
+    "level": "beginner",
+    "language": "northern_dialect",
+    "title": "تحية الصباح - الشمال الجزائري",
+    "description": "تحية صباحية باللهجة الشمالية الجزائرية",
+    "scenario": "تحية شخص في الصباح في الشمال الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "صباح الخير. واش راك؟",
+        "translation": "Good morning. How are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "صباح الفل. بخير. تعيش وأنت؟",
+        "translation": "Good morning. Fine. May you live long and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "بخير.الحمد لله. كاش ما عندك اليوم؟",
+        "translation": "Fine. Praise be to God. Do you have anything today?"
+      },
+      {
+        "character": "person_b",
+        "text": "لالا ديت كونجي.",
+        "translation": "No, I took a vacation"
+      }
+    ],
+    "tags": ["morning", "greeting", "good_morning"],
+    "backgroundImage": null
+  },
+  {
+    "id": "morning_greeting_western_dialect",
+    "level": "beginner",
+    "language": "western_dialect",
+    "title": "تحية الصباح - الغرب الجزائري",
+    "description": "تحية صباحية باللهجة الغربية الجزائرية",
+    "scenario": "تحية شخص في الصباح في الغرب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "صباح الخير. كيراك؟",
+        "translation": "Good morning. How are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "صباح النور. راني غايه صحيت ونتا؟",
+        "translation": "Good morning. I'm fine, I woke up well and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "انا تاني غايه. كشما عندك اليوم؟",
+        "translation": "I'm also fine. What do you have today?"
+      },
+      {
+        "character": "person_b",
+        "text": "لالا ديت كونجي.",
+        "translation": "No, I took a vacation"
+      }
+    ],
+    "tags": ["morning", "greeting", "good_morning"],
+    "backgroundImage": null
+  },
+  {
+    "id": "morning_greeting_eastern_dialect",
+    "level": "beginner",
+    "language": "eastern_dialect",
+    "title": "تحية الصباح - الشرق الجزائري",
+    "description": "تحية صباحية باللهجة الشرقية الجزائرية",
+    "scenario": "تحية شخص في الصباح في الشرق الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "صباح الخير.لاباس؟",
+        "translation": "Good morning. Are you fine?"
+      },
+      {
+        "character": "person_b",
+        "text": "صباح النور. لاباس.ربي يعيشك وأنت؟",
+        "translation": "Good morning. I'm fine. May God give you long life and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "حتانا لاباس كشما عندك قضيات ليوم؟",
+        "translation": "I'm also fine, what do you have to do today?"
+      },
+      {
+        "character": "person_b",
+        "text": "لا. أني ديت كونجي.",
+        "translation": "No. I took a vacation"
+      }
+    ],
+    "tags": ["morning", "greeting", "good_morning"],
+    "backgroundImage": null
+  },
+  {
+    "id": "morning_greeting_southern_dialect",
+    "level": "beginner",
+    "language": "southern_dialect",
+    "title": "تحية الصباح - الجنوب الجزائري",
+    "description": "تحية صباحية باللهجة الجنوبية الجزائرية",
+    "scenario": "تحية شخص في الصباح في الجنوب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "صباح الخير. واش راك؟",
+        "translation": "Good morning. How are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "صباح النور. لاباس ونت؟",
+        "translation": "Good morning. I'm fine and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "أنا تاني. لاباس كش ماراح دير ليوم؟",
+        "translation": "Me too. I'm fine, what are you going to do today?"
+      },
+      {
+        "character": "person_b",
+        "text": "والو راني كونجي.",
+        "translation": "Nothing, I'm on vacation"
+      }
+    ],
+    "tags": ["morning", "greeting", "good_morning"],
+    "backgroundImage": null
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "job_interview_standard_arabic",
+    "level": "expert",
+    "language": "standard_arabic",
+    "title": "مقابلة عمل - العربية الفصحى",
+    "description": "محادثة مقابلة عمل مهنية مع أسئلة وأجوبة",
+    "scenario": "مقابلة عمل في شركة أو مؤسسة",
+    "dialogue": [
+      {
+        "character": "manager",
+        "text": "مرحباً حدثني عن نفسك؟",
+        "translation": "Hello, tell me about yourself?"
+      },
+      {
+        "character": "candidate",
+        "text": "مرحباً اسمي فلان لدي خبرة في المجال لمدة 5 سنوات في الشركة",
+        "translation": "Hello, my name is so-and-so, I have experience in the field for 5 years at the company"
+      },
+      {
+        "character": "manager",
+        "text": "لماذا تريد العمل في شركتنا؟",
+        "translation": "Why do you want to work at our company?"
+      },
+      {
+        "character": "candidate",
+        "text": "لأني مهتم بمجال عملكم ولدي المهارات المناسبة لهذا المنصب",
+        "translation": "Because I'm interested in your field of work and I have the appropriate skills for this position"
+      },
+      {
+        "character": "manager",
+        "text": "حسناً سنراجع طلبك ونتصل بك",
+        "translation": "Good, we will review your application and contact you"
+      }
+    ],
+    "tags": ["job", "interview", "professional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "job_interview_amazigh",
+    "level": "expert",
+    "language": "amazigh",
+    "title": "مقابلة عمل - الأمازيغية",
+    "description": "محادثة مقابلة عمل باللغة الأمازيغية",
+    "scenario": "مقابلة عمل في شركة أو مؤسسة",
+    "dialogue": [
+      {
+        "character": "manager",
+        "text": "Azul ini-yi-d ɣef yiman-ik",
+        "translation": "Hello, tell me about yourself"
+      },
+      {
+        "character": "candidate",
+        "text": "Azul isem-iw d flani sɛiɣ tarmit deg unha n yisegasen",
+        "translation": "Hello, my name is so-and-so, I have experience for several years"
+      },
+      {
+        "character": "manager",
+        "text": "Ayɣer tebɣiḍ ad txedmeḍ deg tkebbanit-nneɣ?",
+        "translation": "Why do you want to work at our company?"
+      },
+      {
+        "character": "candidate",
+        "text": "Acku hemmleɣ annar n uxeddim-ik yerna sɛiɣ tazmert iwatan i umkan-nni",
+        "translation": "Because I love this type of work and I have the appropriate skills for this position"
+      },
+      {
+        "character": "manager",
+        "text": "Ihi ad nẓer asuter-ik uad k-nawi",
+        "translation": "Well, we will review your application and contact you"
+      }
+    ],
+    "tags": ["job", "interview", "professional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "job_interview_northern_dialect",
+    "level": "expert",
+    "language": "northern_dialect",
+    "title": "مقابلة عمل - الشمال الجزائري",
+    "description": "محادثة مقابلة عمل باللهجة الشمالية الجزائرية",
+    "scenario": "مقابلة عمل في شركة أو مؤسسة",
+    "dialogue": [
+      {
+        "character": "manager",
+        "text": "مرحبا احكيلي على روحك",
+        "translation": "Hello, tell me about yourself"
+      },
+      {
+        "character": "candidate",
+        "text": "أنا فلان عندي خبرة في المجال تع خمس سنين في الشركة الفلانية",
+        "translation": "I'm so-and-so, I have experience in the field for five years at such company"
+      },
+      {
+        "character": "manager",
+        "text": "علاش حايب تخدم في الشركة ديالنا",
+        "translation": "Why do you want to work at our company?"
+      },
+      {
+        "character": "candidate",
+        "text": "بيسك نحب هد الدومان وتاني عندي الخبرة اللازمة لهد البوست",
+        "translation": "Because I love this domain and also I have the necessary experience for this post"
+      },
+      {
+        "character": "manager",
+        "text": "أوك نشوفو الدوموند ديالك ونعيطولك",
+        "translation": "OK, we'll see your application and call you"
+      }
+    ],
+    "tags": ["job", "interview", "professional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "job_interview_western_dialect",
+    "level": "expert",
+    "language": "western_dialect",
+    "title": "مقابلة عمل - الغرب الجزائري",
+    "description": "محادثة مقابلة عمل باللهجة الغربية الجزائرية",
+    "scenario": "مقابلة عمل في شركة أو مؤسسة",
+    "dialogue": [
+      {
+        "character": "manager",
+        "text": "مرحبا اهدر لي على روحك",
+        "translation": "Hello, tell me about yourself"
+      },
+      {
+        "character": "candidate",
+        "text": "أنا فلان عندي خبرة في المجال تع خمس سنين في شركة اسم الشركة",
+        "translation": "I'm so-and-so, I have experience in the field for five years at company name"
+      },
+      {
+        "character": "manager",
+        "text": "علاه بغيت تخدم عندنا",
+        "translation": "Why do you want to work with us?"
+      },
+      {
+        "character": "candidate",
+        "text": "بيسك راني انتيرسي بهد الدومان وتاني عندي الخبرة الكافية",
+        "translation": "Because I'm interested in this domain and also I have sufficient experience"
+      },
+      {
+        "character": "manager",
+        "text": "واه غادي نشوفو الطلب ونعيطولك",
+        "translation": "Yes, we'll see the application and call you"
+      }
+    ],
+    "tags": ["job", "interview", "professional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "job_interview_eastern_dialect",
+    "level": "expert",
+    "language": "eastern_dialect",
+    "title": "مقابلة عمل - الشرق الجزائري",
+    "description": "محادثة مقابلة عمل باللهجة الشرقية الجزائرية",
+    "scenario": "مقابلة عمل في شركة أو مؤسسة",
+    "dialogue": [
+      {
+        "character": "manager",
+        "text": "مرحبا احكيلي على روحك",
+        "translation": "Hello, tell me about yourself"
+      },
+      {
+        "character": "candidate",
+        "text": "مرحبا أنا فلان وعندي خبرة المجال متاع خمس سنين في شركة إسم الشركة",
+        "translation": "Hello, I'm so-and-so and I have experience in the field for five years at company name"
+      },
+      {
+        "character": "manager",
+        "text": "وعلاش حبيت تخدم في الشركة تيعنا",
+        "translation": "And why did you want to work at our company?"
+      },
+      {
+        "character": "candidate",
+        "text": "علا خطرشي نحب الدومان أدا وعندي الخبرة الكافية",
+        "translation": "Because I love this domain and I have sufficient experience"
+      },
+      {
+        "character": "manager",
+        "text": "باهي باش نشوفو الدوموند تعيك ونعيطولك",
+        "translation": "Good, we'll see your application and call you"
+      }
+    ],
+    "tags": ["job", "interview", "professional"],
+    "backgroundImage": null
+  },
+  {
+    "id": "job_interview_southern_dialect",
+    "level": "expert",
+    "language": "southern_dialect",
+    "title": "مقابلة عمل - الجنوب الجزائري",
+    "description": "محادثة مقابلة عمل باللهجة الجنوبية الجزائرية",
+    "scenario": "مقابلة عمل في شركة أو مؤسسة",
+    "dialogue": [
+      {
+        "character": "manager",
+        "text": "مرحبا احكيلي على روحك",
+        "translation": "Hello, tell me about yourself"
+      },
+      {
+        "character": "candidate",
+        "text": "مرحبا أنا فلان وعندي خبرة خمس سنين في مجال في شركة",
+        "translation": "Hello, I'm so-and-so and I have five years experience in the field at a company"
+      },
+      {
+        "character": "manager",
+        "text": "وعلاواه باقي تخدم عدنا",
+        "translation": "And why do you want to work with us?"
+      },
+      {
+        "character": "candidate",
+        "text": "علا خاطر نحب هد المجال وعندي الخبرة اللازمة ليه",
+        "translation": "Because I love this field and I have the necessary experience for it"
+      },
+      {
+        "character": "manager",
+        "text": "مريقلة نشوفو الطلب تاعك ونعيطولك",
+        "translation": "Good, we'll see your application and call you"
+      }
+    ],
+    "tags": ["job", "interview", "professional"],
+    "backgroundImage": null
+  }
+]

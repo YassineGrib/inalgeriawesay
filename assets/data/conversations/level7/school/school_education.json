@@ -1,0 +1,194 @@
+[
+  {
+    "id": "school_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في المدرسة - العربية الفصحى",
+    "description": "محادثة في المدرسة حول نظام التعليم والتسجيل",
+    "scenario": "التعرف على نظام التعليم الجزائري وتسجيل الطفل في المدرسة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "صباح الخير أنا جديد هنا وأود معرفة كيف يدرس الطلاب في الجزائر",
+        "translation": "Good morning, I'm new here and I'd like to know how students study in Algeria"
+      },
+      {
+        "character": "principal",
+        "text": "صباح الخير في الجزائر يدرس الطلاب في ثلاث مراحل الابتدائية المتوسط الثانوي وبعد أخذهم الباكالوريا في العام الأخير من الثانوية ينتقلون للجامعة والمعهد",
+        "translation": "Good morning, in Algeria students study in three stages: primary, middle, secondary, and after taking the baccalaureate in the final year of secondary, they move to university and institutes"
+      },
+      {
+        "character": "visitor",
+        "text": "شكراً للتوضيح أريد تسجيل ابني كان في الصف الخامس",
+        "translation": "Thank you for the clarification, I want to register my son, he was in fifth grade"
+      },
+      {
+        "character": "principal",
+        "text": "حسناً سأرسلك للسكرتيرة وستوضح لك بالتفصيل مع الوثائق المطلوبة",
+        "translation": "Alright, I'll send you to the secretary and she will explain to you in detail with the required documents"
+      }
+    ],
+    "tags": ["school", "education", "enrollment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "school_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في المدرسة - الأمازيغية",
+    "description": "محادثة في المدرسة باللغة الأمازيغية",
+    "scenario": "التعرف على نظام التعليم الجزائري وتسجيل الطفل في المدرسة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "Sbaḥ lxir nekk d amaynut dagi bɣiɣ ad ẓreɣ amek qqaren yinelmaden di Lezzayer",
+        "translation": "Good morning, I'm new here and I want to know how students study in Algeria"
+      },
+      {
+        "character": "principal",
+        "text": "Sbaḥ lxir di tmurt n Lezzayer inelmaden qqaren s kraḍ n yiḥricen amenzu, amḍan, tasnawit mi ara d-awin ibac deg useggas aneggaru n tesnawit ṭṭuḥen ɣer tesdawit neɣ asudu",
+        "translation": "Good morning, in Algeria students study in three stages: primary, middle, secondary, when they get the baccalaureate in the final year of secondary they go to university or institute"
+      },
+      {
+        "character": "visitor",
+        "text": "Tanemmirt ɣef usegzi bɣiɣ ad sɣermeɣ mmi-s yella deg useggas wis semmus",
+        "translation": "Thank you for the explanation, I want to register my son, he was in the fifth year"
+      },
+      {
+        "character": "principal",
+        "text": "Ihi ad k-id-ceggɛeɣ ɣer tkatibat ad ak-d-teglu s telqayt akk-d yisebtar ilaqen",
+        "translation": "Well, I'll send you to the secretary, she will explain to you in detail with the required documents"
+      }
+    ],
+    "tags": ["school", "education", "enrollment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "school_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في المدرسة - الشمال الجزائري",
+    "description": "محادثة في المدرسة باللهجة الشمالية الجزائرية",
+    "scenario": "التعرف على نظام التعليم الجزائري وتسجيل الطفل في المدرسة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "صباح الخير أنا جديد لهنايا حاب نعرف كيفاش يقرو لولاد في دزاير",
+        "translation": "Good morning, I'm new here, I want to know how children study in Algeria"
+      },
+      {
+        "character": "principal",
+        "text": "صباح النور في دزاير يقراو في تلات مراحل الابتدائي المتوسط والثانوي وغي يجوزو الباك يروحو لافاك ولا المعهد",
+        "translation": "Good morning, in Algeria they study in three stages: primary, middle and secondary, and when they pass the bac they go to university or institute"
+      },
+      {
+        "character": "visitor",
+        "text": "آه ماغسي لي فهمتني حايب نسجل وليدي سنة خامسة",
+        "translation": "Ah, thank you for making me understand, I want to register my child in fifth year"
+      },
+      {
+        "character": "principal",
+        "text": "أوك جوز السكرتيرة وتقولك واش لازم",
+        "translation": "OK, go to the secretary and she'll tell you what's needed"
+      }
+    ],
+    "tags": ["school", "education", "enrollment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "school_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في المدرسة - الغرب الجزائري",
+    "description": "محادثة في المدرسة باللهجة الغربية الجزائرية",
+    "scenario": "التعرف على نظام التعليم الجزائري وتسجيل الطفل في المدرسة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "صباح الخير أنا جديد هنا بانعرف كيش يقرو في دزاير",
+        "translation": "Good morning, I'm new here, I want to know how they study in Algeria"
+      },
+      {
+        "character": "principal",
+        "text": "صباح النور التلاميذ عنا يقرو تلاث مراحل الابتدائي المتوسط الثانوي وغي يدو الباك يروحو صوا جامعة صوا معهد",
+        "translation": "Good morning, our students study three stages: primary, middle, secondary, and when they take the bac they go either to university or institute"
+      },
+      {
+        "character": "visitor",
+        "text": "صحيت لي فهمتني بانسجل ولدي سنة الخامسة",
+        "translation": "Thank you for making me understand, I want to register my child in fifth year"
+      },
+      {
+        "character": "principal",
+        "text": "صاي فوت عند السكرتيرة وتقولك شا لازم",
+        "translation": "OK, go to the secretary and she'll tell you what's needed"
+      }
+    ],
+    "tags": ["school", "education", "enrollment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "school_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في المدرسة - الشرق الجزائري",
+    "description": "محادثة في المدرسة باللهجة الشرقية الجزائرية",
+    "scenario": "التعرف على نظام التعليم الجزائري وتسجيل الطفل في المدرسة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "صباح الخير أنا جديد بحذاكم نحب نعرف كيفاش يقراو هنا في الدزاير",
+        "translation": "Good morning, I'm new with you, I want to know how they study here in Algeria"
+      },
+      {
+        "character": "principal",
+        "text": "صباح النور يقراو في تلاث مرحلات الابتدائي المتوسط الثانوي وكي يديو الباك يكملو في الجامعة ولا المعهد",
+        "translation": "Good morning, they study in three stages: primary, middle, secondary, and when they take the bac they continue in university or institute"
+      },
+      {
+        "character": "visitor",
+        "text": "يعيشك لي فهمتيني نحب نسجل ولدي في السنة الخامسة",
+        "translation": "Thank you for making me understand, I want to register my child in fifth year"
+      },
+      {
+        "character": "principal",
+        "text": "باهي فوت عالسكرتيرة وتو تقولك واش تحتاج",
+        "translation": "Good, go to the secretary and she'll tell you what you need"
+      }
+    ],
+    "tags": ["school", "education", "enrollment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "school_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في المدرسة - الجنوب الجزائري",
+    "description": "محادثة في المدرسة باللهجة الجنوبية الجزائرية",
+    "scenario": "التعرف على نظام التعليم الجزائري وتسجيل الطفل في المدرسة",
+    "dialogue": [
+      {
+        "character": "visitor",
+        "text": "صباح الخير أنا جديد هنا باقي نعرف كيفاش يقراو التلاميذ في الجزاير",
+        "translation": "Good morning, I'm new here, I want to know how students study in Algeria"
+      },
+      {
+        "character": "principal",
+        "text": "صباح النور القراية تكون في ثلاث مراحل الابتدائي المتوسط الثانوي وغي يربحو الباك يكملو في الجامعة ولا المعهد",
+        "translation": "Good morning, studying is in three stages: primary, middle, secondary, and when they win the bac they continue in university or institute"
+      },
+      {
+        "character": "visitor",
+        "text": "ربي يحفظك لي فهمتني باغي نسجل ولدي سنة خامسة",
+        "translation": "May God protect you for making me understand, I want to register my child in fifth year"
+      },
+      {
+        "character": "principal",
+        "text": "معليه فوت عند السكرتيرة دك تفهمك واش لازم",
+        "translation": "No problem, go to the secretary, she'll make you understand what's needed"
+      }
+    ],
+    "tags": ["school", "education", "enrollment"],
+    "backgroundImage": null
+  }
+]

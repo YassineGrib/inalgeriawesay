@@ -1,0 +1,344 @@
+[
+  {
+    "id": "hospital_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في المستشفى - العربية الفصحى",
+    "description": "محادثة في المستشفى لحجز موعد واستشارة طبية",
+    "scenario": "حجز موعد طبي واستشارة مع الطبيب",
+    "dialogue": [
+      {
+        "character": "patient",
+        "text": "صباح الخير هل يمكنني حجز موعد مع الطبيب؟",
+        "translation": "Good morning, can I book an appointment with the doctor?"
+      },
+      {
+        "character": "staff",
+        "text": "صباح الخير أي طبيب؟",
+        "translation": "Good morning, which doctor?"
+      },
+      {
+        "character": "patient",
+        "text": "طبيب العيون من فضلك؟",
+        "translation": "Eye doctor please?"
+      },
+      {
+        "character": "staff",
+        "text": "حسناً الموعد التالي يوم الإثنين على الساعة العاشرة",
+        "translation": "Alright, the next appointment is on Monday at ten o'clock"
+      },
+      {
+        "character": "doctor",
+        "text": "مرحباً ما هي مشكلتك؟",
+        "translation": "Hello, what is your problem?"
+      },
+      {
+        "character": "patient",
+        "text": "عندي صداع شديد منذ ثلاثة أيام",
+        "translation": "I have a severe headache for three days"
+      },
+      {
+        "character": "doctor",
+        "text": "هل لديك أي أعراض أخرى؟",
+        "translation": "Do you have any other symptoms?"
+      },
+      {
+        "character": "patient",
+        "text": "نعم، أشعر بالتعب ولا أستطيع التركيز",
+        "translation": "Yes, I feel tired and can't concentrate"
+      },
+      {
+        "character": "doctor",
+        "text": "اصعد إلى السرير من فضلك",
+        "translation": "Get on the bed please"
+      }
+    ],
+    "tags": ["hospital", "doctor", "appointment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hospital_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في المستشفى - الأمازيغية",
+    "description": "محادثة في المستشفى باللغة الأمازيغية",
+    "scenario": "حجز موعد طبي واستشارة مع الطبيب",
+    "dialogue": [
+      {
+        "character": "patient",
+        "text": "Azul fellawen zemreɣ ad ggeɣ ttiɛad d umejjay?",
+        "translation": "Hello, can I make an appointment with the doctor?"
+      },
+      {
+        "character": "staff",
+        "text": "Azul fellawen anwa amejjay?",
+        "translation": "Hello, which doctor?"
+      },
+      {
+        "character": "patient",
+        "text": "Amejjay n wallen ɛafak",
+        "translation": "Eye doctor please"
+      },
+      {
+        "character": "staff",
+        "text": "Ihi, ttiɛad yellan d ass n letnayen ɣef mraw n tmeddit",
+        "translation": "Well, the next appointment is on Monday at ten in the morning"
+      },
+      {
+        "character": "doctor",
+        "text": "Azul d acu i d-ugur-nwen?",
+        "translation": "Hello, what is your problem?"
+      },
+      {
+        "character": "patient",
+        "text": "Kraḍ n wussan aya segmi sɛiɣ leqṛiḥ n uqerru s waṭas",
+        "translation": "For three days I have had a severe headache"
+      },
+      {
+        "character": "doctor",
+        "text": "Tesɛiḍ izmulen nniḍen?",
+        "translation": "Do you have other symptoms?"
+      },
+      {
+        "character": "patient",
+        "text": "Ih, ḥulfaɣ ɛyiɣ aṭas yerna ur zmireɣ ara ad seqdceɣ ibal-iw",
+        "translation": "Yes, I feel very tired and can't use my mind"
+      },
+      {
+        "character": "doctor",
+        "text": "Kecmeḍ ɣer usu iwakken ad k-ẓreɣ",
+        "translation": "Get on the bed so I can examine you"
+      }
+    ],
+    "tags": ["hospital", "doctor", "appointment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hospital_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في المستشفى - الشمال الجزائري",
+    "description": "محادثة في المستشفى باللهجة الشمالية الجزائرية",
+    "scenario": "حجز موعد طبي واستشارة مع الطبيب",
+    "dialogue": [
+      {
+        "character": "patient",
+        "text": "صباح الخير، حاب نحجز رونديفو عند الطبيب",
+        "translation": "Good morning, I want to book an appointment with the doctor"
+      },
+      {
+        "character": "staff",
+        "text": "صباح النور أما طبيب؟",
+        "translation": "Good morning, which doctor?"
+      },
+      {
+        "character": "patient",
+        "text": "ديال العينين تعيش",
+        "translation": "The eye doctor, thank you"
+      },
+      {
+        "character": "staff",
+        "text": "أوك يكون لهنا لتنين على العشرة",
+        "translation": "OK, it will be here on Monday at ten"
+      },
+      {
+        "character": "doctor",
+        "text": "مرحبا وشنو يوجعك",
+        "translation": "Hello, what hurts you?"
+      },
+      {
+        "character": "patient",
+        "text": "سطر في راسي صافي طرواجور",
+        "translation": "Pain in my head for three days"
+      },
+      {
+        "character": "doctor",
+        "text": "كشما عندك معاه",
+        "translation": "What else do you have with it?"
+      },
+      {
+        "character": "patient",
+        "text": "ايه وتعب بزاف منقدرش نركز",
+        "translation": "Yes, and very tired, I can't concentrate"
+      },
+      {
+        "character": "doctor",
+        "text": "جوز لسرير دك نقلبلك",
+        "translation": "Go to the bed so I can examine you"
+      }
+    ],
+    "tags": ["hospital", "doctor", "appointment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hospital_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في المستشفى - الغرب الجزائري",
+    "description": "محادثة في المستشفى باللهجة الغربية الجزائرية",
+    "scenario": "حجز موعد طبي واستشارة مع الطبيب",
+    "dialogue": [
+      {
+        "character": "patient",
+        "text": "صباح الخير حمبوك با نشد رونديفو عند طبيب",
+        "translation": "Good morning, thank you, I want to book an appointment with a doctor"
+      },
+      {
+        "character": "staff",
+        "text": "صباح الخير واش من طبيب",
+        "translation": "Good morning, which doctor?"
+      },
+      {
+        "character": "patient",
+        "text": "تع العيون حمبوك",
+        "translation": "Eye doctor, thank you"
+      },
+      {
+        "character": "staff",
+        "text": "صاحا غادي يكون هنا بلتنين على العشرة",
+        "translation": "OK, it will be here on Monday at ten"
+      },
+      {
+        "character": "doctor",
+        "text": "مرحبا شا عندك",
+        "translation": "Hello, what do you have?"
+      },
+      {
+        "character": "patient",
+        "text": "سطر في راسي راه في ثلث ايام",
+        "translation": "Pain in my head for three days"
+      },
+      {
+        "character": "doctor",
+        "text": "زيد شا عندك معاه",
+        "translation": "What else do you have with it?"
+      },
+      {
+        "character": "patient",
+        "text": "عيان بزاف ومنقدش نركز",
+        "translation": "Very sick and can't concentrate"
+      },
+      {
+        "character": "doctor",
+        "text": "صاحا اطلع لسرير دك نشوفك",
+        "translation": "OK, get on the bed so I can see you"
+      }
+    ],
+    "tags": ["hospital", "doctor", "appointment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hospital_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في المستشفى - الشرق الجزائري",
+    "description": "محادثة في المستشفى باللهجة الشرقية الجزائرية",
+    "scenario": "حجز موعد طبي واستشارة مع الطبيب",
+    "dialogue": [
+      {
+        "character": "patient",
+        "text": "صباح الخير يعيشك محب ندي رونديفو عند الحكيم",
+        "translation": "Good morning, thank you, I want to take an appointment with the doctor"
+      },
+      {
+        "character": "staff",
+        "text": "صباح الخير شكونو الحكيم",
+        "translation": "Good morning, which doctor?"
+      },
+      {
+        "character": "patient",
+        "text": "متاع العينين",
+        "translation": "The eye doctor"
+      },
+      {
+        "character": "staff",
+        "text": "باهي يكون لهنا لتنين على العشرة",
+        "translation": "Good, it will be here on Monday at ten"
+      },
+      {
+        "character": "doctor",
+        "text": "مرحبا شعندك يوجع فيك",
+        "translation": "Hello, what hurts you?"
+      },
+      {
+        "character": "patient",
+        "text": "راسي يوجع ياسر",
+        "translation": "My head hurts a lot"
+      },
+      {
+        "character": "doctor",
+        "text": "واش عندك معاه",
+        "translation": "What do you have with it?"
+      },
+      {
+        "character": "patient",
+        "text": "تعبان عاللخر ومش نجم نركز",
+        "translation": "Very tired and can't concentrate"
+      },
+      {
+        "character": "doctor",
+        "text": "باهي اطلع لسرير تو نشوفك",
+        "translation": "Good, get on the bed, I'll examine you"
+      }
+    ],
+    "tags": ["hospital", "doctor", "appointment"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hospital_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في المستشفى - الجنوب الجزائري",
+    "description": "محادثة في المستشفى باللهجة الجنوبية الجزائرية",
+    "scenario": "حجز موعد طبي واستشارة مع الطبيب",
+    "dialogue": [
+      {
+        "character": "patient",
+        "text": "صباح الخير الربي شوفلي رونديفو عند الطبيب",
+        "translation": "Good morning, please find me an appointment with the doctor"
+      },
+      {
+        "character": "staff",
+        "text": "واش من طبيب؟",
+        "translation": "Which doctor?"
+      },
+      {
+        "character": "patient",
+        "text": "تع العينين",
+        "translation": "The eye doctor"
+      },
+      {
+        "character": "staff",
+        "text": "صاحا يا سيدي لتنين اروح عالعشرة",
+        "translation": "OK sir, Monday go at ten"
+      },
+      {
+        "character": "doctor",
+        "text": "مرحبا واش يوجع فيك",
+        "translation": "Hello, what hurts you?"
+      },
+      {
+        "character": "patient",
+        "text": "راسي كتلني",
+        "translation": "My head is killing me"
+      },
+      {
+        "character": "doctor",
+        "text": "وزيد واش معاه",
+        "translation": "And what else with it?"
+      },
+      {
+        "character": "patient",
+        "text": "وتعبان ومانيش نطيق نركز",
+        "translation": "And tired and can't concentrate"
+      },
+      {
+        "character": "doctor",
+        "text": "صاحا اطلع نشوفوك",
+        "translation": "OK, get up so we can see you"
+      }
+    ],
+    "tags": ["hospital", "doctor", "appointment"],
+    "backgroundImage": null
+  }
+]

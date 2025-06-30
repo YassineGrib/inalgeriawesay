@@ -1,0 +1,269 @@
+[
+  {
+    "id": "acquaintance_reunion_standard_arabic",
+    "level": "beginner",
+    "language": "standard_arabic",
+    "title": "لقاء بين معارف - العربية الفصحى",
+    "description": "محادثة بين شخصين يعرفان بعضهما البعض باللغة العربية الفصحى",
+    "scenario": "لقاء بين شخصين يعرفان بعضهما البعض",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "مرحبا. كيف حالك؟",
+        "translation": "Hello. How are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "أهلا بك. أنا بخير وأنت؟",
+        "translation": "Welcome. I'm fine and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "الحمد لله بخير. كيف كانت أيامك الأخيرة؟",
+        "translation": "Praise be to God, I'm fine. How were your recent days?"
+      },
+      {
+        "character": "person_b",
+        "text": "كنت مشغول قليلا لكن الأمور تيسرت بشكل جيد",
+        "translation": "I was a bit busy but things went well"
+      },
+      {
+        "character": "person_a",
+        "text": "جميل. هل حدث شيء جديد مؤخرا؟",
+        "translation": "Great. Did anything new happen recently?"
+      },
+      {
+        "character": "person_b",
+        "text": "نعم. بدأت العمل على مشروع جديد",
+        "translation": "Yes. I started working on a new project"
+      },
+      {
+        "character": "person_a",
+        "text": "رائع. أتمنى لك التوفيق",
+        "translation": "Wonderful. I wish you success"
+      }
+    ],
+    "tags": ["acquaintance", "reunion", "friends"],
+    "backgroundImage": null
+  },
+  {
+    "id": "acquaintance_reunion_amazigh",
+    "level": "beginner",
+    "language": "amazigh",
+    "title": "لقاء بين معارف - الأمازيغية",
+    "description": "محادثة بين شخصين يعرفان بعضهما البعض باللغة الأمازيغية",
+    "scenario": "لقاء بين شخصين يعرفان بعضهما البعض",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "Azul amek i tellid",
+        "translation": "Hello, how are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "Ansuf yis wen nekk slxir",
+        "translation": "Welcome to you, I'm fine"
+      },
+      {
+        "character": "person_a",
+        "text": "Tanemmirt n Rebbi tellid mlih Amek llam wussan- ik imeggura",
+        "translation": "Thank God you're well. How were your recent days?"
+      },
+      {
+        "character": "person_b",
+        "text": "lliɣ cwiṭ n lxedms maca lecɣal Heddun akken iwats",
+        "translation": "I was a bit busy but work went as it should"
+      },
+      {
+        "character": "person_a",
+        "text": "lhi yella kra numayhut i d-yeḍran seg melmi ksn",
+        "translation": "Good, was there anything new that happened recently?"
+      },
+      {
+        "character": "person_b",
+        "text": "Ih bdiɣ leqdic ɣef usenfar amaynut",
+        "translation": "Yes, I started working on a new project"
+      },
+      {
+        "character": "person_a",
+        "text": "Igerrez ssorameɣ _ ak rrbeh.",
+        "translation": "Excellent, I wish you success"
+      }
+    ],
+    "tags": ["acquaintance", "reunion", "friends"],
+    "backgroundImage": null
+  },
+  {
+    "id": "acquaintance_reunion_northern_dialect",
+    "level": "beginner",
+    "language": "northern_dialect",
+    "title": "لقاء بين معارف - الشمال الجزائري",
+    "description": "محادثة بين شخصين يعرفان بعضهما البعض باللهجة الشمالية الجزائرية",
+    "scenario": "لقاء بين شخصين يعرفان بعضهما البعض في الشمال الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "واش ياخو صافا؟",
+        "translation": "How are you brother, are you well?"
+      },
+      {
+        "character": "person_b",
+        "text": "وي العزيز والله غير لاباس وأنت؟",
+        "translation": "Oh dear one, by God I'm just fine and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "الحمد لله. كيفاش جازت اليامات لخره ديالك؟",
+        "translation": "Praise be to God. How did your recent days pass?"
+      },
+      {
+        "character": "person_b",
+        "text": "كنت مشغول مي دك كلش راه يجوز كيما حب ربي.",
+        "translation": "I was busy but everything passes as God wills"
+      },
+      {
+        "character": "person_a",
+        "text": "ايه الحمد لله. كشما صرا غير ما؟",
+        "translation": "Yes praise be to God. What happened recently?"
+      },
+      {
+        "character": "person_b",
+        "text": "ايه بديت بروجي جديد في الخدمة",
+        "translation": "Yes I started a new project at work"
+      },
+      {
+        "character": "person_a",
+        "text": "حاجة مليحة. ربي يسجيك.",
+        "translation": "Good thing. May God help you succeed"
+      }
+    ],
+    "tags": ["acquaintance", "reunion", "friends"],
+    "backgroundImage": null
+  },
+  {
+    "id": "acquaintance_reunion_western_dialect",
+    "level": "beginner",
+    "language": "western_dialect",
+    "title": "لقاء بين معارف - الغرب الجزائري",
+    "description": "محادثة بين شخصين يعرفان بعضهما البعض باللهجة الغربية الجزائرية",
+    "scenario": "لقاء بين شخصين يعرفان بعضهما البعض في الغرب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "هاوشتا كيدايرا؟",
+        "translation": "How are you, how are you doing?"
+      },
+      {
+        "character": "person_b",
+        "text": "هاواش. غايه وأنت؟",
+        "translation": "How are you. I'm fine and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "الحمد لله.كي فوت اليامات التوالا؟",
+        "translation": "Praise be to God. How did the recent days pass?"
+      },
+      {
+        "character": "person_b",
+        "text": "كانت عليا الخدمة بزاف بصح فوتناها وفاتت.",
+        "translation": "Work was heavy on me but we passed it and it's gone"
+      },
+      {
+        "character": "person_a",
+        "text": "ها الهدرة. كاش جديد؟",
+        "translation": "That's the talk. Anything new?"
+      },
+      {
+        "character": "person_b",
+        "text": "واه. بديت بروجي جديد في الخدمة.",
+        "translation": "Yes. I started a new project at work"
+      },
+      {
+        "character": "person_a",
+        "text": "أيا غاية. ربي معاك.",
+        "translation": "Yes, good. God be with you"
+      }
+    ],
+    "tags": ["acquaintance", "reunion", "friends"],
+    "backgroundImage": null
+  },
+  {
+    "id": "acquaintance_reunion_eastern_dialect",
+    "level": "beginner",
+    "language": "eastern_dialect",
+    "title": "لقاء بين معارف - الشرق الجزائري",
+    "description": "محادثة بين شخصين يعرفان بعضهما البعض باللهجة الشرقية الجزائرية",
+    "scenario": "لقاء بين شخصين يعرفان بعضهما البعض في الشرق الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "وش واش حوالك؟",
+        "translation": "What, how are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "عالسلامة. لاباس وأنت؟",
+        "translation": "Peace be upon you. I'm fine and you?"
+      },
+      {
+        "character": "person_a",
+        "text": "الحمد لله. كنت لاتي في الخدمة. أما أي ماشية ڨد ڨد",
+        "translation": "Praise be to God. I was late at work. But now things are going well"
+      },
+      {
+        "character": "person_b",
+        "text": "ملاحة. وش كش جديد لبريود لخره أدي؟",
+        "translation": "Good. What's new in the recent period?"
+      },
+      {
+        "character": "person_a",
+        "text": "هاه. أني قاعد نخدم عابروجي جديد.",
+        "translation": "Yes. I'm working on a new project"
+      },
+      {
+        "character": "person_b",
+        "text": "باهي. ربي معاك",
+        "translation": "Good. God be with you"
+      }
+    ],
+    "tags": ["acquaintance", "reunion", "friends"],
+    "backgroundImage": null
+  },
+  {
+    "id": "acquaintance_reunion_southern_dialect",
+    "level": "beginner",
+    "language": "southern_dialect",
+    "title": "لقاء بين معارف - الجنوب الجزائري",
+    "description": "محادثة بين شخصين يعرفان بعضهما البعض باللهجة الجنوبية الجزائرية",
+    "scenario": "لقاء بين شخصين يعرفان بعضهما البعض في الجنوب الجزائري",
+    "dialogue": [
+      {
+        "character": "person_a",
+        "text": "أهلا واش راك؟",
+        "translation": "Hello, how are you?"
+      },
+      {
+        "character": "person_b",
+        "text": "أهلين. لاباس الحمد لله سوال عليك.",
+        "translation": "Hello. I'm fine praise be to God, asking about you"
+      },
+      {
+        "character": "person_a",
+        "text": "الحمد لله ياربي. وش تعود عليا مبنتش هد اليامات",
+        "translation": "Praise be to God. What happened to me, I haven't seen you these days"
+      },
+      {
+        "character": "person_b",
+        "text": "كنت لاهي مع الخدمة بديت بروجي جديد.",
+        "translation": "I was busy with work, I started a new project"
+      },
+      {
+        "character": "person_a",
+        "text": "أيا زينة. ربي يوفقك.",
+        "translation": "Yes, good. May God grant you success"
+      }
+    ],
+    "tags": ["acquaintance", "reunion", "friends"],
+    "backgroundImage": null
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "park_standard_arabic",
+    "level": "expert",
+    "language": "standard_arabic",
+    "title": "في الحديقة - العربية الفصحى",
+    "description": "محادثة عادية في الحديقة مع المواطنين المحليين",
+    "scenario": "محادثة ودية مع مواطن محلي في الحديقة العامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "مرحباً الجو جميل اليوم",
+        "translation": "Hello, the weather is beautiful today"
+      },
+      {
+        "character": "local",
+        "text": "مرحباً نعم الشمس مشرقة والجو لطيف",
+        "translation": "Hello, yes the sun is shining and the weather is pleasant"
+      },
+      {
+        "character": "tourist",
+        "text": "هل تأتي إلى الحديقة كل يوم؟",
+        "translation": "Do you come to the park every day?"
+      },
+      {
+        "character": "local",
+        "text": "نعم، أحب المشي هنا في الصباح وأنت؟",
+        "translation": "Yes, I love walking here in the morning, and you?"
+      },
+      {
+        "character": "tourist",
+        "text": "أنا جديد في المدينة هذه أول مرة أزور الحديقة",
+        "translation": "I'm new in the city, this is the first time I visit the park"
+      },
+      {
+        "character": "local",
+        "text": "أهلاً وسهلاً، إقامة طيبة، نلتقي مرة أخرى",
+        "translation": "Welcome, have a pleasant stay, we'll meet again"
+      }
+    ],
+    "tags": ["park", "casual", "social"],
+    "backgroundImage": null
+  },
+  {
+    "id": "park_amazigh",
+    "level": "expert",
+    "language": "amazigh",
+    "title": "في الحديقة - الأمازيغية",
+    "description": "محادثة عادية في الحديقة باللغة الأمازيغية",
+    "scenario": "محادثة ودية مع مواطن محلي في الحديقة العامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "Azul fellawen telha tegnawt ass-a",
+        "translation": "Hello, the weather is beautiful today"
+      },
+      {
+        "character": "local",
+        "text": "Azul fell-awen ih iṭij yettfeğğiğ yerna telha tegnawt",
+        "translation": "Hello, yes the sun is shining and the weather is beautiful"
+      },
+      {
+        "character": "tourist",
+        "text": "Ttaseḍ-d ɣer lpark yal ass?",
+        "translation": "Do you come to the park every day?"
+      },
+      {
+        "character": "local",
+        "text": "Ih ḥemmleɣ ad dduɣ dagi sbeḥ madkečč?",
+        "translation": "Yes, I love to walk here in the morning, and you?"
+      },
+      {
+        "character": "tourist",
+        "text": "Nekk d amaynut deg temdint-a d tikkelt tamezwarut aydeg ara ẓreɣ lpark-nni",
+        "translation": "I'm new in this city, this is the first time I see this park"
+      },
+      {
+        "character": "local",
+        "text": "Ansuf tɣimit yelhan ad k-waliɣ tikkelt nniden",
+        "translation": "Welcome, have a good stay, I'll see you another time"
+      }
+    ],
+    "tags": ["park", "casual", "social"],
+    "backgroundImage": null
+  },
+  {
+    "id": "park_northern_dialect",
+    "level": "expert",
+    "language": "northern_dialect",
+    "title": "في الحديقة - الشمال الجزائري",
+    "description": "محادثة عادية في الحديقة باللهجة الشمالية الجزائرية",
+    "scenario": "محادثة ودية مع مواطن محلي في الحديقة العامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام الجو شباب ليوما",
+        "translation": "Hello, the weather is nice today"
+      },
+      {
+        "character": "local",
+        "text": "سلام ايه الشميسة والجو دافي",
+        "translation": "Hello, yes the sun and the weather is warm"
+      },
+      {
+        "character": "tourist",
+        "text": "تجي كل يوم للجاردان؟",
+        "translation": "Do you come to the garden every day?"
+      },
+      {
+        "character": "local",
+        "text": "ايه نحب نمشي فيها في الصبيحة ونت",
+        "translation": "Yes, I like to walk in it in the morning, and you?"
+      },
+      {
+        "character": "tourist",
+        "text": "أنا جديد هنايا هادي لابروميار فوا نجيها",
+        "translation": "I'm new here, this is the first time I come to it"
+      },
+      {
+        "character": "local",
+        "text": "مرحبا بيك عندنا نتلاقو إن شاء الله",
+        "translation": "Welcome with us, we'll meet God willing"
+      }
+    ],
+    "tags": ["park", "casual", "social"],
+    "backgroundImage": null
+  },
+  {
+    "id": "park_western_dialect",
+    "level": "expert",
+    "language": "western_dialect",
+    "title": "في الحديقة - الغرب الجزائري",
+    "description": "محادثة عادية في الحديقة باللهجة الغربية الجزائرية",
+    "scenario": "محادثة ودية مع مواطن محلي في الحديقة العامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام الكليما راهي شابة اليوم",
+        "translation": "Hello, the weather is nice today"
+      },
+      {
+        "character": "local",
+        "text": "واه الشمس والدفا علامة",
+        "translation": "Yes, the sun and warmth are great"
+      },
+      {
+        "character": "tourist",
+        "text": "تجي كل يوم للجاردان؟",
+        "translation": "Do you come to the garden every day?"
+      },
+      {
+        "character": "local",
+        "text": "واه نبغي نتمشى فيها الصباح ونت",
+        "translation": "Yes, I like to walk in it in the morning, and you?"
+      },
+      {
+        "character": "tourist",
+        "text": "لا أنا جديد هاي خطرتي لولة نجي",
+        "translation": "No, I'm new, this is the first time I come"
+      },
+      {
+        "character": "local",
+        "text": "أيا مرحبا بيك عنا نتلاقو إن شاء الله",
+        "translation": "Yes, welcome with us, we'll meet God willing"
+      }
+    ],
+    "tags": ["park", "casual", "social"],
+    "backgroundImage": null
+  },
+  {
+    "id": "park_eastern_dialect",
+    "level": "expert",
+    "language": "eastern_dialect",
+    "title": "في الحديقة - الشرق الجزائري",
+    "description": "محادثة عادية في الحديقة باللهجة الشرقية الجزائرية",
+    "scenario": "محادثة ودية مع مواطن محلي في الحديقة العامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "عالسلامة الجو باهي اليوم",
+        "translation": "Hello, the weather is good today"
+      },
+      {
+        "character": "local",
+        "text": "آي الشمس والسخانة تهبل خلاص",
+        "translation": "Yes, the sun and warmth are amazing"
+      },
+      {
+        "character": "tourist",
+        "text": "تجي كل يوم هنا؟",
+        "translation": "Do you come here every day?"
+      },
+      {
+        "character": "local",
+        "text": "آي نحب نمشي فاها الصباح وانت",
+        "translation": "Yes, I like to walk in it in the morning, and you?"
+      },
+      {
+        "character": "tourist",
+        "text": "لا هادي المرة لولة جديد هنا مشي منا",
+        "translation": "No, this is the first time, I'm new here, not from here"
+      },
+      {
+        "character": "local",
+        "text": "مرحبا بيك رانا بش نتلاقو ان شاء الله",
+        "translation": "Welcome, we'll meet God willing"
+      }
+    ],
+    "tags": ["park", "casual", "social"],
+    "backgroundImage": null
+  },
+  {
+    "id": "park_southern_dialect",
+    "level": "expert",
+    "language": "southern_dialect",
+    "title": "في الحديقة - الجنوب الجزائري",
+    "description": "محادثة عادية في الحديقة باللهجة الجنوبية الجزائرية",
+    "scenario": "محادثة ودية مع مواطن محلي في الحديقة العامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "السلام الحالة زينة ليوم والشمس",
+        "translation": "Hello, the situation is good today and the sun"
+      },
+      {
+        "character": "local",
+        "text": "ايه الحال زين والدفاء",
+        "translation": "Yes, the situation is good and the warmth"
+      },
+      {
+        "character": "tourist",
+        "text": "موالف تجي للحديقة؟",
+        "translation": "Are you used to coming to the park?"
+      },
+      {
+        "character": "local",
+        "text": "اييه نجي نبقي نمشي فيها الصباح",
+        "translation": "Yes, I come and stay walking in it in the morning"
+      },
+      {
+        "character": "tourist",
+        "text": "والوا هدا وين جيت لاها كيني جديد هنا",
+        "translation": "No, this is when I came to it, I'm new here"
+      },
+      {
+        "character": "local",
+        "text": "مرحبا بيك في البلاد نتلاقو ان شاء الله",
+        "translation": "Welcome to the country, we'll meet God willing"
+      }
+    ],
+    "tags": ["park", "casual", "social"],
+    "backgroundImage": null
+  }
+]

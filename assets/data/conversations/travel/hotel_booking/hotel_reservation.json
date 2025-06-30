@@ -1,0 +1,454 @@
+[
+  {
+    "id": "hotel_booking_standard_arabic",
+    "level": "intermediate",
+    "language": "standard_arabic",
+    "title": "الحجز في فندق - العربية الفصحى",
+    "description": "محادثة حجز غرفة في فندق باللغة العربية الفصحى",
+    "scenario": "حجز غرفة في فندق والاستفسار عن الخدمات",
+    "dialogue": [
+      {
+        "character": "staff",
+        "text": "مرحبا بك في فندقنا كيف يمكنني مساعدتك؟",
+        "translation": "Welcome to our hotel, how can I help you?"
+      },
+      {
+        "character": "guest",
+        "text": "مرحبا أود حجز غرفة من فضلك",
+        "translation": "Hello, I would like to book a room please"
+      },
+      {
+        "character": "staff",
+        "text": "بالتأكيد كم ليلة ستقيم؟",
+        "translation": "Certainly, how many nights will you stay?"
+      },
+      {
+        "character": "guest",
+        "text": "سأبقى لمدة ثلاث ليال",
+        "translation": "I will stay for three nights"
+      },
+      {
+        "character": "staff",
+        "text": "حسنا هل تفضل غرفة مفردة أو مزدوجة؟",
+        "translation": "Good, do you prefer a single or double room?"
+      },
+      {
+        "character": "guest",
+        "text": "غرفة مفردة من فضلك هل يشمل الحجز الإفطار؟",
+        "translation": "Single room please, does the booking include breakfast?"
+      },
+      {
+        "character": "staff",
+        "text": "نعم الإفطار مشمول في سعر الغرفة",
+        "translation": "Yes, breakfast is included in the room price"
+      },
+      {
+        "character": "guest",
+        "text": "رائع كم سعر الليلة الواحدة",
+        "translation": "Great, how much is the price per night?"
+      },
+      {
+        "character": "staff",
+        "text": "10000 دينار لليلة الواحدة",
+        "translation": "10,000 dinars per night"
+      },
+      {
+        "character": "guest",
+        "text": "هل يمكنني الدفع ببطاقة الائتمان",
+        "translation": "Can I pay with a credit card?"
+      },
+      {
+        "character": "staff",
+        "text": "بالطبع يرجى تقديم هويتك وبطاقتك",
+        "translation": "Of course, please provide your ID and card"
+      },
+      {
+        "character": "guest",
+        "text": "تفضل",
+        "translation": "Here you go"
+      },
+      {
+        "character": "staff",
+        "text": "شكرا لك هاهي بطاقة غرفتك في الطابق الثالث المصعد على يمينك إقامة سعيدة",
+        "translation": "Thank you, here is your room card on the third floor, elevator on your right, have a pleasant stay"
+      }
+    ],
+    "tags": ["hotel", "booking", "accommodation"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hotel_booking_amazigh",
+    "level": "intermediate",
+    "language": "amazigh",
+    "title": "الحجز في فندق - الأمازيغية",
+    "description": "محادثة حجز غرفة في فندق باللغة الأمازيغية",
+    "scenario": "حجز غرفة في فندق والاستفسار عن الخدمات",
+    "dialogue": [
+      {
+        "character": "staff",
+        "text": "Ansuf yis-k deg usensu-nneɣ Amek zemreɣ ad k-ɛiwneɣ?",
+        "translation": "Welcome to our hotel, how can I help you?"
+      },
+      {
+        "character": "guest",
+        "text": "Azul bɣiɣ ad herzeɣ yiwet n texxamt ɛafak",
+        "translation": "Hello, I would like to book a room please"
+      },
+      {
+        "character": "staff",
+        "text": "S tidet acḥal n yiḍ ara teqqimeḍ?",
+        "translation": "Certainly, how many nights will you stay?"
+      },
+      {
+        "character": "guest",
+        "text": "Ad qqimeɣ tlata wuḍan",
+        "translation": "I will stay for three nights"
+      },
+      {
+        "character": "staff",
+        "text": "Ihi, tḥemmleḍ taxxamt n yiwen neɣ n sin?",
+        "translation": "Good, do you prefer a single or double room?"
+      },
+      {
+        "character": "guest",
+        "text": "Taxxamt n yiwen n wemdan ɛafak ma yella deg usmel-nni lqahwa n tmeddit?",
+        "translation": "Single room please, does the booking include breakfast?"
+      },
+      {
+        "character": "staff",
+        "text": "Ih imensi n tmeddit yella deg ssuma n texxamt",
+        "translation": "Yes, breakfast is included in the room price"
+      },
+      {
+        "character": "guest",
+        "text": "Meqqer acḥal i-t-id-yettawin deg yiḍ?",
+        "translation": "Great, how much is the price per night?"
+      },
+      {
+        "character": "staff",
+        "text": "10000 n yidinaren i yiḍ",
+        "translation": "10,000 dinars per night"
+      },
+      {
+        "character": "guest",
+        "text": "Zemreɣ ad xellṣeɣ s tkarḍa n ukredi?",
+        "translation": "Can I pay with a credit card?"
+      },
+      {
+        "character": "staff",
+        "text": "Dayen ibanen, ttxil-k efk-d tamagit-ik d tkarḍa-k",
+        "translation": "Of course, please provide your ID and card"
+      },
+      {
+        "character": "guest",
+        "text": "ɛawen iman-nwen",
+        "translation": "Here you go"
+      },
+      {
+        "character": "staff",
+        "text": "Tanemmirt-ik atam tkarḍa-k taxxamt-ik deg lzaɛa tis tlata asansuṛ-nni yella ɣef yidis-ik ayeffus taɣimit tameggazt",
+        "translation": "Thank you, here is your room card on the third floor, elevator on your right, have a pleasant stay"
+      }
+    ],
+    "tags": ["hotel", "booking", "accommodation"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hotel_booking_northern_dialect",
+    "level": "intermediate",
+    "language": "northern_dialect",
+    "title": "الحجز في فندق - الشمال الجزائري",
+    "description": "محادثة حجز غرفة في فندق باللهجة الشمالية الجزائرية",
+    "scenario": "حجز غرفة في فندق والاستفسار عن الخدمات",
+    "dialogue": [
+      {
+        "character": "staff",
+        "text": "مرحبا بيك في لوتال ديالنا كيفاش نقدر نعاونك؟",
+        "translation": "Welcome to our hotel, how can we help you?"
+      },
+      {
+        "character": "guest",
+        "text": "مرحبا حايب نريزارفي شومبرة تعيش",
+        "translation": "Hello, I want to reserve a room please"
+      },
+      {
+        "character": "staff",
+        "text": "وي بيانسور شحال رح تبقى",
+        "translation": "Yes of course, how long will you stay?"
+      },
+      {
+        "character": "guest",
+        "text": "رح نبقى تلت ليالي",
+        "translation": "I will stay three nights"
+      },
+      {
+        "character": "staff",
+        "text": "داكوغ تحب شومبرة وحدك ولا كاين لي معاك",
+        "translation": "Good, do you want a room alone or is there someone with you?"
+      },
+      {
+        "character": "guest",
+        "text": "لا لا وحدي معاها فطور تع صباح؟",
+        "translation": "No, alone, does it include breakfast?"
+      },
+      {
+        "character": "staff",
+        "text": "وي داخل مع لاسوم تع الليلة",
+        "translation": "Yes, included with the price of the night"
+      },
+      {
+        "character": "guest",
+        "text": "اوك وبشحال لليلة",
+        "translation": "OK, and how much per night?"
+      },
+      {
+        "character": "staff",
+        "text": "10000 دينار",
+        "translation": "10,000 dinars"
+      },
+      {
+        "character": "guest",
+        "text": "نقدر نخلص بلاكارت",
+        "translation": "Can I pay with a card?"
+      },
+      {
+        "character": "staff",
+        "text": "وي تقدر اعطيلي برك لاكارت ديالك ولاكارت ديدونتيتي",
+        "translation": "Yes you can, just give me your card and ID card"
+      },
+      {
+        "character": "guest",
+        "text": "تفضل",
+        "translation": "Here you go"
+      },
+      {
+        "character": "staff",
+        "text": "ماغسي ها هيا لي كارت اشومبغ في لطاج تالت اسونسوغ على لادروات ليلة سعيدة",
+        "translation": "Thank you, here is the card, room on third floor, elevator on the right, good night"
+      }
+    ],
+    "tags": ["hotel", "booking", "accommodation"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hotel_booking_western_dialect",
+    "level": "intermediate",
+    "language": "western_dialect",
+    "title": "الحجز في فندق - الغرب الجزائري",
+    "description": "محادثة حجز غرفة في فندق باللهجة الغربية الجزائرية",
+    "scenario": "حجز غرفة في فندق والاستفسار عن الخدمات",
+    "dialogue": [
+      {
+        "character": "staff",
+        "text": "مرحبا بيك في اوتالنا يش نقد نعاونك؟",
+        "translation": "Welcome to our hotel, what can we help you with?"
+      },
+      {
+        "character": "guest",
+        "text": "با نريزارفي شومبرة حمبوك",
+        "translation": "I want to reserve a room, thank you"
+      },
+      {
+        "character": "staff",
+        "text": "واه وحدك ولا معاك",
+        "translation": "Yes, alone or with someone?"
+      },
+      {
+        "character": "guest",
+        "text": "لا غي وحدي اسك فيها فطور صباح؟",
+        "translation": "No, just alone, does it include breakfast?"
+      },
+      {
+        "character": "staff",
+        "text": "واه داخل مع لاسوم تع الشومبرة",
+        "translation": "Yes, included with the room price"
+      },
+      {
+        "character": "guest",
+        "text": "كي غاية شحال لليلة",
+        "translation": "How good, how much per night?"
+      },
+      {
+        "character": "staff",
+        "text": "10000 دينار",
+        "translation": "10,000 dinars"
+      },
+      {
+        "character": "guest",
+        "text": "اسك نقد نخلص بلاكارت",
+        "translation": "Can I pay with a card?"
+      },
+      {
+        "character": "staff",
+        "text": "واه تقد عطيلي لاكارت ولاكارت ديدونتيتي",
+        "translation": "Yes you can, give me the card and ID card"
+      },
+      {
+        "character": "guest",
+        "text": "تفضل",
+        "translation": "Here you go"
+      },
+      {
+        "character": "staff",
+        "text": "صحيت هيالا لي كارت تاعك شومبرتك في لطاج الثالث ولاسونسوغ علا لادروات ومرحبا بيك عندنا",
+        "translation": "Thank you, here is your card, your room on third floor, elevator on the right, welcome to us"
+      }
+    ],
+    "tags": ["hotel", "booking", "accommodation"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hotel_booking_eastern_dialect",
+    "level": "intermediate",
+    "language": "eastern_dialect",
+    "title": "الحجز في فندق - الشرق الجزائري",
+    "description": "محادثة حجز غرفة في فندق باللهجة الشرقية الجزائرية",
+    "scenario": "حجز غرفة في فندق والاستفسار عن الخدمات",
+    "dialogue": [
+      {
+        "character": "staff",
+        "text": "عسلامة مرحبا بيك في اوتالنا",
+        "translation": "Hello, welcome to our hotel"
+      },
+      {
+        "character": "guest",
+        "text": "مرحبا حاب نريزارفي شومبرة يعيشك",
+        "translation": "Hello, I want to reserve a room, thank you"
+      },
+      {
+        "character": "staff",
+        "text": "باهي ڨداه راح تڨعد",
+        "translation": "Good, how long will you stay?"
+      },
+      {
+        "character": "guest",
+        "text": "طروا جور برك",
+        "translation": "Just three days"
+      },
+      {
+        "character": "staff",
+        "text": "تحب شومبرة وحدك ولا فمّ معاك",
+        "translation": "Do you want a room alone or is there someone with you?"
+      },
+      {
+        "character": "guest",
+        "text": "لا لا وحدي ياخي فاها فطور الصباح",
+        "translation": "No, alone, does it have breakfast?"
+      },
+      {
+        "character": "staff",
+        "text": "أي فاها مع لاسوم تع الليلة",
+        "translation": "Yes, it's included with the night price"
+      },
+      {
+        "character": "guest",
+        "text": "باهي بڨداه لليلة",
+        "translation": "Good, how much per night?"
+      },
+      {
+        "character": "staff",
+        "text": "10000 دينار",
+        "translation": "10,000 dinars"
+      },
+      {
+        "character": "guest",
+        "text": "نجم نخلص بلاكارت؟",
+        "translation": "Can I pay with a card?"
+      },
+      {
+        "character": "staff",
+        "text": "أي تنجم اطيلي برك لاكارت و الهوية تاعك",
+        "translation": "Yes you can, just give me the card and your ID"
+      },
+      {
+        "character": "guest",
+        "text": "باهي تفضل",
+        "translation": "Good, here you go"
+      },
+      {
+        "character": "staff",
+        "text": "يعطيك الصحة هايا ليكارت تيوعك شمبرتك في ليطاج الثالث لاسونسوغ عاليمنة ومرحبا بيك",
+        "translation": "May you have health, here is your card, your room on third floor, elevator on the right, welcome"
+      }
+    ],
+    "tags": ["hotel", "booking", "accommodation"],
+    "backgroundImage": null
+  },
+  {
+    "id": "hotel_booking_southern_dialect",
+    "level": "intermediate",
+    "language": "southern_dialect",
+    "title": "الحجز في فندق - الجنوب الجزائري",
+    "description": "محادثة حجز غرفة في فندق باللهجة الجنوبية الجزائرية",
+    "scenario": "حجز غرفة في فندق والاستفسار عن الخدمات",
+    "dialogue": [
+      {
+        "character": "staff",
+        "text": "مرحبا بيك في فندقنا",
+        "translation": "Welcome to our hotel"
+      },
+      {
+        "character": "guest",
+        "text": "مرحبا نغيت نحجز شومبرة",
+        "translation": "Hello, I want to book a room"
+      },
+      {
+        "character": "staff",
+        "text": "ايه شحال تقعد",
+        "translation": "Yes, how long will you stay?"
+      },
+      {
+        "character": "guest",
+        "text": "تلت ليالي",
+        "translation": "Three nights"
+      },
+      {
+        "character": "staff",
+        "text": "صح وحدك ولا معاك",
+        "translation": "Right, alone or with someone?"
+      },
+      {
+        "character": "guest",
+        "text": "والوا وحدي فيها فطور الصباح؟",
+        "translation": "Nothing, alone, does it have breakfast?"
+      },
+      {
+        "character": "staff",
+        "text": "ايه داخل مع سومة الشومبرة",
+        "translation": "Yes, included with the room price"
+      },
+      {
+        "character": "guest",
+        "text": "مليحة شحال لليلة",
+        "translation": "Good, how much per night?"
+      },
+      {
+        "character": "staff",
+        "text": "10000 دينار",
+        "translation": "10,000 dinars"
+      },
+      {
+        "character": "guest",
+        "text": "نطيق نخلص بلاكارت وا",
+        "translation": "Can I pay with a card?"
+      },
+      {
+        "character": "staff",
+        "text": "ايه اعطيلي برك لاكارت والهوية تاعك",
+        "translation": "Yes, just give me the card and your ID"
+      },
+      {
+        "character": "guest",
+        "text": "هاك",
+        "translation": "Here you go"
+      },
+      {
+        "character": "staff",
+        "text": "صحيت هاك لي كارت شمبرتك في ليطاج 3 والمصعد على ليمنة ومرحبا بيك",
+        "translation": "Thank you, here is the card, your room on floor 3, elevator on the right, welcome"
+      }
+    ],
+    "tags": ["hotel", "booking", "accommodation"],
+    "backgroundImage": null
+  }
+]

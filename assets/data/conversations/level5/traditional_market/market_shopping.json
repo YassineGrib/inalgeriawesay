@@ -1,0 +1,224 @@
+[
+  {
+    "id": "market_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "في الحي التقليدي - العربية الفصحى",
+    "description": "محادثة في السوق التقليدي للتسوق والمساومة",
+    "scenario": "شراء سجادة تقليدية والمساومة على السعر",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "مرحباً هذا السجاد جميل أعجبني تصميمه كم سعره",
+        "translation": "Hello, this carpet is beautiful, I like its design, what's its price?"
+      },
+      {
+        "character": "seller",
+        "text": "شكراً لك هذا مصنوع يدوياً ويكلف 10000 دينار",
+        "translation": "Thank you, this is handmade and costs 10,000 dinars"
+      },
+      {
+        "character": "tourist",
+        "text": "أعجبني هلا خفضت السعر؟",
+        "translation": "I like it, can you lower the price?"
+      },
+      {
+        "character": "seller",
+        "text": "بالطبع كم يمكنك أن تدفع؟",
+        "translation": "Of course, how much can you pay?"
+      },
+      {
+        "character": "tourist",
+        "text": "شكراً لك سآخذه بسعره حتى أنه قليل عليه",
+        "translation": "Thank you, I'll take it at its price, it's even little for it"
+      }
+    ],
+    "tags": ["market", "shopping", "bargaining"],
+    "backgroundImage": null
+  },
+  {
+    "id": "market_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "في الحي التقليدي - الأمازيغية",
+    "description": "محادثة في السوق التقليدي باللغة الأمازيغية",
+    "scenario": "شراء سجادة تقليدية والمساومة على السعر",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "Azul tfelwit-a tecbeḥ hemmleɣ aṭas asnulfu-ines acḥal ssuma-s?",
+        "translation": "Hello, this carpet is beautiful, I really like its design, what's its price?"
+      },
+      {
+        "character": "seller",
+        "text": "Tanemmirt-nwen aya dayen yettwaxdem s ufus ssuma-s d 10000 n yidinaren",
+        "translation": "Thank you, this is handmade and its price is 10,000 dinars"
+      },
+      {
+        "character": "tourist",
+        "text": "Hemmleɣ-tt tzemreḍ ad tesneqseḍ ssuma-s?",
+        "translation": "I like it, can you reduce its price?"
+      },
+      {
+        "character": "seller",
+        "text": "Dayen ibanen acḥal tzemreḍ ad txelṣeḍ?",
+        "translation": "Of course, how much can you pay?"
+      },
+      {
+        "character": "tourist",
+        "text": "Tanemmirt-nwen ad tt-awiɣ s ssuma-s ɣas ɣlayet cwiṭ",
+        "translation": "Thank you, I'll take it at its price even though it's a bit expensive"
+      }
+    ],
+    "tags": ["market", "shopping", "bargaining"],
+    "backgroundImage": null
+  },
+  {
+    "id": "market_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "في الحي التقليدي - الشمال الجزائري",
+    "description": "محادثة في السوق التقليدي باللهجة الشمالية الجزائرية",
+    "scenario": "شراء سجادة تقليدية والمساومة على السعر",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام هد التابي شباب ديزاين ديالو بشحال",
+        "translation": "Hello, this carpet is beautiful, its design, how much?"
+      },
+      {
+        "character": "seller",
+        "text": "تعيش هدا مخدوم باليد داير 10000 دينار",
+        "translation": "Thank you, this is handmade, it costs 10,000 dinars"
+      },
+      {
+        "character": "tourist",
+        "text": "عجبني تعيش نقصلي",
+        "translation": "I like it, thank you, reduce it for me"
+      },
+      {
+        "character": "seller",
+        "text": "بيانسور ساوم",
+        "translation": "Of course, bargain"
+      },
+      {
+        "character": "tourist",
+        "text": "ربي يعيشك رح نديه بسومتو وقليل عليه ياخي",
+        "translation": "May God bless you, I'll take it at its price, it's little for it anyway"
+      }
+    ],
+    "tags": ["market", "shopping", "bargaining"],
+    "backgroundImage": null
+  },
+  {
+    "id": "market_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "في الحي التقليدي - الغرب الجزائري",
+    "description": "محادثة في السوق التقليدي باللهجة الغربية الجزائرية",
+    "scenario": "شراء سجادة تقليدية والمساومة على السعر",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام هد الطابي شباب بزاف فصالتو قداه",
+        "translation": "Hello, this carpet is very beautiful, its design, how much?"
+      },
+      {
+        "character": "seller",
+        "text": "حفظك مخدوم باليد هدا ويدير 10000 دينار",
+        "translation": "May you be protected, this is handmade and costs 10,000 dinars"
+      },
+      {
+        "character": "tourist",
+        "text": "عجبني حمبوك نقصلي",
+        "translation": "I like it, thank you, reduce it for me"
+      },
+      {
+        "character": "seller",
+        "text": "ها صاحا ساومني",
+        "translation": "Yes, OK, bargain with me"
+      },
+      {
+        "character": "tourist",
+        "text": "لا صحيت عادي نديه بسومة تاعه وقليلة عليه",
+        "translation": "No, thank you, I'll take it at its price, it's little for it"
+      }
+    ],
+    "tags": ["market", "shopping", "bargaining"],
+    "backgroundImage": null
+  },
+  {
+    "id": "market_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "في الحي التقليدي - الشرق الجزائري",
+    "description": "محادثة في السوق التقليدي باللهجة الشرقية الجزائرية",
+    "scenario": "شراء سجادة تقليدية والمساومة على السعر",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "عالسلامة الطابي أدا يهبل خلاه بشحال",
+        "translation": "Hello, this carpet is amazing, please, how much?"
+      },
+      {
+        "character": "seller",
+        "text": "يعيشك مخدوم باليد أدا يدير 10000",
+        "translation": "Thank you, this is handmade, it costs 10,000"
+      },
+      {
+        "character": "tourist",
+        "text": "عجبني خلاه نقصلي تعيش خويا",
+        "translation": "I like it, please reduce it for me, thank you brother"
+      },
+      {
+        "character": "seller",
+        "text": "باهي ساومني",
+        "translation": "Good, bargain with me"
+      },
+      {
+        "character": "tourist",
+        "text": "لا بش نديه بسومتو وقليله فيه راه",
+        "translation": "No, I'll take it at its price, it's little for it"
+      }
+    ],
+    "tags": ["market", "shopping", "bargaining"],
+    "backgroundImage": null
+  },
+  {
+    "id": "market_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "في الحي التقليدي - الجنوب الجزائري",
+    "description": "محادثة في السوق التقليدي باللهجة الجنوبية الجزائرية",
+    "scenario": "شراء سجادة تقليدية والمساومة على السعر",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "سلام طابي هدا زين ياسر بشحال",
+        "translation": "Hello, this carpet is very beautiful, how much?"
+      },
+      {
+        "character": "seller",
+        "text": "ربي يحفظك مخدوم باليد وداير 10000",
+        "translation": "May God protect you, handmade and costs 10,000"
+      },
+      {
+        "character": "tourist",
+        "text": "الربي نقصلي ونديه",
+        "translation": "Please reduce it for me and I'll take it"
+      },
+      {
+        "character": "seller",
+        "text": "كيما تبقي ساومني",
+        "translation": "As you like, bargain with me"
+      },
+      {
+        "character": "tourist",
+        "text": "أودي نديه بسومتو وقليلة عليه",
+        "translation": "I want to take it at its price, it's little for it"
+      }
+    ],
+    "tags": ["market", "shopping", "bargaining"],
+    "backgroundImage": null
+  }
+]

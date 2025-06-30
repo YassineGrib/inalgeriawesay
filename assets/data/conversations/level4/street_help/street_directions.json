@@ -1,0 +1,164 @@
+[
+  {
+    "id": "street_help_standard_arabic",
+    "level": "advanced",
+    "language": "standard_arabic",
+    "title": "طلب المساعدة في الشارع - العربية الفصحى",
+    "description": "محادثة طلب المساعدة والاتجاهات من الغرباء في الشارع",
+    "scenario": "طلب المساعدة في العثور على حديقة الحامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "عذراً أين تقع حديقة الحامة؟",
+        "translation": "Excuse me, where is Hamma Park located?"
+      },
+      {
+        "character": "local",
+        "text": "سر في هذا الاتجاه، ستجدها على يسارك بعد 500 متر",
+        "translation": "Go in this direction, you'll find it on your left after 500 meters"
+      },
+      {
+        "character": "tourist",
+        "text": "شكراً لك، أنتم أناس طيبون",
+        "translation": "Thank you, you are good people"
+      }
+    ],
+    "tags": ["street", "help", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "street_help_amazigh",
+    "level": "advanced",
+    "language": "amazigh",
+    "title": "طلب المساعدة في الشارع - الأمازيغية",
+    "description": "محادثة طلب المساعدة والاتجاهات باللغة الأمازيغية",
+    "scenario": "طلب المساعدة في العثور على حديقة الحامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "Ssuref iyi anida yella Hamma Park?",
+        "translation": "Excuse me, where is Hamma Park?"
+      },
+      {
+        "character": "local",
+        "text": "Yeddu ɣer ubrid-a ad t-tafeḍ uzelmad-ik deffir 500 n lmitrat",
+        "translation": "Go this way, you'll find it on your left after 500 meters"
+      },
+      {
+        "character": "tourist",
+        "text": "Tanemmirt-nwen; Kunwi d imdanen yelhan",
+        "translation": "Thank you; you are good people"
+      }
+    ],
+    "tags": ["street", "help", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "street_help_northern_dialect",
+    "level": "advanced",
+    "language": "northern_dialect",
+    "title": "طلب المساعدة في الشارع - الشمال الجزائري",
+    "description": "محادثة طلب المساعدة باللهجة الشمالية الجزائرية",
+    "scenario": "طلب المساعدة في العثور على حديقة الحامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "تعيش وين جاية البارك تع الحامة؟",
+        "translation": "Excuse me, where is Hamma Park?"
+      },
+      {
+        "character": "local",
+        "text": "روح قبالة دك تلقاها على لاڨوش مور 500 متر",
+        "translation": "Go straight, you'll find it on the left after 500 meters"
+      },
+      {
+        "character": "tourist",
+        "text": "ربي يخليك خو نتوما ناس ملاح",
+        "translation": "May God keep you brother, you are good people"
+      }
+    ],
+    "tags": ["street", "help", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "street_help_western_dialect",
+    "level": "advanced",
+    "language": "western_dialect",
+    "title": "طلب المساعدة في الشارع - الغرب الجزائري",
+    "description": "محادثة طلب المساعدة باللهجة الغربية الجزائرية",
+    "scenario": "طلب المساعدة في العثور على حديقة الحامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "حمبوك وين جاية البارك تع الحامة",
+        "translation": "Thank you, where is Hamma Park?"
+      },
+      {
+        "character": "local",
+        "text": "روح نيشان على لاڨوش تاعك مور 500 متر تما",
+        "translation": "Go straight, on your left after 500 meters there"
+      },
+      {
+        "character": "tourist",
+        "text": "حفظك نتوما ناس ملاح بزاف",
+        "translation": "May you be protected, you are very good people"
+      }
+    ],
+    "tags": ["street", "help", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "street_help_eastern_dialect",
+    "level": "advanced",
+    "language": "eastern_dialect",
+    "title": "طلب المساعدة في الشارع - الشرق الجزائري",
+    "description": "محادثة طلب المساعدة باللهجة الشرقية الجزائرية",
+    "scenario": "طلب المساعدة في العثور على حديقة الحامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "تعيش خويا تعرفشي الحامة وين",
+        "translation": "Thank you brother, do you know where Hamma is?"
+      },
+      {
+        "character": "local",
+        "text": "آي امشي طول ترا على لاڨوش راك تلقاها بعد 500 متر",
+        "translation": "Yes, go straight, you'll find it on the left after 500 meters"
+      },
+      {
+        "character": "tourist",
+        "text": "ربي يحفظك نتوما ملاح ياسر",
+        "translation": "May God protect you, you are very good"
+      }
+    ],
+    "tags": ["street", "help", "directions"],
+    "backgroundImage": null
+  },
+  {
+    "id": "street_help_southern_dialect",
+    "level": "advanced",
+    "language": "southern_dialect",
+    "title": "طلب المساعدة في الشارع - الجنوب الجزائري",
+    "description": "محادثة طلب المساعدة باللهجة الجنوبية الجزائرية",
+    "scenario": "طلب المساعدة في العثور على حديقة الحامة",
+    "dialogue": [
+      {
+        "character": "tourist",
+        "text": "ربي وين جاية الحامة",
+        "translation": "Please, where is Hamma?"
+      },
+      {
+        "character": "local",
+        "text": "امشي طول قد قد على ليسرة تاعك تلقاها بعد 500 متر",
+        "translation": "Go straight, on your left you'll find it after 500 meters"
+      },
+      {
+        "character": "tourist",
+        "text": "ربي يحفظك نتوما طيبين",
+        "translation": "May God protect you, you are kind"
+      }
+    ],
+    "tags": ["street", "help", "directions"],
+    "backgroundImage": null
+  }
+]
